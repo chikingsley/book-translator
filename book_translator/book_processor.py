@@ -11,8 +11,6 @@ from dotenv import load_dotenv
 from google import genai
 from pydantic import BaseModel
 
-# --- Pydantic Schemas for Structured Output ---
-
 
 class ChapterSection(BaseModel):
     """Represents a section within a chapter."""
@@ -40,27 +38,19 @@ class TableOfContents(BaseModel):
 
 
 class ChapterContent(BaseModel):
-    """Structured output for chapter content and translation."""
+    """Structured output for chapter content extraction."""
 
-    original_text: str
-    translation: str
+    extracted_text: str
     summary: str
     key_terms: list[str] = []
     notes: str = ""
 
 
-# --- End of Schemas ---
-
-
 class BookProcessor:
-    def __init__(
-        self, api_key: str, source_lang: str = "auto", target_lang: str = "en"
-    ):
-        """Initialize with Gemini 2.5 Flash using latest structured output methods."""
+    def __init__(self, api_key: str):
+        """Initialize with Gemini 2.5 Flash for text extraction."""
         self.client = genai.Client(api_key=api_key)
         self.model_name = "gemini-2.5-flash"
-        self.source_lang = source_lang
-        self.target_lang = target_lang
         self.toc: TableOfContents = TableOfContents()
         self.toc_entries: list[dict[str, Any]] = [] 
         self.project_dir = Path(".")
@@ -107,7 +97,7 @@ class BookProcessor:
             if not toc:
                 print("❌ No table of contents found in PDF!")
                 print("Please add bookmarks manually using PDFgear or similar tool.")
-                print("Then run the book translator again.")
+                print("Then run the book extractor again.")
                 return False
                 
             self.toc_entries = []
@@ -158,8 +148,7 @@ class BookProcessor:
         chapter_dir.mkdir(parents=True, exist_ok=True)
 
         files = {
-            "original.md": chapter_data.get("original_text", ""),
-            "translation.md": chapter_data.get("translation", ""),
+            "content.md": chapter_data.get("extracted_text", ""),
             "metadata.json": json.dumps(
                 {
                     "sequence": chapter_data.get("sequence", chapter_data.get("chapter_num", 0)),
@@ -181,7 +170,7 @@ class BookProcessor:
         sequence = chapter_data.get("sequence", chapter_data.get("chapter_num", 0))
         self._update_progress(sequence)
 
-        self._update_combined_translation(chapter_data)
+        self._update_combined_extraction(chapter_data)
 
     def _update_progress(self, chapter_num: int) -> None:
         """Track progress and generate overview."""
@@ -209,19 +198,20 @@ class BookProcessor:
             f"📊 Progress: {len(progress['completed_chapters'])}/{total_entries} entries"
         )
 
-    def _update_combined_translation(self, chapter_data: dict[str, Any]) -> None:
-        """Append chapter to combined translation file."""
-        combined_file = self.project_dir / "output" / "full_translation.md"
+    def _update_combined_extraction(self, chapter_data: dict[str, Any]) -> None:
+        """Append chapter to combined extracted file."""
+        combined_file = self.project_dir / "output" / "full_content.md"
 
         if not combined_file.exists():
-            header = "# Full Translation\n\n"
+            header = "# Full Book Content\n\n"
             header += "---\n\n"
             combined_file.write_text(header, encoding="utf-8")
 
         title = chapter_data.get('title', chapter_data.get('chapter_title', 'Untitled'))
         chapter_content = f"\n## {title}\n\n"
-        chapter_content += chapter_data.get("translation", "")
+        chapter_content += chapter_data.get("extracted_text", "")
         chapter_content += "\n\n---\n"
+
 
         with open(combined_file, "a", encoding="utf-8") as f:
             f.write(chapter_content)
@@ -241,15 +231,14 @@ class BookProcessor:
             print(f"\n📖 Processing: {entry['title']} (Page {entry['page']})")
 
             entry_prompt = f"""
-            Extract and translate the content for: '{entry['title']}'
+            Extract the content for: '{entry['title']}'
             This content starts on page {entry['page']}.
 
             Instructions:
             1. Find where this section starts (page {entry['page']})
-            2. Extract all text until the next major section begins
-            3. Translate from {self.source_lang} to {self.target_lang}
-            4. Format the translation as clean Markdown
-            5. Use the actual title as the main heading
+            2. Extract ALL text until the next major section begins
+            3. Preserve formatting and structure
+            4. Format as clean Markdown with proper headings
             """
             result: dict[str, Any] | None = None
             try:
@@ -267,8 +256,7 @@ class BookProcessor:
             except Exception as e:
                 print(f"❌ Chapter processing error: {e}")
                 result = {
-                    "original_text": "Extraction failed",
-                    "translation": f"Could not process section. Error: {e}",
+                    "extracted_text": f"Extraction failed. Error: {e}",
                     "summary": "Could not parse response",
                     "notes": str(e),
                     "sequence": entry['sequence'],
@@ -284,7 +272,7 @@ class BookProcessor:
                 ).lower()
                 if action == "r" and result:
                     print(
-                        f"\n--- Translation preview ---\n{result.get('translation', '')[:500]}..."
+                        f"\n--- Extracted content preview ---\n{result.get('extracted_text', '')[:500]}..."
                     )
                     input("\nPress Enter to continue...")
                 elif action == "c":
@@ -307,12 +295,11 @@ def main() -> None:
     load_dotenv()
 
     if len(sys.argv) < 2:
-        print("Usage: book-translator <pdf_file> [target_language]")
-        print("Example: book-translator book.pdf en")
+        print("Usage: book-extractor <pdf_file>")
+        print("Example: book-extractor book.pdf")
         sys.exit(1)
 
     pdf_file = sys.argv[1]
-    target_lang = sys.argv[2] if len(sys.argv) > 2 else "en"
 
     if not os.path.exists(pdf_file):
         print(f"❌ File not found: {pdf_file}")
@@ -323,12 +310,9 @@ def main() -> None:
         print("❌ GEMINI_API_KEY not found in .env file")
         sys.exit(1)
 
-    processor = BookProcessor(
-        api_key=api_key, source_lang="auto", target_lang=target_lang
-    )
+    processor = BookProcessor(api_key=api_key)
 
     print(f"📚 Processing: {pdf_file}")
-    print(f"🌐 Target language: {target_lang}")
 
     processor.process_pdf_direct(pdf_file)
 

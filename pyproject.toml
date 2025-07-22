@@ -8,7 +8,7 @@ package = true
 [project]
 name = "book-translator"
 version = "0.1.0"
-description = "OCR and translate books chapter by chapter using Gemini 2.5 Flash"
+description = "Extract text from PDF books chapter by chapter using Gemini 2.5 Flash"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
