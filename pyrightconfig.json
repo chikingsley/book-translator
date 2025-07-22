@@ -1,0 +1,63 @@
+{
+  "include": ["src", "local_benchmark.py"],
+  "exclude": [
+    "tests/**",
+    "**/__pycache__",
+    "**/.pytest_cache",
+    "**/node_modules",
+    "/*.py",
+    "/*.ipynb",
+    "Pdf_structured_outputs_on_invoices_and_forms.ipynb"
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "strict",
+
+  "reportMissingTypeStubs": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownLambdaType": false,
+
+  "reportMissingParameterType": "error",
+  "reportMissingReturnType": "error",
+  "reportUntypedFunctionDecorator": "error",
+  "reportUntypedClassDecorator": "error",
+  "reportUntypedBaseClass": "error",
+  "reportUntypedNamedTuple": "error",
+
+  "reportIncompatibleMethodOverride": "error",
+  "reportIncompatibleVariableOverride": "error",
+  "reportOverlappingOverload": "error",
+  "reportPropertyTypeMismatch": "error",
+  "reportUninitializedInstanceVariable": "error",
+  "reportConstantRedefinition": "error",
+  "reportInvalidStubStatement": "error",
+  "reportIncompleteStub": "error",
+  "reportUnusedCoroutine": "error",
+
+  "reportUnnecessaryIsInstance": "warning",
+  "reportUnnecessaryCast": "warning",
+  "reportUnnecessaryComparison": "warning",
+  "reportUnnecessaryContains": "warning",
+  "reportAssertAlwaysTrue": "warning",
+  "reportSelfClsParameterName": "warning",
+  "reportImplicitOverride": "warning",
+  "reportUnsupportedDunderAll": "warning",
+  "reportPrivateUsage": "warning",
+
+  "reportImplicitStringConcatenation": false,
+  "reportMissingSuperCall": false,
+  "reportCallInDefaultInitializer": false,
+
+  "reportNoReturnInFunction": "error",
+  "reportRedundantCast": "warning",
+  "reportReturnAny": "warning",
+  "reportUnreachable": "warning",
+  "reportUnusedIgnoreComment": "warning",
+  "strictListInference": true,
+  "strictDictionaryInference": true,
+  "strictParameterNoneValue": true,
+  "strictSetInference": true
+}

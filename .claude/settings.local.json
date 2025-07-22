@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(uv sync:*)",
+      "Bash(uv run:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:ai.google.dev)",
+      "Bash(python -m mypy:*)",
+      "Bash(uv pip:*)"
+    ],
+    "deny": []
+  }
+}
