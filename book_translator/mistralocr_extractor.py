@@ -1,13 +1,16 @@
+"""Mistral OCR extractor for PDF documents."""
+
 import base64
 import os
-import sys
 import re
-from typing import Optional, Tuple, List
+import sys
 from pathlib import Path
-from mistralai import Mistral
-from dotenv import load_dotenv
 
-def encode_pdf(pdf_path: str) -> Optional[str]:
+from dotenv import load_dotenv
+from mistralai import Mistral
+
+
+def encode_pdf(pdf_path: str) -> str | None:
     """Encode the pdf to base64."""
     try:
         with open(pdf_path, "rb") as pdf_file:
@@ -56,11 +59,9 @@ def process_footnotes(text: str) -> str:
     return '\n'.join(processed_lines)
 
 def main() -> None:
-    if len(sys.argv) != 2:
-        print("Usage: python mistralocr_extractor.py <path_to_pdf>")
-        sys.exit(1)
-    
-    pdf_path = sys.argv[1]
+    """Run Mistral OCR extraction on PDF."""
+    # Hardcoded PDF path
+    pdf_path = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
     
     # Load environment variables from .env file
     load_dotenv()
@@ -102,9 +103,9 @@ def main() -> None:
     print("Processing footnote references...")
     full_markdown = process_footnotes(full_markdown)
     
-    # Generate output filename
+    # Generate output filename with -mistral suffix
     input_path = Path(pdf_path)
-    output_path = input_path.with_suffix('.md')
+    output_path = input_path.with_stem(input_path.stem + '-mistral').with_suffix('.md')
     
     # Save to file
     save_markdown(full_markdown, str(output_path))

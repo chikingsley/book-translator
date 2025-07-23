@@ -10,7 +10,9 @@
       "Bash(find:*)",
       "WebFetch(domain:ai.google.dev)",
       "Bash(python -m mypy:*)",
-      "Bash(uv pip:*)"
+      "Bash(uv pip:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(uv add:*)"
     ],
     "deny": []
   }

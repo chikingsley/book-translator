@@ -1,0 +1,22 @@
+[build-system]
+requires = ["uv_build>=0.7.19,<0.8.0"]
+build-backend = "uv_build"
+
+[project]
+name = "bun-ocr-pdf-viewer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.1",
+    "mistralai>=1.9.2",
+    "python-dotenv>=1.1.1",
+    "uvicorn>=0.35.0",
+    "python-multipart>=0.0.9",
+    "PyMuPDF>=1.24.9",
+    "Pillow>=10.5.0",
+]
+
+[dependency-groups]
+dev = ["pyright>=1.1.403", "ruff>=0.12.4"]

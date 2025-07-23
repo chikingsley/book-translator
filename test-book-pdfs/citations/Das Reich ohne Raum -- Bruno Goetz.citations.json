@@ -1,0 +1,914 @@
+[
+  {
+    "footnote_num": 1,
+    "raw_text": "${ }^{1} $ Diese Methode der Jung'schen Psychologie dient der Amplifikation des Bildes, durch welche man dessen Bedeutungskern näher kommt. Vgl. hierüber C. G. Jung: Einführung in das Wesen der Mythologie. Rheinverlag Zürich 1951, p. 112 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Einführung in das Wesen der Mythologie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 112 ff.",
+    "year": 1951,
+    "publisher": "Rheinverlag",
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": "2a",
+    "raw_text": "${ }^{2}$ Vgl. hiezu auch: G. L. Mosse: The mystical origins of National socialism. Journal of the History of Ideas. N. Y. Vol. XXII,Jan-March 1961 - p. 81 ff.",
+    "authors": [
+      {
+        "firstname": "George L.",
+        "surname": "Mosse"
+      }
+    ],
+    "title": "The mystical origins of National socialism",
+    "journal": "Journal of the History of Ideas",
+    "volume": "XXII",
+    "issue": "Jan-March",
+    "pages": "p. 81 ff.",
+    "year": 1961,
+    "publisher": null,
+    "location": "N. Y.",
+    "edition": null,
+    "citation_type": "journal",
+    "notes": null
+  },
+  {
+    "footnote_num": "2b",
+    "raw_text": "${ }^{2}$ und H. Schwerte: Faust und das Faustische. Stuttgart 1962 passim.",
+    "authors": [
+      {
+        "firstname": "H.",
+        "surname": "Schwerte"
+      }
+    ],
+    "title": "Faust und das Faustische",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": 1962,
+    "publisher": null,
+    "location": "Stuttgart",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "passim"
+  },
+  {
+    "footnote_num": 3,
+    "raw_text": "${ }^{3}$ Aufsätze zur Zeitgeschichte, Zürich 1946, p. 5 ff. und sein Hinweis auf Bruno Goetz ibid. p. io u. p. 93.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Aufsätze zur Zeitgeschichte",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 5 ff.",
+    "year": 1946,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "und sein Hinweis auf Bruno Goetz ibid. p. 10 u. p. 93"
+  },
+  {
+    "footnote_num": 4,
+    "raw_text": "${ }^{4} $ Wodan und germanischer Schicksalsglaube, Jena 1953, p. 73 f.",
+    "authors": [
+      {
+        "firstname": "Martin",
+        "surname": "Ninck"
+      }
+    ],
+    "title": "Wodan und germanischer Schicksalsglaube",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 73 f.",
+    "year": 1953,
+    "publisher": null,
+    "location": "Jena",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 5,
+    "raw_text": "${ }^{5}$ Für Belege vergl. C. G. Jung Symbole der Wandlung, IV. Aufl., 1952, p. 427 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Symbole der Wandlung",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 427 ff.",
+    "year": 1952,
+    "publisher": null,
+    "location": null,
+    "edition": "IV. Aufl.",
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 6,
+    "raw_text": "${ }^{6} $ Vgl. C. G. Jung: Einführung in das Wesen der Mythologie, 1. c. p. 117 und p. 142 f.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Einführung in das Wesen der Mythologie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 117 und p. 142 f.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "l.c."
+  },
+  {
+    "footnote_num": 7,
+    "raw_text": "${ }^{7}$ Vgl. ebenda.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Einführung in das Wesen der Mythologie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 6"
+  },
+  {
+    "footnote_num": 8,
+    "raw_text": "${ }^{8}$ ebenda p. 144",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Einführung in das Wesen der Mythologie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 144",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 7"
+  },
+  {
+    "footnote_num": 9,
+    "raw_text": "${ }^{9} $ Vgl. C. G. Jung: Symbole der Wandlung 1. c. p. 335 ff. ${ }^{10}$ Metamorphosen IV, 18 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Symbole der Wandlung",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 335 ff.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "l.c."
+  },
+  {
+    "footnote_num": 10,
+    "raw_text": "${ }^{10} $ Metamorphosen IV, 18 ff.",
+    "authors": [
+      {
+        "firstname": null,
+        "surname": "Ovid"
+      }
+    ],
+    "title": "Metamorphosen",
+    "journal": null,
+    "volume": "IV",
+    "issue": null,
+    "pages": "18 ff.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 11,
+    "raw_text": "${ }^{11} $ Vgl. hiezu ausführlicher C. G. Jung: Von den Wurzeln des Bewußtseins, Zürich 1954, p. 10 I f.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Von den Wurzeln des Bewußtseins",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 101 f.",
+    "year": 1954,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 12,
+    "raw_text": "${ }^{12} $ Vgl. besonders: Psychologie und Alchemie, Zürich 1944 und: Mysterium Coniunctionis, 3 Vols. 1955-1957.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Psychologie und Alchemie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": 1944,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 13,
+    "raw_text": "${ }^{13}$ Vgl. C. G. Jung: Psychologie und Alchemie 1. c. p. 41 f.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Psychologie und Alchemie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 41 f.",
+    "year": 1944,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 12"
+  },
+  {
+    "footnote_num": 14,
+    "raw_text": "${ }^{14}$ Vgl. Hedwig von Beit: Gegensatz und Erneuerung im Märchen, Bern, 1956, p. 382 ff. und dieselbe: Symbolik des Märchens, Bern, 1952, p. 369.",
+    "authors": [
+      {
+        "firstname": "Hedwig",
+        "surname": "von Beit"
+      }
+    ],
+    "title": "Gegensatz und Erneuerung im Märchen",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 382 ff.",
+    "year": 1956,
+    "publisher": null,
+    "location": "Bern",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 15,
+    "raw_text": "${ }^{15} $ Vgl. C. G. Jung: Aion, Zürich 1951, p. 27 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Aion",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 27 ff.",
+    "year": 1951,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 16,
+    "raw_text": "${ }^{16}$ Nicht ein Flügelschlag ging durch die Welt, Still und blendend lag der weiße Schnee. Nicht ein Wölklein hing am Sternenzelt, Keine Welle schlug im starren See. Aus der Tiefe stieg der Seebaum auf, Bis sein Wipfel in dem Eis gefror. An den Asten klomm die Nix herauf, Schaute durch das grüne Eis empor. Auf dem dünnen Glase stand ich da, Das die schwarze Tiefe von mir schied; Dicht ich unter meinen Füßen sah Ihre weiße Schönheit, Glied um Glied. Mit ersticktem Jammer tastet sie An der harten Decke her und hin. Ich vergeß das dunkle Antlitz nie, Immer immer liegt es mir im Sinn.",
+    "authors": [
+      {
+        "firstname": "Gottfried",
+        "surname": "Keller"
+      }
+    ],
+    "title": "Winternacht",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "poem",
+    "notes": "Complete poem quoted in text"
+  },
+  {
+    "footnote_num": 17,
+    "raw_text": "${ }^{17}$ Vgl. u. a. C. G. Jung. Seminarien F. Nietzsche's Zarathustra. Part. 8, Zürich 1937.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Seminarien F. Nietzsche's Zarathustra",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": 1937,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 18,
+    "raw_text": "${ }^{18} $ Vgl. den psychologischen Kommentar zu Hoffmanns Goldenem Topf von A. Jaffé in: C. G. Jung: Gestaltungen des Unbewußten, Zürich 1950, p. 239 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      },
+      {
+        "firstname": "A.",
+        "surname": "Jaffé"
+      }
+    ],
+    "title": "Gestaltungen des Unbewußten",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 239 ff.",
+    "year": 1950,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Includes a psychological commentary on Hoffmann's Goldenem Topf by A. Jaffé"
+  },
+  {
+    "footnote_num": 19,
+    "raw_text": "${ }^{19} $ Vgl. C. G. Jung: Symbole der Wandlung 1. c. p. 598 f.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Gestaltungen des Unbewußten",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 598 f.",
+    "year": 1950,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 18"
+  },
+  {
+    "footnote_num": 20,
+    "raw_text": "${ }^{20}$ Einführung in das Wesen der Mythologie 1. c. p. 120 u. 133 ff .",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Gestaltungen des Unbewußten",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 120 u. 133 ff",
+    "year": 1950,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 19"
+  },
+  {
+    "footnote_num": 21,
+    "raw_text": "${ }^{21} $ Vgl. C. G. Jung: Psychologie und Alchemie 1. c. p. ior ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Gestaltungen des Unbewußten",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 101 ff.",
+    "year": 1950,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 20"
+  },
+  {
+    "footnote_num": 22,
+    "raw_text": "${ }^{22}$ Vgl. C. G. Jung: Mysterium Coniunctionis, Vol. I, p. 100 f.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Mysterium Coniunctionis",
+    "journal": null,
+    "volume": 1,
+    "issue": null,
+    "pages": "p. 100 f.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 23,
+    "raw_text": "${ }^{23} $ ebenda, Vol. II, p. 56 f. und p. 82 f.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Mysterium Coniunctionis",
+    "journal": null,
+    "volume": "II",
+    "issue": null,
+    "pages": "p. 56 f. und p. 82 f.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 22"
+  },
+  {
+    "footnote_num": 24,
+    "raw_text": "${ }^{24}$ Vgl. Charles Luk: Ch'an and Zen Teaching, London 1960, p. 2 I.",
+    "authors": [
+      {
+        "firstname": "Charles",
+        "surname": "Luk"
+      }
+    ],
+    "title": "Ch'an and Zen Teaching",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 2 I",
+    "year": 1960,
+    "publisher": null,
+    "location": "London",
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 25,
+    "raw_text": "${ }^{25} $ Von den Wurzeln des Bewußtseins 1. c. p. ros.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Von den Wurzeln des Bewußtseins",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 105",
+    "year": 1954,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 11"
+  },
+  {
+    "footnote_num": 26,
+    "raw_text": "${ }^{26} $ Vgl. Psychologie und Alchemie 1. c. p. 324 ff.",
+    "authors": [
+      {
+        "firstname": null,
+        "surname": null
+      }
+    ],
+    "title": "Psychologie und Alchemie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 324 ff.",
+    "year": 1944,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 13"
+  },
+  {
+    "footnote_num": 27,
+    "raw_text": "${ }^{27}$ Uber diesen Begriff vgl. C. G. Jung: Symbole der Wandlung l. c. p. 655 .",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Symbole der Wandlung",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 655",
+    "year": 1952,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "l.c."
+  },
+  {
+    "footnote_num": 28,
+    "raw_text": "${ }^{28} $ Das französische Wort blanc, weiß, ist verwandt mit deutsch blank und englisch black-schwarz!",
+    "authors": null,
+    "title": null,
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "explanatory_note",
+    "notes": "Linguistic note comparing French 'blanc' (white) with German 'blank' and English 'black' (black)"
+  },
+  {
+    "footnote_num": 29,
+    "raw_text": "${ }^{29}$ Auch Christus wurde als senex et puer bezeichnet.",
+    "authors": null,
+    "title": null,
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "explanatory_note",
+    "notes": "Theological note: Christ was also referred to as senex et puer (old man and child)"
+  },
+  {
+    "footnote_num": 30,
+    "raw_text": "${ }^{30}$ Mysterium Coniunctionis, Vol. II, p. 86.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Mysterium Coniunctionis",
+    "journal": null,
+    "volume": 2,
+    "issue": null,
+    "pages": "p. 86",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": null
+  },
+  {
+    "footnote_num": 31,
+    "raw_text": "${ }^{31}$ Vgl. ebda p. 103.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Mysterium Coniunctionis",
+    "journal": null,
+    "volume": 2,
+    "issue": null,
+    "pages": "p. 103",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 30"
+  },
+  {
+    "footnote_num": 32,
+    "raw_text": "${ }^{32} $ Jung, Einführung in das Wesen der Mythologie, 1. c. p. 126.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Mysterium Coniunctionis",
+    "journal": null,
+    "volume": 2,
+    "issue": null,
+    "pages": "p. 126",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 31"
+  },
+  {
+    "footnote_num": 33,
+    "raw_text": "${ }^{33} $ Der Archetypus des Puer aeternus symbolisiert dann einfach einen unerfreulichen Infantilismus der Persönlichkeit. Vgl. C. G. Jung: Seminar über Dream Analysis, Vol. II, 1929, p. 76.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Seminar über Dream Analysis",
+    "journal": null,
+    "volume": "II",
+    "issue": null,
+    "pages": "p. 76",
+    "year": 1929,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book_series",
+    "notes": null
+  },
+  {
+    "footnote_num": 34,
+    "raw_text": "${ }^{34}$ Unter Animus versteht Jung die männliche seelische Komponente in der Frau, die sich oft als eine gewisse meinungsgebundene Starrheit äußert, durch welche sie den Mann von sich wegschockiert.",
+    "authors": null,
+    "title": null,
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "explanatory_note",
+    "notes": "Definition of Jung's concept of 'animus' in women"
+  },
+  {
+    "footnote_num": 35,
+    "raw_text": "${ }^{35} $ Für Belege vgl. H. von Beit: Symbolik des Märchens 1. c. Vol. I, p. 152, 474 ff., 661-663.",
+    "authors": [
+      {
+        "firstname": "H.",
+        "surname": "von Beit"
+      }
+    ],
+    "title": "Symbolik des Märchens",
+    "journal": null,
+    "volume": 1,
+    "issue": null,
+    "pages": "p. 152, 474 ff., 661-663",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "l.c."
+  },
+  {
+    "footnote_num": 36,
+    "raw_text": "${ }^{36} $ Vgl. C. G. Jung. Symbole der Wandlung 1. c. p. 377 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Seminar über Dream Analysis",
+    "journal": null,
+    "volume": "II",
+    "issue": null,
+    "pages": "p. 377 ff.",
+    "year": 1929,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book_series",
+    "notes": "Reference to footnote 33"
+  },
+  {
+    "footnote_num": 37,
+    "raw_text": "${ }^{37} $ Vgl. C. G. Jung, ebenda, p. 394, 422 und 733.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Seminar über Dream Analysis",
+    "journal": null,
+    "volume": "II",
+    "issue": null,
+    "pages": "p. 394, 422 und 733",
+    "year": 1929,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book_series",
+    "notes": "Reference to footnote 36"
+  },
+  {
+    "footnote_num": 38,
+    "raw_text": "${ }^{38}$ Vgl. C. G. Jung und W. Pauli: Naturerklärung und Psyche. Zürich, 1952, passim.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      },
+      {
+        "firstname": "W.",
+        "surname": "Pauli"
+      }
+    ],
+    "title": "Naturerklärung und Psyche",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": 1952,
+    "publisher": null,
+    "location": "Zürich",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "passim"
+  },
+  {
+    "footnote_num": 39,
+    "raw_text": "${ }^{39}$ Vgl. Richard Wilhelm: J-Ging, Das Buch der Wandlungen. Diederichs, Jena. Kap. No. 30 (Li). Dieses Buch war Bruno Goetz bekannt.",
+    "authors": [
+      {
+        "firstname": "Richard",
+        "surname": "Wilhelm"
+      }
+    ],
+    "title": "J-Ging, Das Buch der Wandlungen",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": "Diederichs",
+    "location": "Jena",
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Kap. No. 30 (Li). Dieses Buch war Bruno Goetz bekannt."
+  },
+  {
+    "footnote_num": 40,
+    "raw_text": "${ }^{40} $ Vgl. C. G. Jung: Psychologie und Alchemie 1. c. p. 455.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Psychologie und Alchemie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 455",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "l.c."
+  },
+  {
+    "footnote_num": 41,
+    "raw_text": "${ }^{41} $ Vgl. H. von Beit: Symbolik des Märchens, I, 1. c. p. 61 ff.",
+    "authors": [
+      {
+        "firstname": "H.",
+        "surname": "von Beit"
+      }
+    ],
+    "title": "Symbolik des Märchens",
+    "journal": null,
+    "volume": 1,
+    "issue": null,
+    "pages": "p. 61 ff.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book_series",
+    "notes": "l.c."
+  },
+  {
+    "footnote_num": 42,
+    "raw_text": "${ }^{42} $ Vgl. C. G. Jung: Symbole der Wandlung, 1. c. p. 209 ff.",
+    "authors": [
+      {
+        "firstname": "C. G.",
+        "surname": "Jung"
+      }
+    ],
+    "title": "Psychologie und Alchemie",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": "p. 209 ff.",
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "book",
+    "notes": "Reference to footnote 40"
+  },
+  {
+    "footnote_num": 43,
+    "raw_text": "${ }^{43}$ Der Leser könnte sich wundern, daß ich hier nur den Protestantismus, zu dem ich mich selber bekenne, erwähne; doch ist die Symbolik des Buches nur kompensatorisch zu einer vorwiegend protestantischen Bewußtseinsorientierung zu verstehen. Die entsprechenden unbewußten Prozesse, die ein vorwiegend katholisches Bewußtsein kompensieren, würden nicht «besser», aber wesentlich anders beschaffen aussehen.",
+    "authors": null,
+    "title": null,
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": null,
+    "publisher": null,
+    "location": null,
+    "edition": null,
+    "citation_type": "explanatory_note",
+    "notes": "Author's personal note explaining the Protestant perspective of the book's symbolism"
+  }
+]

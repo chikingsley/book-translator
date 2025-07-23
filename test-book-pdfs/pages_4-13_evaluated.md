@@ -1,0 +1,112 @@
+# pages_4-13_evaluated.md
+
+## Semantic Evaluation by Gemini 2.5 Pro
+
+### Marking system
+
+- **disputed (...)** = OCR engine disagreements (unchanged from consensus)
+- *text* = Semantic/grammar issues found by evaluator
+- [text in brackets] = Evaluator's comments and recommendations
+- Evaluation reports appear after each major section
+- `user eval correct` - user checked the book and verified
+
+---
+
+VORWORT
+
+Befremdlich und beglückend, verwirrend oft und wieder heilsam leben die Dichter unter uns: Erzähler sinniger Mären, erbauliche Belehrer, Mahner und Tröster, Quäler und Verklärer, die des Umgangs mit den letzten Dingen gewohnt sind. Ihr Geschlecht ist an bunter Vielfalt so reich wie der Reichtum der Welt selbst. Sie verwalten das Wort anders, als wir es gebrauchen, leben im Wunder der Sprache als seine Diener, als seine Meister, beschwörend, betörend wie die Magier. Alle Charaktere, alle Blutspiele finden sich unter ihnen: Nicht nur die Olympier, die das Wort sonnenhaft strahlen lassen, die den reinen Goldglanz des Schönen über alle Dinge werfen, – auch die Lastträger dumpfer Gesichte, die um die Kellertiere der Seele wissen, die den Gespenstern am hellen Tage begegnen. Manche stammeln unter dem Druck der sie bedrängenden strengen Gnade, Deutende im unerklärlichen Auftrag, selber erschrocken über die wunden Geburten ihres Wortes. Sie sprechen aus, was unseren mühenden Mund bedrängt, wonach unser unruhvolles Herz sehnend verlangt –
+»Was von Menschen nicht gewußt,
+Oder nicht bedacht,
+Durch das Labyrinth der Brust
+Wandelt in der Nacht«.
+
+Es gibt Dichter, deren Breite allen gehört, und solche, die nur auf schmaler Wellenlänge senden, ganz nur für das ihnen **disputed (Mistral: `zubestimmte` / Gemini: zustimmende)** Organ. [Mistral likely correct - "zubestimmte" (destined/appointed) makes more sense than "zustimmende" (agreeing) in the context of a specific, fitting recipient.] Wir selber wandeln uns im Kreise der Jahre: die einmal hocherregten Empfänger klingen ab, neue erwachen im reicher erfahrenen Gehör. So auch steigt eine Dichtung aus dem Nährnetz der Zeit, wie überzeitlich sie sich selbst verstehen mag, ergreift die Genossen ihrer Tage und versinkt für das Begreifen der Späteren wieder. Als das »Reich ohne Raum«, diese wunderliche »Chronik wunderlicher Begebenheiten» 1919 erstmals erschien, wurde es vornehmlich von den Suchenden der damaligen Jugendbewegung aufgegriffen. Nach dem verlorenen Kriege mochte sie der mystische Titel ebenso ansprechen, wie die Schilderung der dämonischen Welt im eigenen Innern. Großgeartet liegt zumeist die Geschichte der Schreibenden vor uns, nicht dagegen die flüchtige, schwerer zu erfassende der Leser, die Geschichte ihres Betroffenseins, ihrer stummen Zwiesprache mit dem dichterischen Werke, seiner Aufnahme und Wirkung. Nun tritt hier die dritte Auflage vor Leser, denen das Reich der Dämonen längst grauenhaft vor Augen steht.
+
+Bruno Goetz wurde am 6. November 1885 in Riga geboren, deutschbaltischen und russischen Blutes. Seine Jugend prägte die Weite des Meeres und die Weite der russischen Ebene. Er hat sie als Schwere erlebt, mit der Schwermut gekämpft. Ein erlösendes Fernweh trieb ihn nach dem Süden. Es ist zugleich sein Weg aus dem Dämonendunkel in die Götterhelle gewesen, – ein Wanderer und Ringender blieb er bis in die sieghafte Reife. Vergeblich umwarb sein Wünschen noch die alten Totenstädte in und um Neapel, der Tod selbst versagte ihm den Kronwunsch, einmal doch Paestum zu sehen. Er starb in Zürich am 19. März 1954.
+
+***
+
+Bruno Goetz feierte die »Götter«. Das klingt antik und ist es auch. Es sind nicht nur die Dämonen, die im Dunkel der Welt treiben. Die Gottheit west, Gott ist, die »Götter» wirken. »Meine Jugend«, sagt er in seiner autobiographischen Skizze, »fiel in die Periode des noch unerschütterten Aberglaubens an die Wundermacht der mechanistischen Naturwissenschaften und des allgemeinen ignoranten Unglaubens an die religiösen und metaphysischen Lebensgewalten. Solange ich denken kann, bin ich dieser entgötterten und entseelten Welt, deren höllisches Geheimnis in den beiden Weltkriegen wie eine Eiterbeule aufbrach, fremd und feind geblieben. Die mythischen Mächte, die mythischen Bilder, die Götter, die unerkannt auch heute noch in den Tiefen aller Seelen **disputed (Mistral: `wesen` / Gemini: weilen)** [Mistral likely correct - the archaic verb "wesen" (to exist, to be active) fits the philosophical and high-flown style of the text slightly better than "weilen" (to dwell, linger).], sind der Quellgrund meiner Dichtungen.»
+
+Bruno Goetz war ein **disputed (Mistral: `seinsfrommer` / Gemini: feinsinniger)** Mensch, der den Seinsmächten ehrfürchtig begegnete. [Mistral clearly correct - "seinsfrommer" is a precise neologism meaning "pious towards Being" which is explained by the following clause, whereas "feinsinniger" (sensitive) is too general.] Wo er diese als »Götter» ehrt, wird seine Sprache festlich, seine Haltung feierlich, kultisch, seine Dichtung priesterlich. Er wäre darin leicht als ein Romantiker zu mißverstehen. Aber er klagt weder unwiederbringlich-Verlorenem nach, noch lebt in ihm das humanistisch-rekonstruierende Entzücken über dem Vergangenen. Ihm war es gegeben, »die Urgewalten der Seele und des Leibes in Gestalt von Göttern zu erschauen». (Nachwort zu »Der Lobgesang», 1927). »Die Götter in meinen Balladen sind weder Sagen- und Märchengestalten, noch Allegorien, sondern lebendig-gegenwärtige Mächte. Unserer Hinwendung zu ihnen begegnet ihre Hinwendung zu uns. Um erscheinen und sich auswirken zu können, bedürfen die Götter der Menschen; um sich vollenden und ihre Bestimmung erfüllen zu können, bedürfen die Menschen der Götter.» (Nachwort zu »Der Gott und die Schlange», 1949). Allem »neuen Heidentum» gegenüber wahrte er entschiedene Distanz. Zwischen Gott und den Göttern besteht ein grundsätzlicher Unterschied. »Götter nennen wir die urbildhaften Erscheinungsformen des Göttlichen im menschlichen Bewußtsein, die folglich von den Wandlungen dieses Bewußtseins in den verschiedenen Weltepochen abhängig sind, während Gott selbst jenseits aller bildhaften Gestaltungen wandellos besteht.» Daß er damit ins Pantheisieren gerät, ist ihm wohl immer dunkel bewußt gewesen. Er steht im nämlichen Problemtreiben wie Schelling. Alles ist göttlich, auch das Widergöttliche, das Dämonische, Gott entläßt es in den Lauf der Welt, um es einst zu überwinden. »Die große Dichtung aller Zeiten und Völker ist immer die unmittelbare oder mittelbare Selbstoffenbarung der dämonischen und göttlichen Mächte im jeweiligen Heute und Hier durch das Bild und das schöpferische Wort gewesen. Auch unsere heutige Dichtung kann, soweit sie wirklich Dichtung ist, nichts anderes sein.» Er rang um die »endliche Versöhnung und Verschmelzung des heidnischen mit dem christlichen Geiste», als dem »einzigen Ausweg aus dem tragischen Zwiespalt der in sich zerrissenen europäischen Seele. Hier ist der bald verborgene, bald offenkundige Hintergrund fast aller meiner Dichtungen zu suchen... erst durch die Bindung an die göttlichen Urbilder finden wir wieder zum schöpferischen Mittelpunkt unseres Daseins zurück». (»Autobiographische Skizze»).
+
+Über Carl Spittelers »Prometheus und Epimetheus» schrieb der greise Gottfried Keller an den jungen Josef Viktor Widmann: »Die Sache kommt mir beinahe vor, wie wenn ein urweltlicher Poet aus der Zeit, wo die Religionen und Göttersagen wuchsen und doch schon vieles erlebt war, heute unvermittelt ans Licht träte und seinen mysteriösen und großartig naiven Gesang anstimmte.» Sind die Religionen als Produkte einer einst besonders schöpferisch gewesenen Phantasie anzusprechen, deren Kraft seither erlosch und die sich nur noch gelegentlich, schlummernden, alten Vulkanen gleich, in begnadeten Spätlingen befreit? Oder spricht sich Gott selbst durch den Mund des Dichters in den »Göttern» aus, deren Gestalt dem Wandel des Zeitlichen unterliegt? Unser Jahrhundert hat dunkle Religionen und Dämonen in **disputed (Mistral: `schauerlicher` / Gemini: scheußlicher)** [Gemini likely correct - "scheußlicher" (hideous, abominable) conveys a stronger sense of moral revulsion that fits the context of 20th-century destructive mass movements better than the more gothic "schauerlicher" (ghastly).] Fülle wachsen gesehen, *die **disputed (Mistral: `kämpfenden` / Gemini: empfundenen)** Götter sind im brütenden Bewußtsein der alles Archaische entfesselnden Massen wieder aufgebrochen.* `sentence is correct` [Mistral's "kämpfenden" (fighting) is syntactically possible but semantically strange. Gemini's "empfundenen" (felt) is grammatically awkward. The sentence as a whole is problematic, as the word choice for "Götter" is unclear and the connection between the two clauses is abrupt. A word like "schlafenden" (sleeping) would fit the context of "wieder aufgebrochen" (broken out again) far better, suggesting a possible OCR error in both sources.] Sind es die alten Götter in neuer Gestalt? Sind es neue Götter der ewig-alten Gottheit? Hat sie der eine Gott nicht alle längst überwunden?
+
+***
+
+Die Rede von den »Göttern« wird nicht nur dem Christen zum Ärgernis und zur Anfechtung, sondern ebenso dem Mann der Wissenschaft, der sie längst totgesagt, längst hinwegerklärt glaubte. Wie kann nur einer in dieser Zeit des wüsten Dämonenaufbruchs solche »Götter» rühmen, die über die schlecht behütete Schwelle der Seelentiefe verderbenbringend ganze Völker befallen? Wer sie ehrend beschwört, mußte der nicht selbst in tödliche Nachbarschaften, in ein fatalstes Zwielicht geraten? Es ist das eigentliche Wunder dieses Dichterlebens gewesen, daß Bruno Goetz das Inferno des »Reiches ohne Raum» überwand, in seinem chaotischen Aufbruch aber hinüberfand zu den göttlichen Seinsmächten und zum heilen Wort.
+
+Die Prieuré des Moines d'Amay sur Meuse hütet eine wunderbare Darstellung des Evangelisten Matthäus: großer, bärtiger Kopf mit ruhig sinnenden Augen; seiner linken Schulter angelehnt ein kleiner beflügelter Engel, der ihm ins Ohr spricht. Dasselbe Motiv gestaltete Rembrandt 1661 deutlicher noch im Matthäusbild der Louvre-Sammlung. Man sieht den Evangelisten mit der bereiten Schreibfeder in der Hand auf die »Verbalinspiration» des Engels, des Gottesboten, lauschen. Was er schreibt, das hat er sich nicht selbst ausgedacht, hat er sich nicht selbst gesagt. Gott allein ist in dieser »Theopneustie» der Autor, Matthäus nur der hörende, gehorsame Schreiber. Wir wüssten nicht von Gott, hätte er sich nicht selbst kundgegeben. Wie, wenn nun die Dichter von »Göttern» berichten? Woher die Kunde? Sind es lediglich Geschöpfe ihrer Einbildungskraft, ihrer Phantasie? Ist es Fabel, ist es Wahrheit, wenn sie alte Sagen, altes Sagen wieder aufnehmen, von Wode etwa, dem wilden Jäger? Die Frage geht erregend durch die Jahrhunderte, schäumt wetterleuchtend in Schelling auf und ermattet dann in der Zeit des Positivismus, der den Mythen ihren Glanz nahm und in allen Glauben nur noch Aberglauben sah.
+
+Wahr nennen wir eine Vorstellung, die sich mit der beobachteten Sache deckt. Wir finden die Glockenblume, wir erfinden sie nicht. Sind wir ihres Bildes in uns ungewiß, vermögen wir zu ihr zurückzukehren, um es zu verbessern, zu sichern. Das ist mit den Gestalten der Phantasie anders. Ihnen scheint keine Erfahrung in der äußeren Welt zu entsprechen, für sie läßt sich keine reale Entsprechung finden, an der wir sie korrigieren und stärken könnten. Daß der Dichter wirklich neue Geschöpfe schafft, die nur von Gnaden seiner Phantasie bestehen, die es nur in dieser gibt, mag zugestanden werden. Aber es kann auch sein, daß in seinem Schaffen, ihm unbewußt, ein zweiter Schöpfer mitwirkt. Er glaubt zu schieben und ist doch der Geschobene. Während er an seinen Gestalten sinnt und baut, strömen mitgestaltende Schöpferpotenzen in sein Tun. Aus dem »Unbewussten», wie der unglückliche Terminus immer noch lautet. Denn das was dieser in bloßer, inhaltsleerer Negation umschreibt, enthält den objektiven, mythenschaffenden Kern der Seele. Seine Entdeckung bleibt das große Verdienst Carl Gustav Jungs. Mit ihr gelingt es, das gesamte Phantasieschaffen des Menschen, vom Träumen über die sacrale Dichtung bis in die scheinbaren Abstrusitäten der gnostischen Alchymie überraschend aufzuhellen.
+
+So lassen sich die »Götter« in der Erfahrung der äußeren Welt nicht aufweisen; hier fehlt das faßbare Gegenbild, an dem sie einen objektiven Rückhalt hätten: sie gehören der Wirklichkeit der Seele an. Dort besitzen sie ihre Substrate. »Mythen« und »Götter« erscheinen als Bildprojektionen von objektiven, im Träumen und Dichten sich bezeugenden schöpferisch-seelischen Mächten. Wo wir sie in der äußeren Welt verleiben, holt uns die Kantische Kritik wieder ein. Aber die Seele selbst gehört zur Welt. Das Innere ist so welthaft wie nur das Gestein und der Baum. Darum hat es einen verwirrend tiefen Sinn, die »Götter« dennoch als Seinsmächte anzusprechen.
+
+***
+
+Wohl hat Bruno Goetz immer wieder versucht, dem Sinn des eigenen Dichtens nachzuspüren. Aber er war kein Cartesianer, kein Dialektiker, kein Forscher. Wie Sigmund Freud, dem kaum 20 Jährigen, seine kommende Sicherheit vorausahnend, von einer Analyse abriet, so scheute Goetz sich selbstschützend vor allzu resoluten Begriffsbädern der Philosophie. Er blieb sein eigener Gärtner im inneren Aufbruch. Dichtung hat sacralen Ursprung, das Schaffen am »Wortbilderleib» der Seele ist Dienst am Reich. Auch dieser belasteten Vokabel hält er unbeirrbar die Treue. »Verhehlen wir es uns nicht», schrieb er im Jahre 1935, **missing in Gemini: [»das Reich ist noch fern, ferner denn je. Was heute Reich genannt wird, trägt fälschlich diesen Namen.]** [Mistral is correct to include this text. The omission by Gemini is a major error, as this quote is crucial for understanding Goetz's distinction between his spiritual "Reich" and the political "Third Reich" of 1935.] »Es ist nicht Reich, es ist Staat. Ein anderes ist der Sinn des Reiches, ein anderes der Sinn des Staates. Die große deutsche Dichtung aber meint das Reich, sie meint die Überwölbung der Völker und ihrer Staaten durch das Reich, sie meint die ewige Brücke von Nord nach Süd, von Ost nach West». (»Deutsche Dichtung», Luzern 1935). Der hier wirkende Archetyp berührt wohl das mittelalterliche Sacrum imperium, aber es ist keine romantische Schau aus Heimweh, keine Beschwörung eines neuen Mittelalters, – das kommende heilige Reich ist im Wandel seiner Gestalt noch ursprünglicher, noch zeitloser gesehen.
+
+Ein Anwalt aller mütterlichen Mächte, des Tragenden im Sein, der Nährböden, der Wurzelreiche, liebte er das Leben und seine Brunnenstuben. Die Verecundia galt dem Wasser, dem Feuer, Wind und Erde, den Elementen, dem Elementarischen. Galt dem Seerosenweiher unter kreisenden Sternen, überblühtem Gemäuer mit eiligen Lacerten. Er liebte die schlichten Verhältnisse, ein altes Haus am Hang mit Blick auf den lichtflutenden See, Steinbank und Steintisch, umlaubt, Wein und Brot – stets offenbarte sich darin der geweihte Bezirk. Um das Wunder der Dinge zu spüren, bedurfte es keiner Analysen, keiner Anatomie, keiner begrifflichen Aufschlüsse. Alles Seiende stand ihm in ununterbrochener Offenbarung.
+
+Ein Freund der wachstümlichen Welt, lebte er die hohe Gabe der Freundschaft. Seine Weise war Wohltun, er vermochte zuzuhören, in seiner Anteilnahme lag die Interessiertheit eines großen Kindes, wie auch das Offene einer reichen Erfahrung. Russische Weite wirkte in seinem Wesen und baltische Ritterlichkeit, die Mildes in Kühnes kleidet, in Bitterem Süßes bewahrt, in spielender Ironie eigene Verletzlichkeit und Scheu verbirgt. Seine Sehnsucht galt der heilen Welt, die des heilen Wortes bedarf: dieses zu suchen galt ihm als kosmischer Auftrag, als ein eigentümlich priesterlich-ärztliches Wirken. Es liegt viel Schönheit, viel Tapferes über diesem Leben, das seine Leiden in lauter Früchte reifte.
+
+Allen, die ihn kannten, bleibt sein Lachen unvergessen. Es quoll aus Fülle, Wärme, aus Naturtiefen, man hielt das eigene Gelächter an, um seiner kraftvollen Köstlichkeit zu lauschen, nie habe ich ein Lachen so als Geschenk empfunden wie das seine. Es war Teil seines Verhältnisses zum gesprochenen Worte, zu den Vokalen; sein Sprechen, sein Erzählen, sein Vortrag war ihm durchaus eigentümlich, sein ganzes Wesen enthüllend. Welch feiernde Festlichkeit, wenn er die Löwenballade vortrug:
+»Rot und Gold, rot und gold
+blasen die Trompeten.
+Was im Dunkel loht und grollt,
+will zu Tage treten.»
+
+Seine Mühen bleiben unverloren, sind auch seine nicht zahlreichen Werke fast nach jeder Auflage bald wieder vergriffen: wer sie hütet, hütet ihr Feuer. Alles Seltene hat seine eigenen Wege der Wirkung. Was samenhaft war an Bruno Goetz, steht selbst in heiler **disputed (Mistral: `Kraft` / Gemini: Frucht)**. [Gemini clearly correct - "Frucht" (fruit) is the logical and poetic continuation of the "samenhaft" (seed-like) metaphor.]
+
+--- EVALUATION REPORT ---
+Confidence: HIGH
+Disputed words resolved: [6 resolutions provided. Mistral seems correct in 4 cases ("zubestimmte", "wesen", "seinsfrommer", and for not omitting a key sentence), Gemini seems correct in 2 cases ("scheußlicher", "Frucht").]
+Semantic issues found: [1]
+Types of issues: [The primary issue is a semantically awkward sentence resulting from a likely OCR error in both sources. One OCR (Gemini) also had a major omission of a critical sentence.]
+Overall assessment: [The text is a sophisticated, high-register essay. It is semantically coherent and grammatically complex but largely correct. The main quality issues stem from a few difficult-to-resolve disputed words and one significant omission by one of the OCR sources.]
+-------------------------
+
+***
+
+Der große Hymnus »An den Meergott« schließt mit den Versen:
+»Schenke mir liebende Herzen,
+denn Liebende nur erlauschen im Nachhall
+meiner versagenden Menschenstimme
+Dein ewiges,
+Dein Wandellied von Dir Selbst.
+Und wenn ich Einen nur finde,
+der weitersingt aus überströmender Fülle –
+ists mir genug. Dann darf ich
+heim zu Dir und ruhen an Deinem Herzen
+und einstimmen in den Chor
+der Deinen seit ewig.»
+
+Walter Robert Corti
+
+IN MEMORIAM FERRUCCIO BUSONI
+
+In Rauch und Trümmer sank, was wir gekannt,
+vom Tod umkreist in dunklem **disputed (Mistral: `Riesenbogen` / Gemini: Regenbogen)**. [Mistral likely correct - "Riesenbogen" (giant arch/bow) fits the imagery of war ("Rauch und Trümmer") better than "Regenbogen" (rainbow), suggesting a vast, dark arch of fate or destruction.]
+Dem Traume nach, der uns vorangeflogen,
+drängt unser Geist in ungestümem Brand.
+
+Der Heimat fern und mütterlichem Land
+treibt unser Schiff auf ungewissen Wogen.
+Verwegen lachend sind wir ausgezogen, –
+Seefahrer wir nach unentdecktem Land.
+
+Und wenn uns Nacht und Grauen überfällt,
+singst Du uns neuer Heimat freie Lieder, –
+und aller Spuk entschwebt, ein leichter Flaum.
+
+In Takt und Reigen löst sich hell die Welt,
+von Sternen rieselt spätes Glück hernieder,
+aufglühend strahlt das Reich uns ohne Raum.
+
+--- EVALUATION REPORT ---
+Confidence: HIGH
+Disputed words resolved: [1 resolution provided. Mistral seems correct.]
+Semantic issues found: [0]
+Types of issues: [N/A]
+Overall assessment: [The poems are correctly transcribed and make complete semantic sense. The single disputed word can be resolved with high confidence based on the context.]
+-------------------------

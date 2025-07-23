@@ -5,6 +5,11 @@ build-backend = "hatchling.build"
 [tool.uv]
 package = true
 
+[tool.uv.workspace]
+members = [
+    "frontend-idea/backend",
+]
+
 [project]
 name = "book-translator"
 version = "0.1.0"

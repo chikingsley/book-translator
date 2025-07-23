@@ -1,22 +1,27 @@
 #!/usr/bin/env python3
-"""
-E-book generator for translated books.
+"""E-book generator for translated books.
+
 Creates EPUB/MOBI files from translated markdown.
 """
 
-import os
+import argparse
 import json
-import pypandoc
+import subprocess
+import sys
 from pathlib import Path
-from typing import Dict, List, Optional, Any
-from datetime import datetime
+from typing import Any
+
+import pypandoc
 
 
 class EbookGenerator:
+    """Generator for creating e-books from translated content."""
+    
     def __init__(self, output_dir: str = "output"):
+        """Initialize the e-book generator with output directory."""
         self.output_dir = Path(output_dir)
         self.toc_file = self.output_dir / "table_of_contents.json"
-        self.metadata: Dict[str, Any] = {}
+        self.metadata: dict[str, Any] = {}
         
     def load_metadata(self) -> bool:
         """Load book metadata from TOC file."""
@@ -24,7 +29,7 @@ class EbookGenerator:
             print("❌ No table_of_contents.json found. Run translation first.")
             return False
             
-        with open(self.toc_file, "r", encoding="utf-8") as f:
+        with open(self.toc_file, encoding="utf-8") as f:
             self.metadata = json.load(f)
         return True
     
@@ -54,13 +59,13 @@ class EbookGenerator:
             if self.metadata.get('publication_year'):
                 f.write(f"date: {self.metadata['publication_year']}\n")
             if self.metadata.get('isbn'):
-                f.write(f"identifier:\n")
-                f.write(f"- scheme: ISBN\n")
+                f.write("identifier:\n")
+                f.write("- scheme: ISBN\n")
                 f.write(f"  text: {self.metadata['isbn']}\n")
             
             # E-book specific metadata
-            f.write(f"lang: en\n")  # Target language
-            f.write(f"cover-image: cover.png\n")  # If you have a cover
+            f.write("lang: en\n")  # Target language
+            f.write("cover-image: cover.png\n")  # If you have a cover
             f.write("---\n")
             
         return metadata_file
@@ -90,7 +95,7 @@ class EbookGenerator:
             translation_file = chapter_dir / "translation.md"
             
             if translation_file.exists():
-                with open(translation_file, "r", encoding="utf-8") as f:
+                with open(translation_file, encoding="utf-8") as f:
                     content = f.read()
                     
                 # Ensure chapter has proper heading
@@ -108,7 +113,7 @@ class EbookGenerator:
             
         return combined_file
     
-    def generate_epub(self, custom_css: Optional[str] = None) -> Optional[Path]:
+    def generate_epub(self, custom_css: str | None = None) -> Path | None:
         """Generate EPUB with pandoc."""
         print("📚 Generating EPUB...")
         
@@ -147,7 +152,7 @@ class EbookGenerator:
             print(f"❌ EPUB generation failed: {e}")
             return None
     
-    def generate_kindle(self, epub_path: Optional[Path] = None) -> Optional[Path]:
+    def generate_kindle(self, epub_path: Path | None = None) -> Path | None:
         """Convert EPUB to Kindle format (AZW3/MOBI)."""
         print("📖 Generating Kindle format...")
         
@@ -178,7 +183,7 @@ class EbookGenerator:
             print("❌ ebook-convert not found.")
             return None
     
-    def generate_all_formats(self) -> Dict[str, Path]:
+    def generate_all_formats(self) -> dict[str, Path]:
         """Generate all supported e-book formats."""
         results = {}
         
@@ -260,7 +265,6 @@ hr:after {
 
 def main():
     """Command-line interface."""
-    import argparse
     
     parser = argparse.ArgumentParser(description="Generate e-books from translated content")
     parser.add_argument("--output-dir", default="output", help="Output directory (default: output)")
@@ -298,4 +302,4 @@ def main():
 
 
 if __name__ == "__main__":
-    exit(main())
+    sys.exit(main())

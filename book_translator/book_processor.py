@@ -1,3 +1,5 @@
+"""Book processor module for extracting and translating books using Gemini AI."""
+
 import json
 import os
 import sys
@@ -47,6 +49,7 @@ class ChapterContent(BaseModel):
 
 
 class BookProcessor:
+    """Process books for extraction and translation using Gemini AI."""
     def __init__(self, api_key: str):
         """Initialize with Gemini 2.5 Flash for text extraction."""
         self.client = genai.Client(api_key=api_key)
@@ -351,6 +354,7 @@ class BookProcessor:
 
 
 def main() -> None:
+    """Run the book processor."""
     load_dotenv()
 
     if len(sys.argv) < 2:
