@@ -56,6 +56,22 @@ class BookProcessor:
         self.project_dir = Path(".")
         self._uploaded_files: dict[str, Any] = {}
         self.continuous_mode = False
+        
+        # Find next available output version
+        self.output_dir = self._get_next_output_dir()
+    
+    def _get_next_output_dir(self) -> Path:
+        """Find the next available output_vX directory."""
+        base_dir = self.project_dir
+        version = 1
+        
+        # Find all existing output_vX directories
+        while (base_dir / f"output_v{version}").exists():
+            version += 1
+        
+        output_dir = base_dir / f"output_v{version}"
+        print(f"📁 Using output directory: {output_dir}")
+        return output_dir
 
     def _generate_with_retry(self, prompt: str | list[Any], schema: type[BaseModel]):
         """Generate content with retry logic and structured output."""
@@ -119,13 +135,12 @@ class BookProcessor:
 
     def _save_toc(self) -> None:
         """Auto-save TOC when updated."""
-        output_dir = self.project_dir / "output"
-        output_dir.mkdir(exist_ok=True)
+        self.output_dir.mkdir(parents=True, exist_ok=True)
 
-        with open(output_dir / "table_of_contents.json", "w", encoding="utf-8") as f:
+        with open(self.output_dir / "table_of_contents.json", "w", encoding="utf-8") as f:
             json.dump(self.toc_entries, f, indent=2, ensure_ascii=False)
 
-        with open(output_dir / "table_of_contents.md", "w", encoding="utf-8") as f:
+        with open(self.output_dir / "table_of_contents.md", "w", encoding="utf-8") as f:
             f.write("# Table of Contents\n\n")
             
             for entry in self.toc_entries:
@@ -144,11 +159,15 @@ class BookProcessor:
         safe_title = safe_title.replace(' ', '_')[:50]  
         
         folder_name = f"{sequence:03d}_{safe_title}"
-        chapter_dir = self.project_dir / "output" / folder_name
+        chapter_dir = self.output_dir / folder_name
         chapter_dir.mkdir(parents=True, exist_ok=True)
 
+        # Fix escaped newlines in extracted text
+        extracted_text = chapter_data.get("extracted_text", "")
+        extracted_text = extracted_text.replace("\\n", "\n")
+        
         files = {
-            "content.md": chapter_data.get("extracted_text", ""),
+            "content.md": extracted_text,
             "metadata.json": json.dumps(
                 {
                     "sequence": chapter_data.get("sequence", chapter_data.get("chapter_num", 0)),
@@ -174,7 +193,7 @@ class BookProcessor:
 
     def _update_progress(self, chapter_num: int) -> None:
         """Track progress and generate overview."""
-        progress_file = self.project_dir / "output" / "progress.json"
+        progress_file = self.output_dir / "progress.json"
 
         if progress_file.exists():
             with open(progress_file) as f:
@@ -200,17 +219,20 @@ class BookProcessor:
 
     def _update_combined_extraction(self, chapter_data: dict[str, Any]) -> None:
         """Append chapter to combined extracted file."""
-        combined_file = self.project_dir / "output" / "full_content.md"
+        combined_file = self.output_dir / "full_content.md"
 
         if not combined_file.exists():
             header = "# Full Book Content\n\n"
             header += "---\n\n"
             combined_file.write_text(header, encoding="utf-8")
 
-        title = chapter_data.get('title', chapter_data.get('chapter_title', 'Untitled'))
-        chapter_content = f"\n## {title}\n\n"
-        chapter_content += chapter_data.get("extracted_text", "")
-        chapter_content += "\n\n---\n"
+        # Fix escaped newlines in extracted text
+        extracted_text = chapter_data.get("extracted_text", "")
+        extracted_text = extracted_text.replace("\\n", "\n")
+        
+        chapter_content = "\n"
+        chapter_content += extracted_text
+        chapter_content += "\n\n"
 
 
         with open(combined_file, "a", encoding="utf-8") as f:
@@ -227,44 +249,81 @@ class BookProcessor:
             self._uploaded_files[pdf_path] = self.client.files.upload(file=pdf_path)
         pdf_file = self._uploaded_files[pdf_path]
 
-        for entry in self.toc_entries:
-            print(f"\n📖 Processing: {entry['title']} (Page {entry['page']})")
+        for i, entry in enumerate(self.toc_entries):
+            # Get the next entry to use as boundary
+            next_entry = self.toc_entries[i + 1] if i + 1 < len(self.toc_entries) else None
+            
+            if next_entry:
+                print(f"\n📖 Processing: {entry['title']} (Page {entry['page']} → stops before '{next_entry['title']}' on page {next_entry['page']})")
+            else:
+                print(f"\n📖 Processing: {entry['title']} (Page {entry['page']} → end of document)")
 
-            entry_prompt = f"""
-            Extract the content for: '{entry['title']}'
-            This content starts on page {entry['page']}.
+            # Check if this is likely a front matter page without visible title
+            is_front_matter = any(keyword in entry['title'].lower() for keyword in [
+                'titelblatt', 'title page', 'cover',
+                'urheberrecht', 'copyright', 'publishing',
+                'inhalt', 'contents', 'toc'
+            ])
+            
+            if is_front_matter:
+                # Special handling for pages without visible titles
+                entry_prompt = f"""
+                For page {entry['page']}, create a markdown document that preserves the visual layout.
+                
+                First line should be: # {entry['title']}
+                
+                Then reproduce the page content with proper line breaks between each line of text.
+                If the original has text on separate lines, put them on separate lines in markdown.
+                Do not combine lines into a single paragraph.
+                """
+            else:
+                # Regular handling for chapters/sections with visible titles
+                entry_prompt = f"""
+                Extract content starting from '{entry['title']}' on page {entry['page']}."""
+                
+                if next_entry:
+                    entry_prompt += f"""
+                Stop extraction when you encounter '{next_entry['title']}' on page {next_entry['page']}.
+                Do not include the next section's title or content."""
+                else:
+                    entry_prompt += """
+                This is the last section - extract until the end of the document."""
+                    
+                entry_prompt += f"""
 
-            Instructions:
-            1. Find where this section starts (page {entry['page']})
-            2. Extract ALL text until the next major section begins
-            3. Preserve formatting and structure
-            4. Format as clean Markdown with proper headings
-            """
+                Instructions:
+                1. Start extracting from where '{entry['title']}' appears on page {entry['page']}
+                2. Include the section title with proper markdown heading
+                3. Extract all content that belongs to this section
+                4. Stop before the next section begins (do not include it)
+                5. Preserve formatting and structure
+                6. Format as clean Markdown
+                """
             result: dict[str, Any] | None = None
-            try:
-                result_data = self._generate_with_retry(
-                    [entry_prompt, pdf_file], schema=ChapterContent
-                )
-                result = ChapterContent.model_validate(result_data).model_dump()
+            retry_count = 0
+            
+            while True:
+                try:
+                    result_data = self._generate_with_retry(
+                        [entry_prompt, pdf_file], schema=ChapterContent
+                    )
+                    result = ChapterContent.model_validate(result_data).model_dump()
 
-                result["sequence"] = entry['sequence']
-                result["title"] = entry['title']
-                result["page"] = entry['page']
-                result["processed_at"] = datetime.now().isoformat()
-                self.save_chapter(result)
+                    result["sequence"] = entry['sequence']
+                    result["title"] = entry['title']
+                    result["page"] = entry['page']
+                    result["processed_at"] = datetime.now().isoformat()
+                    self.save_chapter(result)
+                    break  # Success - exit the retry loop
 
-            except Exception as e:
-                print(f"❌ Chapter processing error: {e}")
-                result = {
-                    "extracted_text": f"Extraction failed. Error: {e}",
-                    "summary": "Could not parse response",
-                    "notes": str(e),
-                    "sequence": entry['sequence'],
-                    "title": entry['title'],
-                    "page": entry['page'],
-                    "processed_at": datetime.now().isoformat(),
-                }
-                self.save_chapter(result)
+                except Exception as e:
+                    retry_count += 1
+                    print(f"❌ Chapter processing error (attempt {retry_count}): {e}")
+                    print("🔄 Retrying...")
+                    
+                    # Wait a bit before retrying
+                    time.sleep(2)
+                    continue  # Try again
 
             if not self.continuous_mode:
                 action = input(
