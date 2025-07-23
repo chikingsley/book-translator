@@ -40,42 +40,6 @@ async def run_ocr(image_path: str) -> dict[str, list[dict[str, Any]]]:
         include_image_base64=True
     )
 
-    # Debug: Let's see what we actually get
-    print("OCR Response type:", type(ocr_response))
-    print("OCR Response dir:", dir(ocr_response))
-    if hasattr(ocr_response, 'pages'):
-        print("First page type:", type(ocr_response.pages[0]))
-        print("First page dir:", dir(ocr_response.pages[0]))
-        
-        # Save markdown output for debugging
-        from pathlib import Path
-        image_name = Path(image_path).stem
-        markdown_path = image_path.replace('.png', '_ocr.md')
-        
-        with open(markdown_path, 'w') as f:
-            f.write(f"# OCR Output for {image_name}\n\n")
-            for i, page in enumerate(ocr_response.pages):
-                f.write(f"## Page {i+1}\n\n")
-                if hasattr(page, 'markdown'):
-                    f.write(page.markdown + "\n\n")
-                else:
-                    f.write("No markdown attribute found\n\n")
-                
-                # Let's also explore what's in the page
-                f.write("### Page attributes:\n")
-                f.write(f"- dimensions: {getattr(page, 'dimensions', 'Not found')}\n")
-                f.write(f"- index: {getattr(page, 'index', 'Not found')}\n")
-                f.write(f"- images: {getattr(page, 'images', 'Not found')}\n")
-                
-                # Try to dump the whole object
-                f.write("\n### Full page dump:\n")
-                try:
-                    import json
-                    f.write(json.dumps(page.model_dump(), indent=2))
-                except Exception as e:
-                    f.write(f"Error dumping page: {e}\n")
-        
-        print(f"Saved markdown debug output to: {markdown_path}")
     
     # Structure the response based on actual Mistral OCR response
     pages_data: list[dict[str, Any]] = []
@@ -95,7 +59,6 @@ async def run_ocr(image_path: str) -> dict[str, list[dict[str, Any]]]:
             # If no words, check if there's markdown content
             if not words and hasattr(page, 'markdown'):
                 page_data['markdown'] = page.markdown
-                print(f"Page {i+1} has markdown content: {len(page.markdown)} characters")
             
             for word in words:
                 word_data: dict[str, Any] = {}
@@ -115,8 +78,5 @@ async def run_ocr(image_path: str) -> dict[str, list[dict[str, Any]]]:
                 page_data['height'] = height
             
             pages_data.append(page_data)
-    else:
-        # Maybe the response structure is different
-        print("No 'pages' attribute found. Response structure:", ocr_response)
     
     return {"pages": pages_data}

@@ -29,9 +29,6 @@ export function Page({ page }: PageProps) {
   const scaleX = imageSize.width && page.width ? imageSize.width / page.width : 1;
   const scaleY = imageSize.height && page.height ? imageSize.height / page.height : 1;
 
-  console.log("Page data:", page);
-  console.log("Number of words:", page.words?.length || 0);
-  console.log("Has markdown:", !!page.markdown);
 
   const handleImageLoad = (e: React.SyntheticEvent<HTMLImageElement>) => {
     const img = e.currentTarget;
@@ -69,8 +66,14 @@ export function Page({ page }: PageProps) {
         {showImage && <img src={page.image_url} alt="PDF Page" style={{ width: "100%", height: "auto", display: "block" }} onLoad={handleImageLoad} />}
         {showOverlay && page.words && page.words.length > 0 ? page.words.map((word, index) => {
         const [x0, y0, x1, y1] = word.bbox;
+        const boxWidth = (x1 - x0) * scaleX;
         const boxHeight = (y1 - y0) * scaleY;
-        const fontSize = Math.max(8, Math.min(boxHeight * 0.8, 24)); // 80% of box height, min 8px, max 24px
+        
+        // Calculate font size to fit both height and width conservatively
+        const heightBasedSize = boxHeight * 0.6; // 60% of height to ensure vertical fit
+        // Assume average character width is ~0.6 of font size for system fonts (conservative)
+        const widthBasedSize = (boxWidth - 4) / (word.text.length * 0.6); // -4 for padding
+        const fontSize = Math.floor(Math.max(5, Math.min(heightBasedSize, widthBasedSize, 16))); // Floor to avoid fractional pixels
         
         return (
           <div
@@ -79,7 +82,7 @@ export function Page({ page }: PageProps) {
               position: "absolute",
               left: `${x0 * scaleX}px`,
               top: `${y0 * scaleY}px`,
-              width: `${(x1 - x0) * scaleX}px`,
+              width: `${boxWidth}px`,
               height: `${boxHeight}px`,
               border: showImage ? (showTextOnImage ? "1px solid rgba(0, 100, 255, 0.2)" : "1px solid rgba(0, 100, 255, 0.1)") : "1px solid rgba(0, 100, 255, 0.8)",
               backgroundColor: showImage ? (showTextOnImage ? "rgba(255, 255, 255, 0.7)" : "rgba(0, 100, 255, 0.02)") : "rgba(255, 255, 255, 0.9)",
@@ -87,15 +90,17 @@ export function Page({ page }: PageProps) {
               fontSize: `${fontSize}px`,
               lineHeight: `${boxHeight}px`,
               whiteSpace: "nowrap",
+              wordBreak: "normal",
               overflow: "hidden",
-              padding: "0",
+              textOverflow: "ellipsis",
+              padding: "0 2px",
               fontWeight: !showImage || showTextOnImage ? "500" : "normal",
               fontFamily: "system-ui, -apple-system, sans-serif",
               textShadow: showImage && showTextOnImage ? "0 0 3px rgba(255, 255, 255, 0.8)" : "none",
               display: "flex",
               alignItems: "center",
               justifyContent: "flex-start",
-              paddingLeft: "2px",
+              textAlign: "left",
             }}
             title={word.text} // Show text on hover
           >
