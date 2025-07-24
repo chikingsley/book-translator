@@ -97,6 +97,7 @@ async def ocr_pdf(file: UploadFile = File(...)):
 
         # 3. Combine results and return
         response_data = {
+            "session_id": session_id,
             "pages": []
         }
         for i, page_data in enumerate(ocr_result.get("pages", [])):
@@ -113,6 +114,27 @@ async def ocr_pdf(file: UploadFile = File(...)):
         print(f"Error processing PDF: {str(e)}")
         print(traceback.format_exc())
         return JSONResponse(status_code=500, content={"error": str(e), "traceback": traceback.format_exc()})
+
+@app.post("/api/save-markdown")
+async def save_markdown(data: dict):
+    """Save edited text as markdown file."""
+    try:
+        session_id = data.get("session_id", "untitled")
+        page_number = data.get("page_number", 1)
+        text = data.get("text", "")
+        
+        # Save to markdown file
+        markdown_dir = Path("markdown_exports")
+        markdown_dir.mkdir(exist_ok=True)
+        
+        filename = markdown_dir / f"{session_id}_page_{page_number}.md"
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(text)
+        
+        return JSONResponse(content={"success": True, "filename": str(filename)})
+    
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": str(e)})
 
 @app.get("/")
 def read_root():

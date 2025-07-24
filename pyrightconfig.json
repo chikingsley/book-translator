@@ -15,10 +15,14 @@
   "typeCheckingMode": "strict",
 
   "reportMissingTypeStubs": false,
-  "reportUnknownMemberType": false,
-  "reportUnknownArgumentType": false,
-  "reportUnknownVariableType": false,
-  "reportUnknownLambdaType": false,
+  "reportUnknownMemberType": "error",
+  "reportUnknownArgumentType": "error",
+  "reportUnknownVariableType": "error",
+  "reportUnknownLambdaType": "error",
+  "reportUnknownParameterType": "error",
+  "reportAny": "error",
+  "reportGeneralTypeIssues": "error",
+  "reportOptionalMemberAccess": "error",
 
   "reportMissingParameterType": "error",
   "reportMissingReturnType": "error",

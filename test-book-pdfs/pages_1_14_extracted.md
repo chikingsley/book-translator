@@ -1,4 +1,117 @@
-# pages_4-13_gemini_formatted.md
+# Pages 1-14 - Extracted Content (No Page Markers)
+
+BRUNO GOETZ
+
+DAS REICH OHNE RAUM
+
+Eine Chronik wunderlicher
+Begebenheiten
+
+VORWORT WALTER R. CORTI
+KOMMENTAR M. L. v. FRANZ
+
+ORIGO VERLAG ZÜRICH
+
+
+3. Auflage
+Umschlag Max Kämpf
+
+printed in Switzerland 1962
+by Origo Verlag Zürich ©
+
+
+BRUNO GOETZ
+
+DAS REICH OHNE RAUM
+
+Eine Chronik wunderlicher
+Begebenheiten
+
+VORWORT WALTER R. CORTI
+KOMMENTAR M. L. v. FRANZ
+
+ORIGO VERLAG ZÜRICH
+
+INHALT
+
+Vorwort
+An Fo
+In Memoriam Ferruccio Busoni
+Erster Teil: DIE BOTSCHAFT
+Erstes Kapitel: Schimmelberg
+Kommentar: Einführung
+Das erste Kapitel
+Zweites Kapitel: Die Begegnung
+Kommentar: Das zweite Kapitel
+Drittes Kapitel: Fo
+Viertes Kapitel: Die Entfesselten
+Kommentar: Das vierte Kapitel
+Fünftes Kapitel: Die Wunder
+Kommentar: Das fünfte Kapitel
+Sechstes Kapitel: Vor der Entscheidung
+Zweiter Teil: DIE WANDERUNG
+Siebtes Kapitel: Das Offene Tor
+Achtes Kapitel: Das Gericht
+Kommentar: Das siebte und achte Kapitel
+Neuntes Kapitel: Der Ruf
+Kommentar: Das neunte Kapitel
+Zehntes Kapitel: Die Kreuzigung und die Tiere
+Kommentar: Das zehnte Kapitel
+Dritter Teil: DIE TAT
+Elftes Kapitel: Stuhlbrestenburg
+Zwölftes Kapitel: Der Bock in der Kirche
+Dreizehntes Kapitel: Der große Prozeß
+Vierzehntes Kapitel: Der Aufruhr
+Kommentar: Der dritte Teil
+Vierter Teil: DAS REICH
+Fünfzehntes Kapitel: Die Verwandlungen der Liebe
+Sechzehntes Kapitel: Der Untergang
+Siebzehntes Kapitel: Die Wiederkehr
+Kommentar: Der Vierte Teil
+Das siebzehnte Kapitel
+Letztes Kapitel: Der Schneewanderer
+Kommentar: Das letzte Kapitel
+
+5
+
+7
+17
+19
+
+21
+32
+35
+49
+53
+57
+63
+71
+75
+83
+91
+
+95
+100
+100
+110
+117
+119
+126
+
+133
+142
+150
+160
+177
+
+181
+187
+196
+210
+213
+217
+226
+
 
 VORWORT
 
@@ -21,8 +134,11 @@ Wandelt in der Nacht«.
 
 Es gibt Dichter, deren Breite allen gehört, und solche, die
 nur auf schmaler Wellenlänge senden, ganz nur für das
-ihnen zustimmende Organ. Wir selber wandeln uns im Kreise
-der Jahre: Die einmal hocherregten Empfänger klingen
+ihnen zustimmende Organ. Wir selber wandeln uns im Kreise der Jahre: Die einmal hocherregten Empfänger klingen
+
+7
+
+
 ab, neue erwachen im reicher erfahrenen Gehör. So auch
 steigt eine Dichtung aus dem Nährenetz der Zeit, wie über-
 zeitlich sie sich selbst verstehen mag, ergreift die Genossen
@@ -40,7 +156,6 @@ men Zwiesprache mit dem dichterischen Werke, seiner Auf-
 nahme und Wirkung. Nun tritt hier die dritte Auflage vor
 Leser, denen das Reich der Dämonen längst grauenhaft vor
 Augen steht.
-
 Bruno Goetz wurde am 6. November 1885 in Riga gebo-
 ren, deutschbaltischen und russischen Blutes. Seine Jugend
 prägte die Weite des Meeres und die Weite der russischen
@@ -61,6 +176,9 @@ der Welt treiben. Die Gottheit west, Gott ist, die «Götter»
 wirken. «Meine Jugend», sagt er in seiner autobiographi-
 schen Skizze, «fiel in die Periode des noch unerschütterten
 Aberglaubens an die Wundermacht der mechanistischen Na-
+8
+
+
 turwissenschaften und des allgemeinen ignoranten Unglau-
 bens an die religiösen und metaphysischen Lebensgewalten.
 Solange ich denken kann, bin ich dieser entgötterten und
@@ -99,6 +217,9 @@ nämlichn Problemtreiben wie Schelling. Alles ist göttlich,
 auch das Widergöttliche, das Dämonische, Gott entläßt es
 in den Lauf der Welt, um es einst zu überwinden. «Die große
 
+9
+
+
 BRUNO GOETZ
 
 DAS REICH OHNE RAUM
@@ -110,6 +231,7 @@ VORWORT WALTER R. CORTI
 KOMMENTAR M. L. v. FRANZ
 
 ORIGO VERLAG ZÜRICH
+
 
 Die Rede von den «Göttern» wird nicht nur dem Chri-
 sten zum Ärgernis und zur Anfechtung, sondern ebenso dem
@@ -143,13 +265,17 @@ es lediglich Geschöpfe ihrer Einbildungskraft, ihrer Phan-
 tasie? Ist es Fabel, ist es Wahrheit, wenn sie alte Sagen, al-
 tes Sagen wieder aufnehmen, von Wode etwa, dem wilden
 Jäger? Die Frage geht erregend durch die Jahrhunderte,
-schäumt wetterleuchtend in Schelling auf und ermattert dann
+schäumt wetterleuchtend in Schellung auf und ermattert dann
 in der Zeit des Positivismus, der den Mythen ihren Glanz
 nahm und in allen Glauben nur noch Aberglauben sah.
 
 Wahr nennen wir eine Vorstellung, die sich mit der
 beobachteten Sache deckt. Wir finden die Glockenblume,
 wir erfinden sie nicht. Sind wir ihres Bildes in uns un-
+
+II
+
+
 gewiß, vermögen wir zu ihr zurückzukehren, um es zu ver-
 bessern, zu sichern. Das ist mit den Gestalten der Phantasie
 anders. Ihnen scheint keine Erfahrung in der äußeren Welt
@@ -188,6 +314,10 @@ Seinsmächte anzusprechen.
 
 Wohl hat Bruno Goetz immer wieder versucht, dem
 Sinn des eigenen Dichtens nachzuspüren. Aber er war
+
+9
+
+
 rein Cartesianer, kein Dialektiker, kein Forscher. Wie Sieg-
 mund Freud, dem kaum 20 jährigen, seine kommende Si-
 cherheit vorausahnend, von einer Analyse abriet, so
@@ -226,6 +356,10 @@ chener Offenbarung.
 
 Ein Freund der wachstümlichen Welt, lebte er die hohe
 Gabe der Freundschaft. Seine Weise war Wohltun, er ver-
+
+13
+
+
 mochte zuzuhören, in seiner Anteilnahme lag die Interes-
 siertheit eines großen Kindes, wie auch das Offene einer
 reichen Erfahrung. Russische Weite wirkte in seinem Wesen
@@ -258,7 +392,10 @@ vergriffen: wer sie hütet, hütet ihr Feuer. Alles Seltene hat
 seine eigenen Wege der Wirkung. Was samenhaft war an
 Bruno Goetz, steht selbst in seiner Herrlichkeit.
 
-* * *
+                                  * * *
+
+                                      14
+
 
 Der große Hymnus «An den Meergott» schließt mit den
 Versen:
@@ -276,6 +413,9 @@ und einstimmen in den Chor
 der Deinen seit ewig.»
 
 Walter Robert Corti
+
+15
+
 
 IN MEMORIAM FERRUCCIO BUSONI
 
@@ -296,3 +436,45 @@ und aller Spuk entschwebt, ein leichter Flaum.
 In Takt und Reigen lässt sich hell die Welt,
 von Sternen rieselt spätes Glück hernieder,
 aufglühend strahlt das Reich uns ohne Raum.
+
+17
+
+
+AN FO
+Als nicht vom Himmel wich,
+die schwere Wolke
+und allem Volke
+die Sonne blich,
+
+da kam aus Tiefen
+das neue Licht uns nah,
+wir schlichten
+und wußten: «Du bist dal»
+
+O Sonnen
+aus Deiner Augen Grund!
+Springende Bronnen
+der Liebe aus Deinem Mund!
+
+Funkelnde Glut
+Deiner Glieder im Äthermeer –
+über die Wellen her
+lockst Du zu hohem Mut.
+
+Ewiger Knabe,
+umspielt von der Sterne Getön!
+Spender der Gabe,
+brausend und frei und schön:
+
+Männer und Frauen
+schwingen in Deinem Schein,
+treiben in Tod hinein,
+neu Dich zu schauen.
+
+Immer ins Helle
+ruft Deine weiße Gestalt,
+Welle um Welle,
+nie sind wir alt!
+
+19
+

@@ -12,7 +12,9 @@
       "Bash(python -m mypy:*)",
       "Bash(uv pip:*)",
       "WebFetch(domain:github.com)",
-      "Bash(uv add:*)"
+      "Bash(uv add:*)",
+      "Bash(grep:*)",
+      "mcp__ide__getDiagnostics"
     ],
     "deny": []
   }

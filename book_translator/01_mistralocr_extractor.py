@@ -18,7 +18,7 @@ def encode_pdf(pdf_path: str) -> str | None:
     except FileNotFoundError:
         print(f"Error: The file {pdf_path} was not found.")
         return None
-    except Exception as e:  # Added general exception handling
+    except Exception as e:  
         print(f"Error: {e}")
         return None
 
@@ -38,16 +38,12 @@ def process_footnotes(text: str) -> str:
     - ${ }^{n}$ or ${^{n}}$ in text to [^n]
     - Lines starting with ${ }^{n}$ to [^n]: format
     """
-    # First pass: Convert inline footnote references
-    # Match patterns like ${ }^{2}$ or ${^{2}}$
     text = re.sub(r'\$\{\s*\^\{(\d+)\}\s*\}', r'[^\1]', text)
     
-    # Second pass: Convert footnote definitions at start of lines
     lines = text.split('\n')
     processed_lines = []
     
     for line in lines:
-        # Check if line starts with footnote pattern
         footnote_match = re.match(r'^\$\{\s*\^\{(\d+)\}\s*\}\s*(.*)', line)
         if footnote_match:
             footnote_num = footnote_match.group(1)
@@ -60,13 +56,10 @@ def process_footnotes(text: str) -> str:
 
 def main() -> None:
     """Run Mistral OCR extraction on PDF."""
-    # Hardcoded PDF path
     pdf_path = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
     
-    # Load environment variables from .env file
     load_dotenv()
     
-    # Getting the base64 string
     print(f"Processing PDF: {pdf_path}")
     base64_pdf = encode_pdf(pdf_path)
     if not base64_pdf:
@@ -86,28 +79,23 @@ def main() -> None:
             "type": "document_url",
             "document_url": f"data:application/pdf;base64,{base64_pdf}" 
         },
-        include_image_base64=False  # We don't need images
+        include_image_base64=False
     )
     
-    # Extract markdown from all pages
     print("Extracting markdown content...")
     markdown_pages = []
     for i, page in enumerate(ocr_response.pages):
         if page.markdown:
             markdown_pages.append(f"# Page {i + 1}\n\n{page.markdown}")
     
-    # Combine all pages
     full_markdown = "\n\n---\n\n".join(markdown_pages)
     
-    # Process footnotes
     print("Processing footnote references...")
     full_markdown = process_footnotes(full_markdown)
     
-    # Generate output filename with -mistral suffix
     input_path = Path(pdf_path)
     output_path = input_path.with_stem(input_path.stem + '-mistral').with_suffix('.md')
     
-    # Save to file
     save_markdown(full_markdown, str(output_path))
     
     print(f"OCR extraction complete! Total pages processed: {len(ocr_response.pages)}")

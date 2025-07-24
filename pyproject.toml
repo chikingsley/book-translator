@@ -26,6 +26,10 @@ dependencies = [
     "mistralai>=1.9.2",
     "requests>=2.32.4",
     "aiohttp>=3.12.14",
+    "cerebras-cloud-sdk>=1.35.0",
+    "transformers>=4.53.3",
+    "tqdm>=4.67.1",
+    "alive-progress>=3.3.0",
 ]
 
 [tool.pyright]
