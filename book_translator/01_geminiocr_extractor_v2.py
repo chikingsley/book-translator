@@ -1,9 +1,9 @@
-"""Gemini OCR extractor for PDF documents - Single page processing version."""
+"""Gemini OCR extractor for PDF documents."""
 
 # ============== CONFIGURATION ==============
-PROCESS_FULL_PDF = True  # Set to True to process entire PDF, False to use page range
-START_PAGE = 4  # Only used if PROCESS_FULL_PDF is False
-END_PAGE = 26   # Only used if PROCESS_FULL_PDF is False
+PROCESS_FULL_PDF = False
+START_PAGE = 4
+END_PAGE = 5
 PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
 # ==========================================
 
@@ -26,7 +26,6 @@ def extract_single_page_to_pdf(input_pdf_path: str, page_num: int) -> BytesIO:
     doc = pymupdf.open(input_pdf_path)
     new_doc = pymupdf.open()
     
-    # page_num is 1-based, PyMuPDF uses 0-based indexing
     if page_num - 1 < len(doc):
         new_doc.insert_pdf(doc, from_page=page_num - 1, to_page=page_num - 1)
     
@@ -56,23 +55,19 @@ def upload_and_process_single_page(
     retry_count: int = 1,
 ) -> Optional[str]:
     """Upload and process a single page."""
-    # Extract the single page
     try:
         pdf_bytes = extract_single_page_to_pdf(pdf_path, page_num)
     except Exception as e:
         print(f"Error extracting page {page_num}: {e}")
         return None
     
-    # Save to temporary file for upload
     temp_path = f"temp_page_{page_num}.pdf"
     try:
         with open(temp_path, "wb") as f:
             f.write(pdf_bytes.getvalue())
         
-        # Upload the single page PDF
         pdf_file = client.files.upload(file=temp_path)
         
-        # Clean up temp file
         os.remove(temp_path)
         
     except Exception as e:
@@ -80,8 +75,6 @@ def upload_and_process_single_page(
         if os.path.exists(temp_path):
             os.remove(temp_path)
         return None
-    
-    # Now process the page with a simpler prompt since it's just one page
     page_prompt = f"""
     Extract all text from this PDF exactly as it appears.
     Start with "# Page {page_num}"
@@ -109,7 +102,6 @@ def upload_and_process_single_page(
     
     start_time = time.time()
     
-    # Progress monitoring loop (same as original)
     while not result["completed"]:
         elapsed = time.time() - start_time
         
@@ -117,8 +109,6 @@ def upload_and_process_single_page(
             estimated_page_progress = min(elapsed / estimated_time, 1.0)
             total_progress = (page_index + estimated_page_progress) / total_pages
             bar(total_progress)
-            
-            # Calculate confidence based on prediction accuracy
             if len(prediction_errors) >= 3:
                 recent_errors = prediction_errors[-5:]
                 sorted_errors = sorted(recent_errors)
@@ -126,8 +116,6 @@ def upload_and_process_single_page(
                 confidence = max(20, min(95, (1 - median_error) * 80 + 20))
             else:
                 confidence = 50
-            
-            # Calculate current processing rate
             if len(recent_page_times) >= 2:
                 time_span = recent_page_times[-1][0] - recent_page_times[0][0]
                 pages_span = recent_page_times[-1][1] - recent_page_times[0][1]
@@ -135,8 +123,6 @@ def upload_and_process_single_page(
             else:
                 overall_elapsed = time.time() - overall_start_time
                 current_rate = pages_completed / overall_elapsed if overall_elapsed > 0 else 0
-            
-            # Calculate ETA
             remaining_pages = total_pages - pages_completed
             if current_rate > 0 and remaining_pages > 0:
                 raw_eta = remaining_pages / current_rate
@@ -171,22 +157,15 @@ def upload_and_process_single_page(
             bar.text = f"Page {page_num}{retry_text}: Learning timing... {elapsed:.1f}s elapsed"
         
         time.sleep(0.1)
-        
-        # Timeout check
         if elapsed > (estimated_time * 3):
             bar.text = f"Page {page_num}: API timeout after {elapsed:.1f}s"
             break
     
-    # Wait for thread to complete
     api_thread.join(timeout=5)
-    
-    # Clean up the uploaded file
     try:
         client.files.delete(pdf_file.name)
     except:
-        pass  # Ignore cleanup errors
-    
-    # Handle results
+        pass
     if result["error"]:
         error = result["error"]
         if isinstance(error, Exception):
@@ -206,9 +185,7 @@ def main() -> None:
         print(f"Error: The file {pdf_path} was not found.")
         sys.exit(1)
     
-    # Determine page range
     if PROCESS_FULL_PDF:
-        # Get total page count from PDF
         try:
             doc = pymupdf.open(pdf_path)
             start_page = 1
@@ -237,15 +214,12 @@ def main() -> None:
     
     input_path = Path(pdf_path)
     if PROCESS_FULL_PDF:
-        output_path = input_path.with_stem(
-            f"{input_path.stem}_full_gemini_pro_single"
-        ).with_suffix(".md")
+        output_path = input_path.with_stem(input_path.stem + '-gemini').with_suffix('.md')
     else:
         output_path = input_path.with_stem(
-            f"{input_path.stem}_pages_{start_page}_{end_page}_gemini_pro_single"
+            f"{input_path.stem}-pages-{start_page}-{end_page}-gemini"
         ).with_suffix(".md")
     
-    # Clear output file
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("")
     
@@ -261,7 +235,7 @@ def main() -> None:
     
     with alive_bar(
         manual=True,
-        title="Smart OCR Processing (Single Page Mode)",
+        title="Smart OCR Processing",
         dual_line=True,
         refresh_secs=0.05,
         calibrate=1,
@@ -271,8 +245,6 @@ def main() -> None:
         for page_index in range(total_pages):
             actual_page_num = start_page + page_index
             page_start_time = time.time()
-            
-            # Calculate current best estimate
             if time_estimates:
                 recent_estimates = time_estimates[-10:] if len(time_estimates) > 10 else time_estimates
                 
@@ -289,7 +261,7 @@ def main() -> None:
                 buffer = 1.2 - (0.2 * confidence_factor)
                 estimated_time *= buffer
             else:
-                estimated_time = 45  # Conservative first guess
+                estimated_time = 45
             
             retry_count = 0
             page_extracted = False
@@ -298,7 +270,6 @@ def main() -> None:
                 retry_count += 1
                 
                 try:
-                    # Upload and process single page
                     page_text = upload_and_process_single_page(
                         client,
                         pdf_path,
@@ -316,26 +287,17 @@ def main() -> None:
                     )
                     
                     if page_text and len(page_text.strip()) > 20:
-                        # Page completed successfully!
                         actual_time = time.time() - page_start_time
                         time_estimates.append(actual_time)
                         pages_completed += 1
-                        
-                        # Track recent page times
                         recent_page_times.append((time.time(), pages_completed))
                         recent_page_times = [(t, p) for t, p in recent_page_times 
                                              if t > time.time() - 300 and len(recent_page_times) - recent_page_times.index((t, p)) <= 5]
-                        
-                        # Calculate prediction error
                         if len(time_estimates) > 1:
                             prediction_error = abs(actual_time - estimated_time) / estimated_time
                             prediction_errors.append(prediction_error)
-                        
-                        # Update progress
                         actual_progress = (page_index + 1) / total_pages
                         bar(actual_progress)
-                        
-                        # Save the extracted text
                         with open(output_path, "a", encoding="utf-8") as f:
                             if not first_page:
                                 f.write("\n\n---\n\n")
@@ -343,8 +305,6 @@ def main() -> None:
                         
                         first_page = False
                         page_extracted = True
-                        
-                        # Update status
                         char_count = len(page_text)
                         
                         if len(recent_page_times) >= 2:
@@ -377,7 +337,7 @@ def main() -> None:
                                 eta_text = "ETA: complete!"
                             bar.text = f"Page {actual_page_num}: {actual_time:.1f}s ({diff:+.1f}s vs estimate, {char_count} chars) | {current_rate:.2f} p/s | {eta_text}"
                         
-                        time.sleep(1)  # Brief pause to show completion message
+                        time.sleep(1)
                     
                     elif retry_count < 5:
                         bar.text = f"Page {actual_page_num} - Short response, retrying in 2s..."

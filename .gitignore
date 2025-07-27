@@ -17,3 +17,4 @@ output/
 models_cache/
 .ruff_cache/
 .claude/
+test-book-pdfs/

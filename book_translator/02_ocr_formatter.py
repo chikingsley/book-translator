@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 from google import genai
 
 # ============== CONFIGURATION ==============
-GEMINI_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-gemini-4-26.md"
-MISTRAL_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-mistral-4-26.md"
+GEMINI_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-gemini.md"
+MISTRAL_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-mistral.md"
 GEMINI_OUTPUT = "test-book-pdfs/pages_4-26_gemini_formatted.md"
 MISTRAL_OUTPUT = "test-book-pdfs/pages_4-26_mistral_formatted.md"
 # ==========================================
