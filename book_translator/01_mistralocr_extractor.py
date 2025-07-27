@@ -9,6 +9,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 from mistralai import Mistral
 
+# ============== CONFIGURATION ==============
+PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+# ==========================================
+
 
 def encode_pdf(pdf_path: str) -> str | None:
     """Encode the pdf to base64."""
@@ -41,7 +45,7 @@ def process_footnotes(text: str) -> str:
     text = re.sub(r'\$\{\s*\^\{(\d+)\}\s*\}', r'[^\1]', text)
     
     lines = text.split('\n')
-    processed_lines = []
+    processed_lines: list[str] = []
     
     for line in lines:
         footnote_match = re.match(r'^\$\{\s*\^\{(\d+)\}\s*\}\s*(.*)', line)
@@ -56,7 +60,7 @@ def process_footnotes(text: str) -> str:
 
 def main() -> None:
     """Run Mistral OCR extraction on PDF."""
-    pdf_path = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+    pdf_path = PDF_PATH
     
     load_dotenv()
     
@@ -83,7 +87,7 @@ def main() -> None:
     )
     
     print("Extracting markdown content...")
-    markdown_pages = []
+    markdown_pages: list[str] = []
     for i, page in enumerate(ocr_response.pages):
         if page.markdown:
             markdown_pages.append(f"# Page {i + 1}\n\n{page.markdown}")

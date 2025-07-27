@@ -2,13 +2,21 @@
 
 import os
 import re
-from pathlib import Path
+
+# ============== CONFIGURATION ==============
+TEST_FILES = [
+    ("test-toc/test1.md", "test-toc/test1_formatted.md"),
+    ("test-toc/test2.md", "test-toc/test2_formatted.md"),
+    ("test-toc/test3.md", "test-toc/test3_formatted.md"),
+    ("test-toc/test4.md", "test-toc/test4_formatted.md"),
+]
+# ==========================================
 
 
 def add_heading_spacing(text: str) -> str:
     """Add proper spacing around headings."""
     lines = text.split('\n')
-    result = []
+    result: list[str] = []
     
     for i, line in enumerate(lines):
         # Check if current line is a heading
@@ -31,7 +39,7 @@ def add_heading_spacing(text: str) -> str:
 def convert_h1_to_h2(text: str) -> str:
     """Convert all H1 headings to H2 headings."""
     lines = text.split('\n')
-    result = []
+    result: list[str] = []
     
     for line in lines:
         if line.strip().startswith('#') and not line.strip().startswith('##'):
@@ -46,7 +54,7 @@ def convert_h1_to_h2(text: str) -> str:
 def generate_toc(text: str, filename: str) -> str:
     """Generate table of contents from headings."""
     lines = text.split('\n')
-    toc_lines = []
+    toc_lines: list[str] = []
     
     # Add filename as top-level TOC entry  
     filename_anchor = filename.lower().replace(' ', '-').replace('.', '')
@@ -79,7 +87,7 @@ def process_file(input_file: str, output_file: str) -> None:
     print(f"Processing {input_file}...")
     
     # Read input file
-    with open(input_file, 'r', encoding='utf-8') as f:
+    with open(input_file, encoding='utf-8') as f:
         content = f.read()
     
     # Convert all H1s to H2s
@@ -108,14 +116,7 @@ def process_file(input_file: str, output_file: str) -> None:
 
 def main() -> None:
     """Process all test files."""
-    test_files = [
-        ("test-toc/test1.md", "test-toc/test1_formatted.md"),
-        ("test-toc/test2.md", "test-toc/test2_formatted.md"),
-        ("test-toc/test3.md", "test-toc/test3_formatted.md"),
-        ("test-toc/test4.md", "test-toc/test4_formatted.md"),
-    ]
-    
-    for input_file, output_file in test_files:
+    for input_file, output_file in TEST_FILES:
         try:
             process_file(input_file, output_file)
         except FileNotFoundError:

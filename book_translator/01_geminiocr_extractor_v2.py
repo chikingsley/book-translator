@@ -1,8 +1,7 @@
 """Gemini OCR extractor for PDF documents - Single page processing version."""
 
 # ============== CONFIGURATION ==============
-# Set these values to control what pages to process
-PROCESS_FULL_PDF = False  # Set to True to process entire PDF, False to use page range
+PROCESS_FULL_PDF = True  # Set to True to process entire PDF, False to use page range
 START_PAGE = 4  # Only used if PROCESS_FULL_PDF is False
 END_PAGE = 26   # Only used if PROCESS_FULL_PDF is False
 PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"

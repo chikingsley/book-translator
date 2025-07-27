@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 def extract_pages_content(content: str, start_page: int = 4, end_page: int = 13) -> str:
     """Extract content from specified pages, removing page markers and separators."""
     lines = content.split('\n')
-    result_lines = []
+    result_lines: list[str] = []
     current_page = 0
     include_content = False
     

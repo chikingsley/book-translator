@@ -32,7 +32,7 @@ class CitationValidator:
             return None
             
         # Build search query
-        query_parts = []
+        query_parts: list[str] = []
         
         # Add title
         if citation.get('title'):
@@ -81,7 +81,7 @@ class CitationValidator:
         title = citation['title'][0] if isinstance(citation['title'], list) else citation['title']
         
         # Build query
-        query_parts = [title]
+        query_parts: list[str] = [title]
         if citation.get('authors'):
             for author in citation['authors']:
                 if author.get('surname'):
@@ -169,12 +169,12 @@ class CitationValidator:
             return citation.get('raw_text', '')
             
         # Build modern citation for books/journals
-        parts = []
+        parts: list[str] = []
         
         # Authors
         authors = citation.get('authors', [])
         if authors:
-            author_parts = []
+            author_parts: list[str] = []
             for i, author in enumerate(authors):
                 surname = author.get('surname', '')
                 firstname = author.get('firstname', '')

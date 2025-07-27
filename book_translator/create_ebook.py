@@ -81,7 +81,7 @@ class EbookGenerator:
         
         # Otherwise, combine chapter files
         print("🔨 Building combined markdown from chapters...")
-        combined_content = []
+        combined_content: list[str] = []
         
         # Add title and front matter
         combined_content.append(f"# {self.metadata.get('book_title', 'Book')}\n")
@@ -140,7 +140,7 @@ class EbookGenerator:
         
         try:
             # Convert markdown to EPUB using pypandoc
-            pypandoc.convert_file(
+            pypandoc.convert_file(  # type: ignore[reportUnknownMemberType]
                 str(content_file),
                 'epub',
                 outputfile=str(epub_file),
@@ -185,7 +185,7 @@ class EbookGenerator:
     
     def generate_all_formats(self) -> dict[str, Path]:
         """Generate all supported e-book formats."""
-        results = {}
+        results: dict[str, Path] = {}
         
         # Generate EPUB first (base format)
         epub_path = self.generate_epub()
