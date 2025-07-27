@@ -1,5 +1,11 @@
 """Build consensus from multiple OCR outputs using Gemini 2.5 Pro."""
 
+# ============== CONFIGURATION ==============
+MISTRAL_FILE = "test-book-pdfs/pages_4-26_mistral_formatted.md"
+GEMINI_FILE = "test-book-pdfs/pages_4-26_gemini_formatted.md"
+OUTPUT_FILE = "test-book-pdfs/pages_4-26_consensus.md"
+# ==========================================
+
 import os
 
 from dotenv import load_dotenv
@@ -63,9 +69,9 @@ def main() -> None:
     if google_api_key:
         os.environ["GOOGLE_API_KEY"] = google_api_key
     
-    # Hardcoded input files
-    mistral_file = "test-book-pdfs/pages_4-13_mistral_formatted.md"
-    gemini_file = "test-book-pdfs/pages_4-13_gemini_formatted.md"
+    # Input files from configuration
+    mistral_file = MISTRAL_FILE
+    gemini_file = GEMINI_FILE
     
     print("Building consensus from OCR outputs...")
     print(f"Reading {mistral_file}...")
@@ -93,13 +99,13 @@ def main() -> None:
     # Find where content starts (after the # filename line and empty line)
     mistral_start = 0
     for i, line in enumerate(mistral_lines):
-        if line.startswith('# pages_4-13_mistral_formatted.md'):
+        if line.startswith(f'# {os.path.basename(mistral_file)}'):
             mistral_start = i + 2  # Skip header and empty line
             break
     
     gemini_start = 0
     for i, line in enumerate(gemini_lines):
-        if line.startswith('# pages_4-13_gemini_formatted.md'):
+        if line.startswith(f'# {os.path.basename(gemini_file)}'):
             gemini_start = i + 2  # Skip header and empty line
             break
     
@@ -113,9 +119,9 @@ def main() -> None:
     consensus_text = build_consensus(client, mistral_text, gemini_text)
     
     # Save result
-    output_file = "test-book-pdfs/pages_4-13_consensus.md"
+    output_file = OUTPUT_FILE
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("# pages_4-13_consensus.md\n\n")
+        f.write(f"# {os.path.basename(output_file)}\n\n")
         f.write("## Consensus built from Mistral and Gemini OCR outputs\n")
         f.write("## Disputes marked as: **disputed (Mistral: X / Gemini: Y)**\n\n")
         f.write(consensus_text)

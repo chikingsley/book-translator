@@ -90,7 +90,7 @@ def main() -> None:
         os.environ["GOOGLE_API_KEY"] = google_api_key
     
     # Hardcoded file path for Gemini Pro Adaptive
-    gemini_file = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz_pages_4_26_gemini_pro_adaptive.md"
+    gemini_file = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz_pages_4_26_gemini_pro_single.md"
     
     print("Processing Gemini Pro Adaptive OCR output with Flash (Pages 4-26)")
     print('='*70)

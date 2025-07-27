@@ -1,5 +1,10 @@
 """Evaluate OCR text for semantic sense using Gemini 2.5 Pro."""
 
+# ============== CONFIGURATION ==============
+INPUT_FILE = "test-book-pdfs/pages_4-26_consensus.md"
+OUTPUT_FILE = "test-book-pdfs/pages_4-26_evaluated.md"
+# ==========================================
+
 import os
 
 from dotenv import load_dotenv
@@ -68,7 +73,7 @@ def main():
         os.environ["GOOGLE_API_KEY"] = google_api_key
     
     # Read consensus text
-    input_file = "test-book-pdfs/full_book_consensus.md"
+    input_file = INPUT_FILE
     print(f"Reading {input_file}...")
     
     try:
@@ -96,9 +101,9 @@ def main():
     evaluated_text = evaluate_text(client, text_to_evaluate)
     
     # Save result
-    output_file = "test-book-pdfs/full_book_evaluated.md"
+    output_file = OUTPUT_FILE
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("# full_book_evaluated.md\n\n")
+        f.write(f"# {os.path.basename(output_file)}\n\n")
         f.write("## Semantic Evaluation by Gemini 2.5 Pro\n\n")
         f.write("### Marking system:\n")
         f.write("- **disputed (...)** = OCR engine disagreements (unchanged from consensus)\n")

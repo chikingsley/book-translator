@@ -6,18 +6,20 @@ from PIL import Image
 from transformers import AutoModelForImageTextToText, AutoProcessor, AutoTokenizer
 
 model_path = "nanonets/Nanonets-OCR-s"
+cache_dir = "./models_cache"
 
 # Type annotations suppressed due to transformers library dynamic typing
 model: Any = AutoModelForImageTextToText.from_pretrained(  # type: ignore[misc]
     model_path, 
     torch_dtype="auto", 
     device_map="auto", 
-    attn_implementation="flash_attention_2"
+    attn_implementation="flash_attention_2",
+    cache_dir=cache_dir
 )
 model.eval()  # type: ignore[misc]
 
-tokenizer: Any = AutoTokenizer.from_pretrained(model_path)  # type: ignore[misc]
-processor: Any = AutoProcessor.from_pretrained(model_path)  # type: ignore[misc]
+tokenizer: Any = AutoTokenizer.from_pretrained(model_path, cache_dir=cache_dir)  # type: ignore[misc]
+processor: Any = AutoProcessor.from_pretrained(model_path, cache_dir=cache_dir)  # type: ignore[misc]
 
 
 def ocr_page_with_nanonets_s(

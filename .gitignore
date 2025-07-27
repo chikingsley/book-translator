@@ -12,3 +12,6 @@ wheels/
 .environments/
 output/
 .env
+
+# Model cache
+models_cache/

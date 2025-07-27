@@ -1,47 +1,20 @@
-"""Format OCR output using Gemini 2.5 Flash Lite."""
+"""Format OCR output using Gemini 2.5 Flash."""
 
 import os
-import re
-from pathlib import Path
-from google import genai
+
 from dotenv import load_dotenv
+from google import genai
 
-
-def extract_page_range(content: str, start_page: int, end_page: int) -> str:
-    """Extract specific page range from markdown content."""
-    pages = []
-    current_page = None
-    current_content = []
-    
-    for line in content.split('\n'):
-        # Check for page marker
-        page_match = re.match(r'^#\s*Page\s*(\d+)', line)
-        if page_match:
-            # Save previous page if in range
-            if current_page and start_page <= current_page <= end_page:
-                pages.append('\n'.join(current_content))
-            
-            current_page = int(page_match.group(1))
-            current_content = []
-            
-            # Skip the page header line - don't add it
-        elif line.strip() == '---':
-            # Skip separators
-            continue
-        # Add content if we're in a page
-        elif current_page and start_page <= current_page <= end_page:
-            current_content.append(line)
-    
-    # Don't forget the last page
-    if current_page and start_page <= current_page <= end_page:
-        pages.append('\n'.join(current_content))
-    
-    return '\n\n'.join(pages)
+# ============== CONFIGURATION ==============
+GEMINI_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-gemini-4-26.md"
+MISTRAL_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-mistral-4-26.md"
+GEMINI_OUTPUT = "test-book-pdfs/pages_4-26_gemini_formatted.md"
+MISTRAL_OUTPUT = "test-book-pdfs/pages_4-26_mistral_formatted.md"
+# ==========================================
 
 
 def format_text(client: genai.Client, text: str) -> str:
-    """Use Flash Lite to fix formatting and remove page numbers."""
-    
+    """Use Flash to fix formatting and remove page numbers."""
     format_prompt = """
     Reformat this German text with proper line lengths and paragraph structure.
     
@@ -59,7 +32,7 @@ def format_text(client: genai.Client, text: str) -> str:
     
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash-lite",
+            model="gemini-2.5-flash",
             contents=[format_prompt, text]
         )
         if response.text:
@@ -70,8 +43,8 @@ def format_text(client: genai.Client, text: str) -> str:
         return text
 
 
-def main():
-    """Main formatting function."""
+def main() -> None:
+    """Format OCR output files."""
     load_dotenv()
     
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -85,51 +58,41 @@ def main():
     if google_api_key:
         os.environ["GOOGLE_API_KEY"] = google_api_key
     
-    # Hardcoded file paths
-    gemini_file = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-gemini.md"
-    mistral_file = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-mistral.md"
+    files_to_process = [
+        ("Gemini", GEMINI_FILE, GEMINI_OUTPUT),
+        ("Mistral", MISTRAL_FILE, MISTRAL_OUTPUT)
+    ]
     
-    # Process both files
-    for source, filepath in [("Gemini", gemini_file), ("Mistral", mistral_file)]:
+    for source, input_file, output_file in files_to_process:
         print(f"\n{'='*50}")
         print(f"Processing {source} output")
         print('='*50)
         
-        print(f"Reading {filepath}...")
+        print(f"Reading {input_file}...")
         
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with open(input_file, encoding='utf-8') as f:
                 content = f.read()
         except FileNotFoundError:
-            print(f"Error: File not found: {filepath}")
+            print(f"Error: File not found: {input_file}")
             continue
         
-        # Extract pages 4-13
-        print("Extracting pages 4-13...")
-        extracted_text = extract_page_range(content, 4, 13)
+        print(f"Read {len(content)} characters")
         
-        if not extracted_text:
-            print(f"Error: No content found in page range 4-13 for {source}")
-            continue
+        print(f"\nFormatting {source} text with Gemini 2.5 Flash...")
+        formatted_text = format_text(client, content)
         
-        print(f"Extracted {len(extracted_text)} characters")
-        
-        # Format with Flash Lite
-        print(f"\nFormatting {source} text with Gemini 2.5 Flash Lite...")
-        formatted_text = format_text(client, extracted_text)
-        
-        # Save result with source name
-        output_file = f"test-book-pdfs/pages_4-13_{source.lower()}_formatted.md"
+        # Save result
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(f"# pages_4-13_{source.lower()}_formatted.md\n\n")
+            f.write(f"# {os.path.basename(output_file)}\n\n")
             f.write(formatted_text)
         
         print(f"Formatted text saved to: {output_file}")
     
     print("\n\nFormatting complete!")
     print("Output files:")
-    print("- test-book-pdfs/pages_4-13_gemini_formatted.md")
-    print("- test-book-pdfs/pages_4-13_mistral_formatted.md")
+    print(f"- {GEMINI_OUTPUT}")
+    print(f"- {MISTRAL_OUTPUT}")
 
 
 if __name__ == "__main__":
