@@ -1,6 +1,6 @@
 # Page 1
 
-# BRUNO GOETZ 
+# BRUNO GOETZ
 
 ## DAS REICH OHNE RAUM
 
@@ -15,7 +15,7 @@ ORIGO VERLAG ZURICH
 
 # Page 2
 
-# 3. Auflage <br> Umschlag Max Kämpf 
+# 3. Auflage <br> Umschlag Max Kämpf
 
 printed in Switzerland 1962
 by Origo Verlag Zürich (c)
@@ -24,7 +24,7 @@ by Origo Verlag Zürich (c)
 
 # Page 3
 
-# INHALT 
+# INHALT
 
 Vorwort ..... 7
 In Memoriam Ferruccio Busoni ..... 17
@@ -68,7 +68,7 @@ Kommentar: Das letzte Kapitel ..... 226
 
 # Page 4
 
-# VORWORT 
+# VORWORT
 
 Befremdlich und beglückend, verwirrend oft und wieder heilsam leben die Dichter unter uns: Erzähler sinniger Mären, erbauliche Belehrer, Mahner und Tröster, Quäler und Verklärer, die des Umgangs mit den letzten Dingen gewohnt sind. Ihr Geschlecht ist an bunter Vielfalt so reich wie der Reichtum der Welt selbst. Sie verwalten das Wort anders, als wir es gebrauchen, leben im Wunder der Sprache als seine Diener, als seine Meister, beschwörend, betörend wie die Magier. Alle Charaktere, alle Blutspiele finden sich unter ihnen: Nicht nur die Olympier, die das Wort sonnenhaft strahlen lassen, die den reinen Goldglanz des Schönen über alle Dinge werfen, - auch die Lastträger dumpfer Gesichte, die um die Kellertiere der Seele wissen, die den Gespenstern am hellen Tage begegnen. Manche stammeln unter dem Druck der sie bedrängenden strengen Gnade, Deutende im unerklärlichen Auftrag, selber erschrocken über die wunden Geburten ihres Wortes. Sie sprechen aus, was unseren mühenden Mund bedrängt, wonach unser unruhvolles Herz sehnend verlangt -
 «Was von Menschen nicht gewußt, Oder nicht bedacht, Durch das Labyrinth der Brust Wandelt in der Nacht».
@@ -159,7 +159,7 @@ Walter Robert Corti
 
 # Page 13
 
-# IN MEMORIAM FERRUCCIO BUSONI 
+# IN MEMORIAM FERRUCCIO BUSONI
 
 In Rauch und Trümmer sank, was wir gekannt, vom Tod umkreist in dunklem Riesenbogen. Dem Traume nach, der uns vorangeflogen, drängt unser Geist in ungestümem Brand.
 
@@ -173,7 +173,7 @@ In Takt und Reigen löst sich hell die Welt, von Sternen rieselt spätes Glück 
 
 # Page 14
 
-# AN FO 
+# AN FO
 
 Als nicht vom Himmel wich, die schwere Wolke
 und allem Volke
@@ -200,7 +200,7 @@ Immer ins Helle ruft Deine weiße Gestalt, Welle um Welle, nie sind wir alt!
 
 # Page 15
 
-# ERSTER TEIL 
+# ERSTER TEIL
 
 ## DIE BOTSCHAFT
 
@@ -367,13 +367,13 @@ Bald darauf hieß es plötzlich, Melchior habe sich von seinem Kreise vollkommen
 
 Umstände beim Tode seines Vaters, sowie der Erzählung des alten Museumdirektors Karlsen vom Gespräch, das Melchior als Sechzehnjähriger mit Henriette Karlsen geführt. Man stand vor einem unenträtselbaren Geheimnis und geriet infolgedessen in immer größere Aufregung, Entrüstung und Spannung.
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Einfübrung
 
 Es war bei Ferruccio Busoni, daß sich im Jahre 1918 jeweils einige Künstler zum schwarzen Kaffee trafen, an seinem großen runden Tisch. Die Rede kam auf den okkulten Roman. Es fielen die Namen E. T. A. Hoffmann, Meyrink, Kubin u. a. mehr. Bruno Goetz entwarf spontan ein recht erregendes Geschehen. Er wurde von Busoni fast leidenschaftlich gemahnt, diesen Entwurf ernst zu nehmen und sich sofort an die Gestaltung desselben zu machen. Dies war, wie mir die Gattin des Dichters erzählte, der Auftakt zur Entstehung des «Reich obne Raum». In wenig mehr als zwei Monaten war es vollendet.
 
-Diese Entstehungsgeschichte ist für die Beurteilung des Werkes wichtig, weil sie zeigt, daß der Dichter hier weniger als sonst sein bewußtes Kunstschaffen einsetzte (obwohl es im Stil, in den vielen Abstufungen des Ausdrucks mit groBem Können geschrieben wurde) als daß er seiner Phantasie völlig freien Lauf ließ. In einem solchen Fall kommt cias Unbewußte natürlich viel unmittelbarer zu Wort, und d'esem Umstand ist es wohl zu verdanken, daß Bruno Goetz, ohne es zu wollen oder vielleicht sogar ohne es zu wissen, in diesem Buch zu einem Propheten wurde und in seinem phantastischen Roman gewisse kollektiv-seelische Hintergrundvorgänge symbolisch gestaltete, welche verborgen hinter den nachfolgenden politischen, sozialen und religiösen
+Diese Entstehungsgeschichte ist für die Beurteilung des Werkes wichtig, weil sie zeigt, daß der Dichter hier weniger als sonst sein bewußtes Kunstschaffen einsetzte (obwohl es im Stil, in den vielen Abstufungen des Ausdrucks mit groBem Können geschrieben wurde) als daß er seiner Phantasie völlig freien Lauf ließ. In einem solchen Fall kommt cias Unbewußte natürlich viel unmittelbarer zu Wort, und diesem Umstand ist es wohl zu verdanken, daß Bruno Goetz, ohne es zu wollen oder vielleicht sogar ohne es zu wissen, in diesem Buch zu einem Propheten wurde und in seinem phantastischen Roman gewisse kollektiv-seelische Hintergrundvorgänge symbolisch gestaltete, welche verborgen hinter den nachfolgenden politischen, sozialen und religiösen
 
 ---
 
@@ -399,7 +399,7 @@ ${ }^{3}$ Aufsätze zur Zeitgeschichte, Zürich 1946, p. 5 ff. und sein Hinweis 
 
 nur verdammen. Was aber staute den Lebensstrom und was war die eigentlich gemeinte Weiterentwicklung in dieser Lage? In eben diese Probleme scheint mir die Symbolik des Goetz'schen Buches tiefer hineinzuleuchten, doch soll eine Erörterung dieser Fragen noch verschoben werden.
 
-# Das erste Kapitel: «Schimmelberg» 
+# Das erste Kapitel: «Schimmelberg»
 
 Bereits der Name Schimmelberg, den der Dichter für den ersten Schauplatz des Geschehens wählt, ist symbolisch bedeutungsvoll, denn der Schimmel ist ein wohlbekanntes Reittier des Gottes Wotan. Manchmal ist er sogar eine Erscheinungsform des Gottes selbst, welcher mit solchen Decknamen wie Jak (Wallach) oder Hrossharsgrani (Roßhaarsbart) bezeichnet wurde. Martin Ninck sagt von ihm, daß «das Wesen Gottes und seines Tieres als ungetrennte Einheit ineinanderfließt». ${ }^{4}$ Der Schimmel ist dann später auch im christianisierten Deutschland zum Reittier des «Heliand» geworden - er ist der Träger des Erlöser-Helden.
 
@@ -408,7 +408,6 @@ Doch hat gerade auch das Pferd eine Beziehung zu den unheimlichen maßlosen und 
 In einem Städtchen mit solch bedeutsamem Namen spielen sich also die ersten Szenen des Romans ab. Das Hauptmotiv, die Figur eines geheimnisvollen göttlich-dämonischen Knaben, tritt gleich zu Beginn auf und zwar verdoppelt in Gestalt der zwei «Todesankünder», welche den Vater des
 
 [^0]
-[^0]:    ${ }^{4}$ Wodan und germanischer Schicksalsglaube, Jena 1953, p. 73 f.
     ${ }^{5}$ Für Belege vergl. C. G. Jung Symbole der Wandlung, IV. Aufl., 1952, p. 427 ff.
 
 ---
@@ -417,7 +416,7 @@ In einem Städtchen mit solch bedeutsamem Namen spielen sich also die ersten Sze
 
 Melchior van Lindenhuis aufsuchen, um ihm ein Elfenbeinkreuz und eine Dornenkrone zu schenken. Der Todeshauch, der die Knabengestalten des Romans alle umweht, gehört auch zur Hauptfigur, dem göttlichen Fo, von dem es heißt: «Männer und Frauen schwingen in Deinem Schein, treiben in Tod binein, neu Dich zu schauen.» Dementsprechend erreicht auch Melchior erst im Tode die ersehnte Vereinigung mit Fo. Die zwei symbolischen Gaben der Knaben: Kreuz und Dornenkrone, weisen auf das Leiden und den Tod Christi hin, womit diese Jenseitsboten andeutungsweise mit Christus dem Erlöser und gleichzeitig mit dem Motiv seiner mystischen Todesüberwindung assoziiert sind.
 
-Das Bild eines «göttlichen Knaben», der als Todesdämon auftritt, ist aber an sich ein uraltes archetypisches, d. h. seelisch-allgemein menschliches Motiv. Faust wird z. B. als Knabe ins Jenseits aufgenommen, um eine neue Entwicklung unter der Leitung des Doctor Matianus zu beginnen. Im römischen Altertum bildete man in Stein kleine in Kapuzenmäntel gehüllte Knaben - Eroten - auf den Gräbern ab, um auf eine solche Wiedergeburtsmöglichkeit des Toten im Jenseits hinzuweisen. In dieser verhüllten Gestalt, als «cucullatus», stellte der kleine Grab-Eros den Genius des Abgeschiedenen dar «renatus in novam infantiam». Es ist bedeutsam, daß die Knaben des Romans Lederkappen tragen auch sie sind offenbar solche «cucullati» - verhüllte und verborgene Mächte der Seele.
+Das Bild eines «göttlichen Knaben», der als Todesdämon auftritt, ist aber an sich ein uraltes archetypisches, d. h. seelisch-allgemein menschliches Motiv. Faust wird z. B. als Knabe ins Jenseits aufgenommen, um eine neue Entwicklung unter der Leitung des Doctor Marianus zu beginnen. Im römischen Altertum bildete man in Stein kleine in Kapuzenmäntel gehüllte Knaben - Eroten - auf den Gräbern ab, um auf eine solche Wiedergeburtsmöglichkeit des Toten im Jenseits hinzuweisen. In dieser verhüllten Gestalt, als «cucullatus», stellte der kleine Grab-Eros den Genius des Abgeschiedenen dar «renatus in novam infantiam». Es ist bedeutsam, daß die Knaben des Romans Lederkappen tragen auch sie sind offenbar solche «cucullati» - verhüllte und verborgene Mächte der Seele.
 
 Die moderne Tiefenpsychologie hat wissenschaftlich wiederentdeckt, was der Primitive von jeher ahnte, daß der Mensch nicht nur aus seinem bewußten Ich besteht, sondern aus einem größeren umfassenderen seelischen System, d. h. seiner Ganzheit, von der das Ich nur einen kleinen Teil bildet. Diese in ihrer Erstreckung unabsehbare Ganzheit der Persönlichkeit ist von einem Zentrum her regiert, welches Jung im Gegensatz zum Ich als das Selbst bezeichnet hat. Zu Beginn des Lebens sind wir in dieser größeren Ganzheit allseits enthalten, und das Ich entwickelt sich erst allmählich als Teil daraus hervor, um gegen das Lebensende wieder
 
@@ -432,7 +431,6 @@ Dieses Geheimnis der Ganzheit ist in Träumen und Phantasien oft durch das Symbo
 Daß in dieser ersten Szene des Romans gerade zwei Kna-
 
 [^0]
-[^0]:    ${ }^{6}$ Vgl. C. G. Jung: Einführung in das Wesen der Mythologie, 1. c. p. 117 und p. 142 f.
     ${ }^{7}$ Vgl. ebenda.
     ${ }^{8}$ ebenda p. 144
 
@@ -448,7 +446,6 @@ Die beiden Freunde Melchiors stellen seelische Gegensätze dar, welche wir fast 
 «Puer aeternus» ist ja bekanntlich ein Ausdruck, mit welchem der Dichter Ovid in seinen Metamorphosen das göttliche Kind, oder den Sohngott Jacchos der eleusinischen Mysterien bezeichnet hat. ${ }^{10} \mathrm{Er}$ ist das «göttliche Kind», das in der heiligen Nacht einer mystischen Gottesgeburt von Demeter-Brimo zur Welt gebracht wurde - den Einge-
 
 [^0]
-[^0]:    ${ }^{9}$ Vgl. C. G. Jung: Symbole der Wandlung 1. c. p. 335 ff. ${ }^{10}$ Metamorphosen IV, 18 ff.
 
 ---
 
@@ -458,7 +455,6 @@ weihten zum Erlöser bestimmt, ein Gottkind, das auch durch die Kornähre symbol
 Aber auch andere Züge des Adoleszenzalters finden sich oft vor, wie ein überspitzter Pseudo-Individualismus, hinter dem sich eine kollektive Beeinflußbarkeit versteckt, religiöses und philosophisches Suchen und ein ewiges «noch-nicht-leben» oder provisorisches Leben: man ist der richtigen Frau noch nicht begegnet, hat den richtigen Beruf noch nicht gefunden, die eigene Genialität noch nicht verwirklicht. Ein leichterer oder ausgesprochenerer Heilandswahn spielt meistens mit hinein, sei es, daß man nur romantisch träumt, die Welt zu verbessern, oder daß man sogar krankhafte Messiasideen hegt. Die nackte Wirklichkeit ist hingegen immer unbefriedigend - überall ist ein Haar in der Suppe. Diese Wirklichkeitsflucht führt häufig zur Berufswahl des Fliegers oder zu waghalsigem Bergsteigertum,
 
 [^0]
-[^0]:    ${ }^{11}$ Vgl. hiezu ausführlicher C. G. Jung: Von den Wurzeln des Bewußtseins, Zürich 1954, p. 10 I f.
 
 ---
 
@@ -488,12 +484,11 @@ Obgleich dieser Gegensatz von Vater und Sohn im Buche nur kurz erwähnt wird, is
 
 # Page 36
 
-Wie C. G. Jung in seinem unfangreichen Schrifttum gezeigt hat, ist nämlich die alchemistische Tradition von ungeheurer Bedeutung für die abendländische Geistesgeschichte. ${ }^{12}$ Jung hat der Erforschung der Alchemie sein halbes Leben gewidmet und gezeigt, daß sie nur zum geringen Teil eine von Magie und Aberglauben noch entstellte Vorchemie sei - sie ist vielmehr auch die Manifestation einer unberwußten religiösen seelischen Strömung, welche viele höchste Geisterrepräsentanten fasziniert hat, nicht zuletzt auch Goethe. Kompensatorisch zur patriarchal-spirituellen Orientierung des offiziellen Christentums suchten die Alchemisten die Gottheit eher in der mütterlichen Natur und im Geheimnis des Stoffes zu finden, und dabei geschah es ihnen, daß sie unwillkürlich die faszinierenden Inhalte ihres eigenen seelischen Hintergrundes in das Unbekannte des Stoffes projizierten. ${ }^{13}$ So sehr dieser Vorgang den Fortschritt der exakten Chemie zunächst aufhielt, so wertvoll sind solche symbolische Projektionen für die moderne Psychologie des Unbewußten geworden; denn dank der Entdeckungen C. G. Jungs können wir nun in ihnen eine reiche lange Vorgeschichte der Tiefenpsychologie überblicken, die uns hilft, die modernen Träume und unbewußten Strebungen des heutigen Menschen besser zu verstehen.
+Wie C. G. Jung in seinem unfangreichen Schrifttum gezeigt hat, ist nämlich die alchemistische Tradition von ungeheurer Bedeutung für die abendländische Geistesgeschichte. ${ }^{12}$ Jung hat der Erforschung der Alchemie sein halbes Leben gewidmet und gezeigt, daß sie nur zum geringen Teil eine von Magie und Aberglauben noch entstellte Vorchemie sei - sie ist vielmehr auch die Manifestation einer unbewußten religiösen seelischen Strömung, welche viele höchste Geisterrepräsentanten fasziniert hat, nicht zuletzt auch Goethe. Kompensatorisch zur patriarchal-spirituellen Orientierung des offiziellen Christentums suchten die Alchemisten die Gottheit eher in der mütterlichen Natur und im Geheimnis des Stoffes zu finden, und dabei geschah es ihnen, daß sie unwillkürlich die faszinierenden Inhalte ihres eigenen seelischen Hintergrundes in das Unbekannte des Stoffes projizierten. ${ }^{13}$ So sehr dieser Vorgang den Fortschritt der exakten Chemie zunächst aufhielt, so wertvoll sind solche symbolische Projektionen für die moderne Psychologie des Unbewußten geworden; denn dank der Entdeckungen C. G. Jungs können wir nun in ihnen eine reiche lange Vorgeschichte der Tiefenpsychologie überblicken, die uns hilft, die modernen Träume und unbewußten Strebungen des heutigen Menschen besser zu verstehen.
 
 Die Alchemisten der Vergangenheit allerdings konnten selber diesen Wert ihrer Phantasien nicht eigentlich einsehen, da ibnen der Begriff der unbewußten Psyche fehlte, den Jung erst heute geschaffen hat. Sie mußten daher entweder darauf insistieren, daß ihre symbolischen Phantasien wirklich die «reale» Materie beträfen oder sie nur als allegorische Geistspielerei auffassen, als eine Art verhüllter theologisch-philosophischer «Lehre» oder «Weisheit», wie dies z. B. die Rosenkreuzer taten und noch heute manche Freimaurer tun. Daß die stoffliche Realität einer «Welt-
 
 [^0]
-[^0]:    ${ }^{12}$ Vgl. besonders: Psychologie und Alchemie, Zürich 1944 und: Mysterium Coniunctionis, 3 Vols. 1955-1957.
     ${ }^{13}$ Vgl. C. G. Jung: Psychologie und Alchemie 1. c. p. 41 f.
 
 ---
@@ -514,7 +509,7 @@ Die visionäre Erscheinung eines Doppelgänger-Knaben in der Kindheit vieler Men
 
 Dieser verbreitete Mythos veranschaulicht wohl die psychische Tatsache, daß die Bewußtseinsentwicklung im Menschen sogar schon in frühester Kindheit eine größere umfassendere Ganzheit des Wesens aufbricht, - es entsteht die normale Spaltung zwischen dem bewußten Ichkern einerseits und andererseits allen jenen anderen psychischen Inhalten, die man auch noch ist; d. h. jener Schattenbereiche des Unbewußten, in welchem Dunkles und Höchstes, Alles, was über das Ich hinausreicht, lebt. - Nicht wenige Einzelkinder haben in Wirklichkeit auch heute noch solche Doppelgänger-Phantasien und Erlebnisse. Der «Andere»
 
-${ }^{14}$ Vgl. Hedwig von Beit: Gegensatz und Erneuerung im Märchen, Bern, 1956, p. 382 ff. und dieselbe: Symbolik des Märchens, Bern, 1952, p. 369.
+14 Vgl. Hedwig von Beit: Gegensatz und Erneuerung im Märchen, Bern, 1956, p. 382 ff. und dieselbe: Symbolik des Märchens, Bern, 1952, p. 369.
 
 ---
 
@@ -527,7 +522,6 @@ Die Beziehung zu Henriette Karlsen ist ein typisches erstes Liebeserlebnis, in w
 Einen klassischen Fall einer solchen zarten jenseitiggebliebenen Anima stellt der Schweizer Dichter Gottfried Keller dar, der selber infolge seiner zarten Gefühlsanlage nie heiratete und der die Tragik einer solchen Animakon-
 
 [^0]
-[^0]:    ${ }^{15}$ Vgl. C. G. Jung: Aion, Zürich 1951, p. 27 ff.
 
 ---
 
@@ -537,7 +531,7 @@ stellation so unvergleichlich schön in seinem Gedicht «Winternacht» geschilde
 
 Die Schwäche und das vorwiegend den Charakter der Mutter wiederholende Wesen der Anima ist aber auch ein kollektives Problem, das besonders im nordischen Protestantismus konstelliert ist. Südlich des römischen Limes, soweit der Einfluß der keltischen und der vorchristlichen römischen Kultur einst reichte, ist die weibliche Seite des Mannes besser entwickelt, und die wirkliche Frau kann dort dann auch mehr persönlichen Eros und Eigenpersönlichkeit entfalten; sie wird nicht nur sentimental als «Mütterchen» verehrt oder als «Mutter von Heldensöhnen» angefordert. ${ }^{17}$ Da Bruno Goetz selber eine reich differenzierte Animasymbolik in anderen seiner Werke gestaltet hat, ist sein Eros offensichtlich nicht auf solch primitiver Stufe steckengeblieben. Seine glückliche Heirat einerseits und seine Liebe zur mediterranen und antiken Kunst andererseits, haben wohl zu einer solchen späteren Differenzierung geführt. In diesem frühen Roman hingegen ist noch eine typisch
 
-${ }^{16}$ Nicht ein Flügelschlag ging durch die Welt, Still und blendend lag der weiße Schnee. Nicht ein Wölklein hing am Sternenzelt, Keine Welle schlug im starren See. Aus der Tiefe stieg der Seebaum auf, Bis sein Wipfel in dem Eis gefror. An den Asten klomm die Nix herauf, Schaute durch das grüne Eis empor. Auf dem dünnen Glase stand ich da, Das die schwarze Tiefe von mir schied; Dicht ich unter meinen Füßen sah Ihre weiße Schönheit, Glied um Glied. Mit ersticktem Jammer tastet sie An der harten Decke her und hin. Ich vergeß das dunkle Antlitz nie, Immer immer liegt es mir im Sinn.
+16 Nicht ein Flügelschlag ging durch die Welt, Still und blendend lag der weiße Schnee. Nicht ein Wölklein hing am Sternenzelt, Keine Welle schlug im starren See. Aus der Tiefe stieg der Seebaum auf, Bis sein Wipfel in dem Eis gefror. An den Asten klomm die Nix herauf, Schaute durch das grüne Eis empor. Auf dem dünnen Glase stand ich da, Das die schwarze Tiefe von mir schied; Dicht ich unter meinen Füßen sah Ihre weiße Schönheit, Glied um Glied. Mit ersticktem Jammer tastet sie An der harten Decke her und hin. Ich vergeß das dunkle Antlitz nie, Immer immer liegt es mir im Sinn.
 ${ }^{17}$ Vgl. u. a. C. G. Jung. Seminarien F. Nietzsche's Zarathustra. Part. 8, Zürich 1937.
 
 ---
@@ -562,7 +556,7 @@ In einer dem Psychologen bekannten Art wird Melchior zunächst nur kurz in die e
 
 # Page 43
 
-# ZWEITES KAPITEL 
+# ZWEITES KAPITEL
 
 ## DIE BEGEGNUNG
 
@@ -635,7 +629,7 @@ Dieser erblickte den Ring. In seinen Augen blitzte es flüchtig auf, er verbarg 
 Melchior schaute ihm lange nach. Plötzlich erschrak er: er gewahrte den Ring an seinem Finger, erinnerte sich des Knaben und kam sich wie ein Verräter vor. Erst als ihm einfiel, daß der Fremde den Ring nicht gesehen oder nicht beachtet hatte, beruhigte er sich ein wenig, ohne sich jedoch seine Unachtsamkeit verzeihen zu können.
 «Was bedeutet das?» dachte er, «ich verliere die Herrschaft über mich selbst. Mir geschehen Dinge wie in Träumen. Wer war der Fremde? Was vermochte er über mich, daß ich ihn plötzlich liebte, daß ich vergessen konnte, wer er ist? Er ist mein Feind!»
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Das zweite Kapitel: «Die Begegnung»
 
@@ -650,7 +644,6 @@ hüllt sich im dritten Kapitel, welches den Namen des Knaben «Fo» = Buddha, tr
 Offenbar sollte Melchior den Ring nur kurz besitzen, um ihn zeitweise vor von Spät zu retten und von dem Reich ohne Raum soviel Ahnung zu erhalten, daß die Sehnsucht in ihm erwachen möge, dem Knaben Fo in sein Reich zu folgen.
 
 [^0]
-[^0]:    ${ }^{18}$ Vgl. den psychologischen Kommentar zu Hoffmanns Goldenem Topf von A. Jaffé in: C. G. Jung: Gestaltungen des Unbewußten, Zürich 1950, p. 239 ff.
 
 ---
 
@@ -663,7 +656,6 @@ So erfahren wir zu Beginn schon etwas mehr von dem geheimnisvollen Knaben Fo, er
 Warum aber wird vom Unbewußten das «Selbst», die umfassendere Ganzheit des Menschen, oft bildhaft als Kind oder Knabe veranschaulicht? Warum nicht als Greis, als alter Weiser oder in abstrakter Form? Das Symbol des Kindes oder Jünglings wird - wie Jung dargelegt hat ${ }^{20}$ vom Unbewußten als Ausdrucksform gewählt, dann wenn die Ganzheit zunächst als unbewußter Aspekt der Kollektivseele auftritt, als etwas Gewesenes, längst Vergangenes aus der eigenen, wie der Menschheitsgeschichte stammend. Aber dieser Vergangenheitsaspekt ist eigentlich einseitig,
 
 [^0]
-[^0]:    ${ }^{19}$ Vgl. C. G. Jung: Symbole der Wandlung 1. c. p. 598 f.
     ${ }^{20}$ Einführung in das Wesen der Mythologie 1. c. p. 120 u. 133 ff .
 
 ---
@@ -680,7 +672,7 @@ Wer aber ist dann Ulrich von Spät? Es wäre leicht, ihn als eben diesen kollekt
 
 # Page 51
 
-# FRITTES KAPITEL 
+# FRITTES KAPITEL
 
 ## FO
 
@@ -763,7 +755,7 @@ Melchior zögerte noch. Dann stand er schweigend auf, sah Fo lange an und öffne
 
 # Page 57
 
-# DIE ENTFESSELTEN 
+# DIE ENTFESSELTEN
 
 Es klopfte. Melchior antwortete nicht. Die Tür wurde vorsichtig geöffnet. Seine Frau Sophie schaute herein. Klein und zerbrechlich, mit schwarzem, glattem, in der Mitte gescheiteltem Haar stand sie im Türrahmen und blickte mit ihren blaugrünen Augen auf Melchior. Ihre vollen, etwas formlosen Lippen zuckten kaum merklich.
 «Ich dachte mir, daß du schon hier bist», sagte sie, «warum bleibst du allein im kalten Zimmer? Komm zu uns herüber. Es ist heute sehr interessant.»
@@ -830,6 +822,7 @@ Aber Professor Cux, der sich inzwischen seine von Schweißtropfen verklebte gold
 # Page 61
 
 und er zog eine bubenhaft aussehende Frau mit kurzen blonden Haaren hinter seinem Rücken hervor, «sieht sie nicht prächtig aus?»
+
 Die junge Frau errötete herausfordernd.
 «Du brauchst nicht zu erröten, Franziska», fuhr Professor Cux fort, «hier ist es so Sitte, alles gleich herauszusagen, was man denkt. Sehn Sie nur, lieber Freund», wandte er sich an Melchior und hob dabei den Rock seiner Frau bis über die Knie in die Höhe, «sehen Sie nur diese Waden. Wenn ich an diese Waden denke, finde ich sofort die Lösung für meine, kompliziertesten chemischen Formeln. Und ihr wirklicher Anblick begeistert mich geradezu zu neuen Entdeckungen, - natürlich nur auf dem Gebiete der Chemie.»
 
@@ -885,7 +878,7 @@ Sophie hatte mit weitgeöffneten Augen stumm in der Ecke gestanden. Ihre Mundwin
 
 Melchior und Herr von Spät sahen sich an und lächelten. Melchior war es, als lege sich ein dünner Schleier über das ganze Bild. Das Schreien gellte nicht mehr so schrill; das widrige Verrenken der Glieder, die verzerrten Gesichter, das schweißige Fleisch - alles schien ihm ferner, seltsamer, fremder zu werden. Nur Herrn von Spät wußte er sich nahe und zutiefst verbunden.
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Das vierte Kapitel: «Die Entfesselten»
 
@@ -900,7 +893,6 @@ den Kopf zu stellen. In diesem Kapitel wird außerdem offenbar, daß er kein gew
 Die Deutung des Herrn von Spät als Sonnenprinzip und damit als kollektive Bewußtseinsdominante wird durch viele weitere Taten von Späts im Roman bestätigt - tritt er doch in späteren Kapiteln als Hüter bestehender Ordnung und Ethik auf, die er gegen das revolutionäre Chaos, welches die Knaben stiften, zu verteidigen sucht. Aber es fehlt diesem Sonnenprinz sein Bestes, seine leben- und fruchtbarkeitsspendene Wärme. Von Spät wirkt wie eine «erkaltete» Sonne, die zwar noch Klarheit, aber kein Leben mehr zu fördern vermag. Die Idee eines erkalteten, gealter-
 
 [^0]
-[^0]:    ${ }^{21}$ Vgl. C. G. Jung: Psychologie und Alchemie 1. c. p. ior ff.
     ${ }^{22}$ Vgl. C. G. Jung: Mysterium Coniunctionis, Vol. I, p. 100 f.
 
 ---
@@ -914,7 +906,6 @@ In diesem Lichte gesehen symbolisiert Ulrich von Spät den Geist einer Kulturtra
 Der Gegensatz zwischen von Spät und Fo umschließt da-
 
 [^0]
-[^0]:    ${ }^{23}$ ebenda, Vol. II, p. 56 f. und p. 82 f.
     ${ }^{24}$ Vgl. Charles Luk: Ch'an and Zen Teaching, London 1960, p. 2 I.
 
 ---
@@ -931,7 +922,7 @@ Als Melchior den Herrn von Spät einmal später schlafend erblickt, sieht er pl�
 
 # Page 69
 
-# DIE WUNDER 
+# DIE WUNDER
 
 Dieser Zustand währte nur wenige Minuten. Melchior raffte sich zusammen und besann sich. Herr von Spät hatte das Zimmer verlassen. Das ganze Bild, das die Geselschaft bot, hatte sich verändert. Melchior stand allein an der einen Längswand. An der andern drängten sich die Gäste zusammen und flüsterten gespannt. Melchior sah, wie ihn zuweilen ängstliche und fast feindliche Blicke trafen. Alles war voll böser Erwartung.
 
@@ -1073,7 +1064,7 @@ Boden Liegenden. Entsetzen und Liebe überwältigten ihn. Fast besinnungslos wol
 
 Und er lachte noch einmal unbändig auf, schaute Melchior fest an, sagte leise und eindringlich: «Melchior, wir warten auf dich!» und stob von dannen.
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Das fünfte Kapitel: «Die Wunder»
 
@@ -1084,7 +1075,6 @@ Wo die Machteinstellung im Menschen vorherrscht, sinkt meist der Eros auf seine 
 Dasselbe wie das Machtstreben tut der Intellektualismus dem Liebesprinzip an, denn er vermag das seelische Zwi-
 
 [^0]
-[^0]:    ${ }^{25}$ Von den Wurzeln des Bewußtseins 1. c. p. ros.
 
 ---
 
@@ -1099,7 +1089,6 @@ Von Spät hingegen gibt sich als der arrogante «Meister» der Liebesszene aus -
 An dieser Stelle des Kampfes zwischen Herrn von Spät und Fo tritt eine Enantiodromie (d. h. ein unvermittelter Umschlag ins Gegenteil ${ }^{27}$ ) ein. Diese plötzliche Kehre» wird während des ganzen Erzählungsablaufes immer wieder ein-
 
 [^0]
-[^0]:    ${ }^{26}$ Vgl. Psychologie und Alchemie 1. c. p. 324 ff.
     ${ }^{27}$ Uber diesen Begriff vgl. C. G. Jung: Symbole der Wandlung l. c. p. 655 .
 
 ---
@@ -1113,7 +1102,6 @@ Die eigentliche geheime paradoxe Identität des Ulrich von Spät mit Fo ist jedo
 Der «alte König» bedarf, wie Jung ausführt, ${ }^{30}$ immer wieder der Erneuerung, welche mit einem Abstieg in seine eigene Dunkelheit, mit dem Eintauchen in die eigene Tiefe, beginnt. Wie der Phoenix verbrennt er sich selber, um als Drache oder Wurm oder Ei zu erscheinen, aus denen er sich allmählich in die Sohnsgestalt des «filius regius» der Philosophen wandelt. Als solche wird er dann von den Alchemisten als der «wahre innere Mensch» gepriesen, ${ }^{31}$ welcher
 
 [^0]
-[^0]:    ${ }^{28}$ Das französische Wort blanc, weiß, ist verwandt mit deutsch blank und englisch black-schwarz!
     ${ }^{29}$ Auch Christus wurde als senex et puer bezeichnet.
     ${ }^{30}$ Mysterium Coniunctionis, Vol. II, p. 86.
     ${ }^{31}$ Vgl. ebda p. 103.
@@ -1127,7 +1115,6 @@ psychologisch das Selbst oder die Ganzheit des Individuums darstellt. Der Vater 
 Diese Gestalt des Mercurius personifiziert Lebensmächte jenseits unseres beschränkten Bewußteinsumfanges, Wege und Möglichkeiten, von denen das Bewußtsein in seiner Einseitigkeit nichts weiß. Sie ist ein Heilbringer und Ganz-
 
 [^0]
-[^0]:    ${ }^{32}$ Jung, Einführung in das Wesen der Mythologie, 1. c. p. 126.
 
 ---
 
@@ -1160,7 +1147,6 @@ Dieser Typus des verstandesmäßig entwickelten, aber affektiv und gefühlsmäß
 Wenn auch, wie erwähnt, eine stärkere Muttergebundenheit in den meisten Fällen zunächst als persönliche Ursache der Puer-Problematik erkennbar ist, so muß man sich bei einer solchen kollektiven Zunahme der Erscheinung doch
 
 [^0]
-[^0]:    ${ }^{33}$ Der Archetypus des Puer aeternus symbolisiert dann einfach einen unerfreulichen Infantilismus der Persönlichkeit. Vgl. C. G. Jung: Seminar über Dream Analysis, Vol. II, 1929, p. 76.
 
 ---
 
@@ -1172,7 +1158,7 @@ fragen, ob nicht dahinter noch tiefere Ursachen stecken. Warum nämlich sollte g
 
 # Page 85
 
-# VOR DER ENTSCHEIDUNG 
+# VOR DER ENTSCHEIDUNG
 
 Die Krämpfe ließen nach. Herr von Spät begann ruhiger zu atmen. Er schien zu schlafen. Das flimmernde, blaue Nebelgewand hatte sich zerteilt. Er lag nackt am Boden.
 
@@ -1231,7 +1217,7 @@ Melchior befand sich allein im Zimmer.
 
 # Page 89
 
-# ZWEITER TEIL 
+# ZWEITER TEIL
 
 ## DIE WANDERUNG
 
@@ -1319,7 +1305,7 @@ Den Wänden entlang aber saßen alle Männer und Frauen, die er in seinem Leben 
 
 # Page 94
 
-# DAS GERICHT 
+# DAS GERICHT
 
 Wer durfte es wagen, mich zu fesseln?» rief Melchior laut, «wer durfte es wagen, mich mit Gewalt hierherzuschleppen?»
 
@@ -1431,15 +1417,15 @@ Da flog ein großer Vogel mit weiß schimmerndem, lang herabhängendem Gefieder 
 
 Ein Windstoß fegte über den Platz. Melchior sah, wie sich aus dem Meer eine riesenhafte Welle erhob und sich rasch auf die Stadt zuwälzte. Der Welle voraus aber jagte ein Pferd mit flatternder Mähne und hielt vor ihm still. Er schwang sich, immer noch lachend, in den Sattel. Das Pferd stürmte mit Windeseile davon.
 
-Hinter ihm gellte ein tausendstimmiger, gurgelnder Schrei. Er schaute sich um. Die Welle hatte alles verschlungen.
+Hinter ihm geltte ein tausendstimmiger, gurgelnder Schrei. Er schaute sich um. Die Welle hatte alles verschlungen.
 
 ---
 
 # Page 100
 
-# KOMMENTAR 
+# KOMMENTAR
 
-## Das siebte und achte Kapitel:
+## Das siebte und achte Kapitel
 
 ## «Das offene Tor» und «Das Gericht»
 
@@ -1474,7 +1460,7 @@ einem «geistigen Aufschwung» bezeichnet er dies alles vor sich selber als blo�
 
 # Page 104
 
-# DER RUF 
+# DER RUF
 
 Das Angstgeschrei der Untergehenden in den Ohren, ritt Melchior besinnungslos weiter. Am Fuße eines dichtbewaldeten Berges machte er halt und stieg ab. Er kniete an einem talwärts eilenden Bächlein nieder, schöpfte mit der Hand vom eiskalten Wasser und trank.
 
@@ -1601,14 +1587,13 @@ Im selben Augenblick fühlte er sich von schlanken Armen ergriffen. Kühle Lippe
 
 Weit dehnte sich mondhelle Wiese. Unzählige Leuchtkäfer tanzten durch süße Sommerluft. Fackeln brannten. Von überallher tönten Stimmen. Er sah Fos Gesicht über sich geneigt, lachte ihn still an und fiel in dunklen Schlaf.
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Das neunte Kapitel: «Der Ruf»
 
 Da sich Melchior, wie wir später realisieren, auf dem «richtigen» Weg zum Reich des Herrn von Spät befindet, muß ihm nun, in dieser Stimmungslage, das Erdreich der Apfelfrau und Mutter Natur, die zu den Knaben gehört, in einem negativen Licht erscheinen. Die Alte wird zur geilen Buhlerin, die Tierwelt verfolgt Melchior als ein Rudel gieriger Wölfe, (ein Symbol des Todesgottes und der verschlingenden Mutter). ${ }^{35}$ Die Pflanzenwelt wird zu giftigen Pilzen, und die Erdenmenschen erscheinen ihm wie Dämonen. Ihr Ruf «Kauft Pilze, es sind die letzten. Die Erde verdampft, die Sonne verfault, kauft Pilze so lange der Vorrat reicht! Der
 
 [^0]
-[^0]:    ${ }^{35}$ Für Belege vgl. H. von Beit: Symbolik des Märchens 1. c. Vol. I, p. 152, 474 ff., 661-663.
 
 ---
 
@@ -1622,7 +1607,7 @@ Als Melchior von der negativen Erdmutter umklammert wird, gebiert sich aus seine
 
 # Page 113
 
-# ZEHNTES KAPITEL 
+# ZEHNTES KAPITEL
 
 ## DIE KREUZIGUNG UND DIE TIERE
 
@@ -1758,15 +1743,15 @@ Und er winkte den Knaben, die herbeieilten und einen Kreis um sie schlossen. Dan
 «Du sollst Li heißen!»
 «Li, Li, Li!» riefen die Knaben und der neue Name wurde von Munde zu Munde gegeben.
 
-# KOMMENTAR 
+# KOMMENTAR
 
-Das zebnte Kapitel: «Die Kreuzigung und die Tiere»
+## Das zebnte Kapitel: «Die Kreuzigung und die Tiere»
+
 In diesem Kapitel werden neue Aspekte Fo's und seines Reiches offenbar: Er enthüllt sich als Mondgott und Wassergeist, ja als ein Gott der Tiere und der Natur in ihrem paradiesischen Aspekt vor dem Sündenfall. In seinem Reich findet die ersehnte «Apokatastasis pantôn» statt, bei der die Sünde Adams, die Schuld der menschlichen Bewußtwerdung, gesühnt wird. Die Rebe verbindet Fo mit Dionysos, die Flöte mit Pan und das Kreuzigungs- und Todesmotiv, - wie schon in den Gaben der beiden Knaben an den alten Lindenhuis angedeutet worden war - mit Christus.
 
-Psychologisch gesehen gehört ja Christus zum Typus all jener früh sterbenden Sohngötter des vorderen Orients, wie etwa Tammuz, Attis, Adonis und Osiris. ${ }^{36}$ Auf einer antiken
+Psychologisch gesehen gehört ja Christus zum Typus all jener früh sterbenden Sohngötter des vorderen Orients, wie etwa Tammuz, Attis, Adonis und Osiris. ${ }^{38}$ Auf einer antiken
 
 [^0]
-[^0]:    ${ }^{36}$ Vgl. C. G. Jung. Symbole der Wandlung 1. c. p. 377 ff.
 
 ---
 
@@ -1789,7 +1774,6 @@ Als Melchior in der Nachfolge Fo's die Kreuzigung erleidet, geschieht jedoch etw
 Die relative Entwertung des Leidensmomentes entspricht mutatis mutandis der Art, wie sich Melchior schon zuvor der Exekution im Reiche von Späts entzogen hatte - von dem weißen Vogel dazu ermutigt. Die geistige Ekstase (der Vogel ist ein Symbol des Geistes) entrückt ihn der Qual des Menschseins und heilt zwar seine Leiden, zugleich aber unterstützt es seine ethische Unverantwortlichkeit gegenüber dem Problem des Bösen. Die wirkliche Natur ist ja kein Garten Eden voller Unschuld, sondern bei aller Schönheit
 
 [^0]
-[^0]:    ${ }^{37}$ Vgl. C. G. Jung, ebenda, p. 394, 422 und 733.
 
 ---
 
@@ -1833,13 +1817,13 @@ Hier, bei dieser Frage, hätte Melchior-Li reagieren, eingreifen und widerstehen
 
 # Page 127
 
-# DIE TAT 
+# DIE TAT
 
 ## ELFTES KAPITEL
 
 ## STUHLBRESTENBURG
 
-Die Residenzstadt Stuhlbrestenburg verdankte ihr seltsames Aussehen einer witzigen Laune Walters des Zweiten, jenes lustigen Königs, in dessen Regierungszeit der große Brand gefallen war, der fast die ganze Stadt vernichtet hatte. Als an ihren Wiederaufbau geschritten wurde, da war der alte König auf den kuriosesten Einfall seines Lebens gekommen. Er stellte es sich als überaus spaßhaft vor, die meist bis zum ersten Stockwerk stehen gebliebenen massiven Mauerreste nicht abtragen, sondern auf ihnen, als dem Erdgeschoß, die neuen Häuser in einer ganz anderen, luftigeren Bauart errichten zu lassen, so daß jedes Haus deutlich erkennbar aus einem alten und einem neuen Teil bestehen würde; überdies sollte, um diesen Unterschied für das Auge noch mehr hervorzuheben, verboten werden, die schwärzlichen alten Teile zu übertünchen, die neuen Uberbauten dagegen sollten eine weißliche oder rosige Färbung tragen.
+Die Residenzstadt Stuhlbrestenburg verdankte ihr seltsames Aussehen einer witzigen Laune Walters des Zweiten, jenes lustigen Königs, in dessen Regierungszeit der große Brand gefallen war, der fast die ganze Stadt vernichtet hatte. Als an ihren Wiederaufbau geschritten wurde, da war der alte König auf den kuriosesten Einfall seines Lebens gekommen. Er stellte es sich als überaus spaßhaft vor, die meist bis zum ersten Stockwerk stehen gebliebenen massiven Mauerreste nicht abtragen, sondern auf ihnen, als dem Erdgeschoß, die neuen Häuser in einer ganz anderen, luftigeren Bauart errichten zu lassen, so daß jedes Haus deutlich erkennbar aus einem alten und einem neuen Teil bestehen würde; überdies sollte, um diesen Unterschied für das Auge noch mehr hervorzuheben, verboten werden, die schwärzlichen alten Teile zu übertünchen, die neuen Überbauten dagegen sollten eine weißliche oder rosige Färbung tragen.
 
 Ungeachtet des Widerstandes eines erheblichen Teiles der Einwohnerschaft setzte Walter der Zweite nach langem Hin- und Herreden seinen Willen durch. Die Erdgeschosse der aus den Trümmern wiedererstandenen Stadt wuchteten wie früher schwer und finster mit kleinen niederen Fenstern auf der Erde, über ihnen er-
 
@@ -1934,7 +1918,7 @@ Soweit der Leitartikel. Im Feuilleton aber verbreitete sich Medizinalrat Profess
 
 # Page 136
 
-# ZWÖLFTES KAPITEL 
+# ZWÖLFTES KAPITEL
 
 DER BOCK IN DER KIRCHE
 
@@ -2066,9 +2050,9 @@ Niemand wagte ein Wort zu sagen. Langsam wandten sie sich dem Ausgang zu und sch
 
 # Page 144
 
-# DER GROSSE PROZESS 
+# DER GROSSE PROZESS
 
-Gott sei Dank», dachte Ahlbeck, als er wieder auf der Straße war, «Gott sei Dank, daß ich Johannsen und Flamm aus den Augen verloren habe. In welch unwürdigen Situationen haben sie mich erblickt! Ich sprang wie ein Besessener herum, kniete, winselte, schlug mit der Stirn auf den Boden, lief vor Hunden davon, umarmte Marktweiber. Und alle die andern, die mich gesehen haben! Es werden gewiß noch viele Bekannte in der Kirche gewesen sein. Wenn sie das in der Stadt herumbrächten! Ich bin verloren. Es kann mich meine Stellung kosten. Ich komme ins Irrenhaus. Wie wird sich Johannsen dazu stellen? Und Flamm? Ich kann ihnen nicht mehr in die Augen sehn . . . Diese Musik . . . Was war das für eine Musik? . . . O Gott! . . . Ach was, die andern haben es ja ebenso getrieben wie ich. Sie werden wahrscheinlich nichts davon erzählen. Sie werden sich schämen . . . Aber wie kamen wir überhaupt dazu? . . . In der Kirche?! . . . Jetzt fällts mir erst ein . . . Der alte Konsistorialrat als Bock . . . der nackte Junge am Altar . . . die Hunde . . . Ich glaube ich werde verrückt... Aber das ist ja Unsinn. Ich muß in der Kirche eingeschlafen gewesen sein und geträumt haben... Natürlich... Eine andere Erklärung ist unmöglich. Das kommt davon, wenn man auf solche dummen Geschichten hinhört, wie meine Frau und Flamm sie mir erzählt haben! . . . Aber . . . aber . . . bedenklich bleibt's immerhin, daß ich mir für ein paar Minuten einbilden konnte, das alles sei wirklich wahr gewesen ... Ja, ja . . . man wird alt... Gut, daß ich nur geträumt habe . . Warum aber hat Flamm sich davon-
+Gott sei Dank», dachte Ahlbeck, als er wieder auf der Straße war, «Gott sei Dank, daß ich Johannsen und Flamm aus den Augen verloren habe. In welch unwürdigen Situationen haben sie mich erblickt! Ich sprang wie ein Besessener herum, kniete, winselte, schlug mit der Stirn auf den Boden, lief vor Hunden davon, umarmte Marktweiber. Und alle die andern, die mich gesehen haben! Es werden gewiß noch viele Bekannte in der Kirche gewesen sein. Wenn sie das in der Stadt herumbrächten! Ich bin verloren. Es kann mich meine Stellung kosten. Ich komme ins Irrenhaus. Wie wird sich Johannsen dazu stellen? Und Flamm? Ich kann ihnen nicht mehr in die Augen sehn . . . Diese Musik . . . Was war das für eine Musik? . . . O Gott! . . . Ach was, die andern haben es ja ebenso getrieben wie ich. Sie werden wahrscheinlich nichts davon erzählen. Sie werden sich schämen . . . Aber wie kamen wir überhaupt dazu? . . . In der Kirche?! . . . Jetzt fällts mir erst ein . . . Der alte Konsistorialrat als Bock . . . der nackte Junge am Altar . . . die Hunde . . . Ich glaube ich werde verrückt... Aber das ist ja Unsinn. Ich muß in der Kirche eingeschlafen gewesen sein und geträumt haben... Natürlich... Eine andere Erklärung ist unmöglich. Das kommt davon, wenn man auf solche dummen Geschichten hinhört, wie meine Frau und Flamm sie mir erzählt haben! . . . Aber . . . aber . . . bedenklich bleibt's immerhin, daß ich mir für ein paar Minuten einbilden konnte, das alles sei wirklich wahr gewesen ... Ja, ja . . . man wird alt... Gut, daß ich nur geträumt habe... Warum aber hat Flamm sich davon-
 
 ---
 
@@ -2082,7 +2066,7 @@ Im Korridor des Gerichtsgebäudes traf er mit Johannsen zusammen, der sehr bleic
 
 Der Staatsanwalt wurde verlegen. Nach einer Weile fragte er zögernd:
 «Ja, wie erklären Sie sich das eigentlich?»
-«Sehr einfach», antwortete Ahlbeck, den die Ahnlichkeit der Träume und das betretene Wesen des Staatsanwalts etwas mißtrauisch machten, obgleich er noch fester als vorher davon überzeugt war, alles sei nur ein Traum gewesen. «Wissen Sie, die Geschichte mit den Unterirdischen, die Gerüchte aus Rattenhusen... das regt einen schließlich auf und ruiniert allmählich die Nerven. Wir sind nicht mehr die Jüngsten, mein lieber Johannsen ...»
+«Sehr einfach», antwortete Ahlbeck, den die Ahnlichkeit der Träume und das betretene Wesen des Staatsanwalts etwas mißtrauisch machten, obgleich er noch fester als vorher davon überzeugt war, alles sei nur ein Traum gewesen. «Wissen Sie, die Geschichte mit den Unterirdischen, die Gerüchte aus Rattenhusen... das regt einen schließlich auf und ruiniert allmählich die Nerven. Wir sind nicht mehr die Jüngsten, mein lieber Johannsen...»
 
 Und er seufzte auf und schüttelte nachdenklich den Kopf. Johannsen wollte ihm eben erwidern, da unterbrach ein Gerichtsdiener das Gespräch und meldete, eine auffallend gekleidete, schöne Dame mit großen, starren Augen wünsche den Staatsanwalt noch vor der
 
@@ -2114,7 +2098,6 @@ tert auf, schrien ebenfalls «Bravo» und applaudierten lärmend.
 
 Amtsrichter Ahlbeck, der die ganze Zeit hindurch zitternd dagesessen war und den Staatsanwalt nicht zu unterbrechen gewagt hatte, raffte sich auf und klingelte.
 «Ruhe!« rief er, «oder ich lasse die Zuhörer hinausweisen! . . . Bitte, Herr Justizrat!»
-
 Der Vertreidiger, Justizrat Musäus, erhob sich.
 «Hoher Gerichtshof! Meine Herren Geschworenen», begann er, verstummte jedoch sofort entsetzten Blicks. Denn ein Mensch, der genau so aussah wie er, die gleichen gesträubten Haare, die gleichen funkelnden braunen Augen, die gleiche niedere, zerfurchte Stirne hatte, ja, der sogar die gleiche Kleidung trug wie er, war eingetreten und eilte mit trippelnden Schritten auf ihn zu.
 «Betrug!» schrie er mit ein wenig belegter Stimme, die ebenfalls der des Justizrats glich. «Betrug! Ein Schwindler, dessen Gesichtszüge den meinen annähernd gleichen, hat sich eine ähnliche Kleidung, wie ich sie trage, angelegt und untersteht sich hier, meine Rolle spielen zu wollen! Welchen Zweck er damit verfolgt, ist mir noch nicht klar. Meine Herren, Sie kennen mich doch, überzeugen Sie sich selbst! Ich dachte es mir schon gleich, daß die Rattenhuser Unfugstifter auch hier anfangen würden, ihr Wesen zu treiben. Und in der Tat! Kaum betrete ich das Gerichtsgebäude und will mich ins Anwaltszimmer verfügen, halten mich die Diener zurück und behaupten, der Justizrat Musäus sei schon im Sitzungssaal und ich sei ein frecher Schwindler, den sie einsperren würden, bis die Sitzung zu Ende sei. Sie haben es denn auch getan. Erst jetzt gelang es mir zu entkommen, um hier den Betrüger, der sich meinen Platz anmaßt, zu entlarven!»
@@ -2214,7 +2197,7 @@ Während sich im Saale alles in den Armen lag, fingen sämtliche Glocken der Sta
 
 # Page 154
 
-# DER AUFRUHR 
+# DER AUFRUHR
 
 Nach kurzer Zeit wußte die ganze Stadt von den Vorfällen im Justizpalast. Auch die Gerüchte über den morgendlichen Tumult in der Domkirche wurden immer glaubwürdiger bestätigt. Die Unruhe der Bürger wuchs von Stunde zu Stunde und steigerte sich noch mehr, als die Nachricht verbreitet wurde, die Unterirdischen hätten an zwei Stellen einen Ausbruchsversuch gemacht: er sei zwar noch rechtzeitig vereitelt worden, das habe aber mehrere Opfer gekostet, denn die Verbrecher seien mit Revolvern und Gewehren bewaffnet gewesen und von den übrigen aufsässigen Elementen der Stadt offen unterstützt worden.
 
@@ -2397,8 +2380,7 @@ In der ganzen Stadt ging ein erbittertes Ringen vor sich. Niemand wußte mehr, g
 
 Auf dem Marktplatz wütete der Kampf am heftigsten. Tausendstimmiges Geschrei erfüllte die Luft. Da tönte eine helle Stimme aus dem Toben. Eine dunkle Gestalt hatte sich auf das Dach eines stehengebliebenen Straßenbahnwagens geschwungen und rief:
 «Freunde, hört mich, haltet ein!»
-Die Zunächststehenden stutzten und horchten auf.
-«Haltet ein!» rief die Gestalt. «besinnt euch!»
+Die Zunächststehenden stutzten und horchten auf. «Haltet ein!» rief die Gestalt. «besinnt euch!»
 Immer mehr Menschen hielten inne und horchten. Es war, als brächte die Gewalt dieser Anrufe die Wütenden allmählich wieder zu sich. Einer rief es dem andern zu. Langsam verbreitete sich eine bange Stille.
 «Freunde», fuhr die Gestalt fort, «besinnet euch! Ihr fürchtet euch ja nur voreinander, darum mordet ihr euch. Die alte Ordnung macht euch zu Feinden, so schafft eine neue! Vergeßt nicht, wer eure wahren Feinde sind. Die fremden Knaben sind es. Sie bergen sich in allen Gestalten. Sie nehmen eure eigne Gestalt an. Bürger, Unterirdische! Ihr haßt euch, doch ihr kennt euch. Wer sind aber die Knaben? Wer kennt sie? Woher kommen sie? Was wollen sie? Was für Ziele ihr auch erreichen mögt, schon lösen sie das Erreichte auf
 
@@ -2446,7 +2428,7 @@ Besinnungslos griffen sie zu ihren Waffen und stürzten sich auf die Knaben. Ein
 
 «Schießt sie herunter! Schießt sie herunter! Laßt sie nicht entkommen!» kreischte es unten. Kommandorufe erschollen. Dae Kanonen auf dem Marktplatz wurden gerichtet. Neue Kommandos. Die Schüsse krachten los. Und der Feuerkahn zersprühte in Funken. Millionen von Rosen sanken flatternd auf den Platz nieder und erfüllten die Luft mit dunklem, atemraubenden Duft.
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Der Dritte Teil
 
@@ -2476,7 +2458,7 @@ andersetzung mit Mephisto geführt hätte. Hier entledigte sich Goethe «sub ros
 
 # Page 175
 
-# DAS REICH 
+# DAS REICH
 
 ## FÜNFZEHNTES KAPITEL
 
@@ -2576,7 +2558,7 @@ Sie blickten um sich. Aus allen Wolken reckten sich erwachte Gefährten in den j
 
 # Page 181
 
-# DER UNTERGANG 
+# DER UNTERGANG
 
 Sie hoben grüßend die Hände dem Licht entgegen. Da jagte ein klingender Sturm von Flötenschreien und Hörnerrufen durch den Raum. Als die Knaben ihn vernahmen, ging ein Rauschen durch ihre Reihen.
 «Der Sturm!» rief Fo, «der Sturm von drüben. Wir hören ihn wieder. Wir sind angelangt. Das Reich ist nahe!»
@@ -2743,7 +2725,7 @@ Li konnte nur noch aufschreien. Dann wurde es Nacht um ihn.
 
 # Page 190
 
-# DIE WIEDERKEHR 
+# DIE WIEDERKEHR
 
 Der Garten war von einer hohen Mauer umgeben. Die Tore wurden streng bewacht. Die weißen Häuser hatten ein heimtückisch beruhigendes Aussehen.
 
@@ -2976,7 +2958,7 @@ Im Lehnsessel am Kamin, den Rücken ihm zugekehrt, saß ein Mann mit blonden, we
 
 # Page 204
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Der Vierte Teil
 
@@ -3007,13 +2989,12 @@ Dann folgt der wohl furchtbarste Betrug des Schicksals: Herr von Spät fängt Li
 Dieser Betrug ist psychologisch nicht nur als eine schlaue Travestie Ulrich von Späts zu verstehen: denn von Spät ist Fo. Hier schlagen die Gegensätze nicht mehr nur ineinander um, sondern sie verschmelzen in Eines. «Les extrèmes ne so touchent pas seulement» - sie sind zutiefst im Unbewußten Ein und Dasselbe. Melchiors Bewußtsein erlischt, während er dies erlebt. Der Geist des Unbewußten als «Mercurius senex et puer» überwältigt ihn völlig. Statt daß das Bewußtsein die Gegensätze dadurch, daß es sich eine schöpferische Auffassung derselben bildet, in der Retorte zur Einigung und Wandlung «in langsamem Feuer», wie die Alchemisten sagen würden, zwingt, haben sie es überrannt. Dann aber erzeugt der Mercurius als rohe «prima materia» nur giftige Nebel und paradox verwirrende Einfälle, wie dies manche Alchemisten beschrieben, und deshalb sogar den Mercurius als Erreger der Geisteskrankheit bezeichnet haben. «Nicht wenige gingen an unserem Werk zugrunde», betonen die alchemistischen Texte immer wieder. ${ }^{40}$
 
 [^0]
-[^0]:    ${ }^{40}$ Vgl. C. G. Jung: Psychologie und Alchemie 1. c. p. 455.
 
 ---
 
 # Page 207
 
-# Das siebzebnte Kapitel: «Die Wiederkebr» 
+# Das siebzebnte Kapitel: «Die Wiederkebr»
 
 Nach rund hundert Jahren treffen wir Melchior als alten Mann in einem Irrenhaus wieder an. Man hatte ihn in einem Boot auf dem Meer aufgefischt. Er schien normal zu sein, aber da er behauptete, der vor hundert Jahren verschollene Melchior van Lindenhuis aus Schimmelberg zu sein, war er zunächst interniert worden.
 
@@ -3022,7 +3003,6 @@ In vielen Volksmärchen, Sagen und Legenden findet sich dieses Motiv: ein Lebend
 Dieses archetypische Mythologem beschreibt eindrücklich die Relativität von Zeit und Raum in den tieferen Schichten der unbewußten Psyche, und auch in Wirklichkeit gibt es solche Entrückungen, in der Katatonie gewisser Schizophrener. Jahrelang dämmern sie wie tot dahin, um manchmal plötzlich und unerwartet, besonders oft auf dem Totenbett, zu einer scheinbar völlig intakt gebliebenen normalen Bewußtheit zurückzukehren. Allerdings dauert eine solche Versunkenheit im Gegensatz zu den Märchenfiguren nicht länger als das physiologische Lebensalter des Menschen. Die Sage fügt dem also ein übernatürliches Motiv hinzu, weil sie den subjektiv erlebten Zustand eines zeitlos langen Versunkenseins beschreiben will. Etwas Ahnliches ist offenbar Melchior zugestossen und die Situation, die Bruno Goetz hier psychologisch beschreibt, entspricht weitgehend einem psychotischen Zustand. Das «Ich» ( $=$ Melchior) ist zwar noch
 
 [^0]
-[^0]:    ${ }^{41}$ Vgl. H. von Beit: Symbolik des Märchens, I, 1. c. p. 61 ff.
 
 ---
 
@@ -3054,7 +3034,7 @@ vom «Goldenen Esel» eine solche seelische Heilung und Erlösung durch Osiris e
 
 # Page 211
 
-# DER SCHNEEWANDERER 
+# DER SCHNEEWANDERER
 
 Wie einst vor unvordenklicher Zeit sah er seinen Feind schlafen.
 «Er ist in meiner Gewalt», dachte er, «nun bin ich sein Herr. Ich bin erwacht. Er glaubte mich machtlos versunken und fiel in Schlaf. Jetzt sollen die Knaben ihn fesseln und zerreissen.»
@@ -3128,7 +3108,7 @@ Als sie auf die Straße hinaustraten, war der Schneefall noch dichter geworden. 
 
 Sie schritten über eine Stunde durch lange Straßen, bis sie in eine Gegend kamen, die Melchior noch nicht kannte. Ein Gewirr von engen, dunklen Gäßchen umgab sie. An einem baufälligen Hause, vor dessen Tor eine trübe Ollaterne brannte, machte Ulrich halt. Uber dem Eingang prangten in verblichenen Goldbuchstaben die Worte:
 
-# «Weltbübne Radium». 
+# «Weltbübne Radium»
 
 «Wir sind angelangt», sagte Ulrich, der während des ganzen Weges geschwiegen hatte, und pochte mit dem Knaufe seines Stockes dreimal ans Tor. Die Flügel kreischten in den Angeln. Ein verzerrtes, greises Zwergengesicht lugte hervor.
 «Ihr kommt spät», sagte der Zwerg mit knarrender Stimme, «kein Publikum mehr da, niemand will zuschaun. Aber wir spielen das Stück zu Ende. Der letzte Akt soll gleich beginnen.»
@@ -3215,7 +3195,7 @@ Der müde Wanderer stürzte in die Knie.
 «Das Reich», lallte er, «das Reich ohne Raum . . .»
 Seine Pulse zerrissen. Sein Herz zersprang.
 
-# KOMMENTAR 
+# KOMMENTAR
 
 ## Das letzte Kapitel: «Der Schneewanderer»
 
@@ -3234,7 +3214,6 @@ Herr von Spät nimmt Melchiors Protest nicht zur Kenntnis, sondern führt ihn zu
 Diese Szene scheint ein schwindendes Interesse des Dichters Bruno Goetz an seinem Thema widerzuspiegeln. Die Menschen, d. h. die menschliche Anteilnahme verschwindet, dafür tritt ein Zwerg auf, als ob er als einziger noch etwas zu sagen hätte. Zwerge sind das Symbol unbewußter schöpferischer Bildekräfte. In Mythen und Märchen treten sie als Bergleute, Schmiede, Goldschmiede, Zauberer und Fertiger von allerhand Kunsthandwerk auf. Die griechischen Kabiri z. B. sind Heilgötter und Zauberer und große Schmiede zugleich. ${ }^{42}$ Sie tragen den pileus, und in Theben wurde Dionysos speziell als Kabis (pais = Knabe) verehrt. Der Zwerg ist somit eigentlich eine Puergestalt wie Fo, aber als schaffendes Prinzip trägt er positivere Züge: der Rauschgott hat sich in etwas Schöpferisches gewandelt.
 
 [^0]
-[^0]:    ${ }^{42}$ Vgl. C. G. Jung: Symbole der Wandlung, 1. c. p. 209 ff.
 
 ---
 
@@ -3275,4 +3254,4 @@ Solange dieser Schritt nicht von vielen Individuen gewagt wird - werden sich ein
 um Fo d. h. das Symbol eines positiven inneren Gotteserlebens, das einen Sinn des Lebens und Todes vermittelt, zu finden. Solange hingegen dieses Erlebnis des Selbst nicht gefunden wird, spukt dieser Inhalt, wie Fo es im Roman tut, als ein beunruhigender Sehnsuchts- und auch wahnsinnsbringender Dämon im Hintergrund der Seele des protestantischen Menschen herum. Er kann nur Neurose, Massenwahnsinn und suizidalen Todesrausch erzeugen, aber keine Erleuchtung.
 
 Was dies praktisch heißen kann, hat die Welle des Nationalsozialismus bewiesen. Dasselbe Problem irrlichtet immer noch ungelöst weiter und kann jederzeit wieder zu ähnlichen Erscheinungen führen, vielleicht in Deutschland, ebenso leicht auch in irgend einer anderen Gegend. Dann würde jene seelische Macht, die zu einer religiösen und damit kulturellen Erneuerung führen könnte, statt eines Lichtbringers zu einem Todeskünder. Die Wahl liegt beim einzelnen Menschen - ob er den Mut aufbringt, schon vor seinem Tode das «Reich ohne Raum», seine objektive Seele und ihre Manifestationen, ernst zu nehmen.
-${ }^{43}$ Der Leser könnte sich wundern, daß ich hier nur den Protestantismus, zu dem ich mich selber bekenne, erwähne; doch ist die Symbolik des Buches nur kompensatorisch zu einer vorwiegend protestantischen Bewußtseinsorientierung zu verstehen. Die entsprechenden unbewußten Prozesse, die ein vorwiegend katholisches Bewußtsein kompensieren, würden nicht «besser», aber wesentlich anders beschaffen aussehen.
+${ }^{48}$ Der Leser könnte sich wundern, daß ich hier nur den Protestantismus, zu dem ich mich selber bekenne, erwähne; doch ist die Symbolik des Buches nur kompensatorisch zu einer vorwiegend protestantischen Bewußtseinsorientierung zu verstehen. Die entsprechenden unbewußten Prozesse, die ein vorwiegend katholisches Bewußtsein kompensieren, würden nicht «besser», aber wesentlich anders beschaffen aussehen.

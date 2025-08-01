@@ -1,24 +1,24 @@
 """Gemini OCR extractor for PDF documents."""
 
-# ============== CONFIGURATION ==============
-PROCESS_FULL_PDF = False
-START_PAGE = 4
-END_PAGE = 5
-PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
-# ==========================================
-
 import os
 import sys
 import threading
 import time
 from io import BytesIO
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 import pymupdf
 from alive_progress import alive_bar
 from dotenv import load_dotenv
 from google import genai
+
+# ============== CONFIGURATION ==============
+PROCESS_FULL_PDF = True
+START_PAGE = 4
+END_PAGE = 5
+PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+# ==========================================
 
 
 def extract_single_page_to_pdf(input_pdf_path: str, page_num: int) -> BytesIO:
@@ -53,7 +53,7 @@ def upload_and_process_single_page(
     overall_start_time: float,
     recent_page_times: list[tuple[float, float]],
     retry_count: int = 1,
-) -> Optional[str]:
+) -> str | None:
     """Upload and process a single page."""
     try:
         pdf_bytes = extract_single_page_to_pdf(pdf_path, page_num)
@@ -255,7 +255,7 @@ def main() -> None:
                     estimated_time = last_time * 0.7 + avg_recent * 0.3
                 else:
                     weights = [0.5**(len(recent_estimates)-i-1) for i in range(len(recent_estimates))]
-                    estimated_time = sum(t * w for t, w in zip(recent_estimates, weights)) / sum(weights)
+                    estimated_time = sum(t * w for t, w in zip(recent_estimates, weights, strict=False)) / sum(weights)
                 
                 confidence_factor = min(len(time_estimates) / 20, 1.0)
                 buffer = 1.2 - (0.2 * confidence_factor)

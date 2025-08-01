@@ -265,7 +265,6 @@ hr:after {
 
 def main():
     """Command-line interface."""
-    
     parser = argparse.ArgumentParser(description="Generate e-books from translated content")
     parser.add_argument("--output-dir", default="output", help="Output directory (default: output)")
     parser.add_argument("--format", choices=["epub", "kindle", "all"], default="epub",
