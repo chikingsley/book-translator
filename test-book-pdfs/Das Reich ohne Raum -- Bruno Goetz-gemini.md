@@ -1,3 +1,77 @@
+# Page 1
+
+BRUNO GOETZ
+DAS REICH OHNE RAUM
+Eine Chronik wunderlicher
+Begebenheiten
+VORWORT WALTER R. CORTI
+KOMMENTAR M. L. v. FRANZ
+ORIGO VERLAG ZÜRICH
+
+---
+
+# Page 2
+
+3. Auflage
+Umschlag Max Kämpf
+
+printed in Switzerland 1962
+by Origo Verlag Zürich ©
+
+2
+
+---
+
+# Page 3
+
+INHALT
+
+Vorwort   7
+In Memoriam Ferruccio Busoni 17
+An Fo19
+
+Erster Teil: DIE BOTSCHAFT
+Erstes Kapitel: Schimmelberg 21
+Kommentar: Einführung  32
+Das erste Kapitel  35
+Zweites Kapitel: Die Begegnung   49
+Kommentar: Das zweite Kapitel  53
+Drittes Kapitel: Fo  57
+Viertes Kapitel: Die Entfesselten63
+Kommentar: Das vierte Kapitel  71
+Fünftes Kapitel: Die Wunder  75
+Kommentar: Das fünfte Kapitel  83
+Sechstes Kapitel: Vor der Entscheidung   91
+
+Zweiter Teil: DIE WANDERUNG
+Siebtes Kapitel: Das Offene Tor  95
+Achtes Kapitel: Das Gericht100
+Kommentar: Das siebte und achte Kapitel  106
+Neuntes Kapitel: Der Ruf 110
+Kommentar: Das neunte Kapitel  117
+Zehntes Kapitel: Die Kreuzigung und die Tiere 119
+Kommentar: Das zehnte Kapitel  126
+
+Dritter Teil: DIE TAT
+Elftes Kapitel: Stuhlbrestenburg 133
+Zwölftes Kapitel: Der Bock in der Kirche 142
+Dreizehntes Kapitel: Der große Prozeß   150
+Vierzehntes Kapitel: Der Aufruhr 160
+Kommentar: Der Dritte Teil   177
+
+Vierter Teil: DAS REICH
+Fünfzehntes Kapitel: Die Verwandlungen der Liebe 181
+Sechszehntes Kapitel: Der Untergang  187
+Siebzehntes Kapitel: Die Wiederkehr  196
+Kommentar: Der Vierte Teil   210
+Das siebzehnte Kapitel   213
+Letztes Kapitel: Der Schneewanderer  217
+Kommentar: Das letzte Kapitel  226
+
+ 5
+
+---
+
 # Page 4
 
 VORWORT
