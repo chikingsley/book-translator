@@ -903,7 +903,7 @@ Melchior schien es der erste Gruß einer neuen Welt. Er trank die fremde Flammen
 
 Die Segel wurden eingezogen. Der Anker fuhr rasselnd zu Grund. Eine lange Weile der Erwartung verging. Endlich hörte man durch das Rauschen der Wellen langgezogene Rufe. Der Mann am Schiffsschnabel schrie ihnen entgegen.
 
-Nach einiger Zeit legte ein kleines Boot am Schiff an, und mehrere Gestalten, die ebenso wie die Schiffsbesatzung vermummt waren, kletterten mit schwelenden Ollaternen in den Händen an Bord.
+Nach einiger Zeit legte ein kleines Boot am Schiff an, und mehrere Gestalten, die ebenso wie die Schiffsbesatzung vermummt waren, kletterten mit schwelenden Öllaternen in den Händen an Bord.
 
 Die Besatzung trat beiseite, machte ihnen den Weg frei und wies wortlos auf Melchior.
 

@@ -11,6 +11,7 @@ from alive_progress import alive_bar
 from dotenv import load_dotenv
 from google import genai
 
+# ============== CONFIGURATION ==============
 MISTRAL_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-mistral.md"
 GEMINI_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-gemini.md"
 HUMANCHECK_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md"
@@ -18,7 +19,7 @@ OUTPUT_FILE = "test-book-pdfs/consensus_final.md"
 DISPUTES_FILE = "test-book-pdfs/disputes_review.md"
 PROGRESS_FILE = "consensus_progress.json"
 CHUNK_SIZE = 25
-
+# ==========================================
 
 def count_tokens(client: genai.Client, *texts: str) -> int:
     """Count tokens for all input texts combined."""
