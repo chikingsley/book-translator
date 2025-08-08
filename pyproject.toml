@@ -38,9 +38,7 @@ dependencies = [
 [tool.pyright]
 typeCheckingMode = "strict"
 
-[tool.ruff]
-line-length = 100
-target-version = "py311"
+
 
 [project.scripts]
 book-translator = "book_translator.book_processor:main"

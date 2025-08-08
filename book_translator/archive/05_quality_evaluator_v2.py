@@ -20,12 +20,12 @@ def get_three_way_evaluation(unformatted: str, formatted: str, reference: str) -
     api_key = os.getenv("OPENROUTER_API_KEY")
     if not api_key:
         return "Error: OPENROUTER_API_KEY environment variable not set"
-    
+
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
         api_key=api_key,
     )
-    
+
     prompt = f"""You are evaluating how well formatting prepares OCR text for consensus building. The goal is to make different OCR outputs structurally similar enough to compare side-by-side for building consensus.
 
 **RAW OCR INPUT:**
@@ -42,7 +42,7 @@ Analyze how well the formatting supports consensus building:
 ## Consensus Readiness Assessment
 **Structural normalization achieved:**
 - Section boundaries and headings standardized
-- Paragraph breaks and content flow normalized  
+- Paragraph breaks and content flow normalized
 - Typography artifacts (page numbers, headers) removed
 - Content blocks clearly separated and identifiable
 
@@ -64,7 +64,7 @@ Analyze how well the formatting supports consensus building:
 
 **Focus on changes that would make this version more comparable to other formatted OCR outputs of the same text.**
 
-## Consensus Building Assessment  
+## Consensus Building Assessment
 - **Structural alignment with target:** X/10
 - **Readiness for consensus building:** X/10
 - **Top 3 improvements for better consensus preparation:** List specific changes needed
@@ -89,33 +89,33 @@ def main() -> None:
     else:
         # We're running from project root
         base_path = "."
-    
+
     unformatted_file = os.path.join(base_path, UNFORMATTED_FILE)
     formatted_file = os.path.join(base_path, FORMATTED_FILE)
     reference_file = os.path.join(base_path, REFERENCE_FILE)
     output_file = os.path.join(base_path, OUTPUT_FILE)
-    
+
     print("Three-Way OCR Quality Comparison")
     print("=" * 80)
     print(f"Unformatted OCR: {unformatted_file}")
     print(f"Formatted version: {formatted_file}")
     print(f"Reference file: {reference_file}")
     print(f"Output file: {output_file}")
-    
+
     # Check all files exist
     files_to_check = [
         (unformatted_file, "Unformatted OCR"),
         (formatted_file, "Formatted version"),
         (reference_file, "Reference file")
     ]
-    
+
     for file_path, description in files_to_check:
         if not os.path.exists(file_path):
             print(f"Error: {description} not found at {file_path}")
             return
-    
+
     print("\nReading files...")
-    
+
     # Read all files
     try:
         with open(unformatted_file, encoding='utf-8') as f:
@@ -127,17 +127,17 @@ def main() -> None:
     except Exception as e:
         print(f"Error reading files: {e}")
         return
-    
+
     # Basic statistics
     print("\nFile Statistics:")
     print(f"  Unformatted: {len(unformatted)} chars, {len(unformatted.splitlines())} lines")
     print(f"  Formatted:   {len(formatted)} chars, {len(formatted.splitlines())} lines")
     print(f"  Reference:   {len(reference)} chars, {len(reference.splitlines())} lines")
-    
+
     # Get LLM evaluation
     print("\nGetting three-way comparison analysis...")
     evaluation = get_three_way_evaluation(unformatted, formatted, reference)
-    
+
     # Write results
     with open(output_file, 'w', encoding='utf-8') as out:
         out.write("# Three-Way OCR Quality Comparison\n\n")
@@ -146,19 +146,19 @@ def main() -> None:
         out.write(f"- Unformatted OCR: `{UNFORMATTED_FILE}`\n")
         out.write(f"- Formatted version: `{FORMATTED_FILE}`\n")
         out.write(f"- Reference (gold standard): `{REFERENCE_FILE}`\n\n")
-        
+
         out.write("## File Statistics\n\n")
         out.write("| Version | Characters | Lines | vs Reference |\n")
         out.write("|---------|------------|-------|--------------|\n")
         out.write(f"| Unformatted | {len(unformatted):,} | {len(unformatted.splitlines()):,} | {len(unformatted) - len(reference):+,} chars |\n")
         out.write(f"| Formatted | {len(formatted):,} | {len(formatted.splitlines()):,} | {len(formatted) - len(reference):+,} chars |\n")
         out.write(f"| Reference | {len(reference):,} | {len(reference.splitlines()):,} | baseline |\n\n")
-        
+
         out.write("## Detailed Analysis\n\n")
         out.write(evaluation)
         out.write("\n\n---\n\n")
         out.write("*Analysis generated using OpenRouter Horizon Alpha model*\n")
-    
+
     print(f"\n{'=' * 80}")
     print("THREE-WAY COMPARISON COMPLETE")
     print(f"{'=' * 80}")

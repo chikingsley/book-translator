@@ -1,14 +1,16 @@
-import asyncio
+"""FastAPI backend for OCR PDF viewer application."""
+
 import os
+import traceback
 import uuid
 from pathlib import Path
 
+import pymupdf
 import uvicorn
-from fastapi import FastAPI, File, UploadFile
+from fastapi import FastAPI, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
-from fastapi.middleware.cors import CORSMiddleware
-import pymupdf
 
 from src.bun_ocr_pdf_viewer.mistralocr_extractor import run_ocr
 
@@ -33,10 +35,11 @@ app.add_middleware(
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
 @app.post("/api/ocr")
-async def ocr_pdf(file: UploadFile = File(...)):
-    """
-    Accepts a PDF file, saves it, converts its pages to images,
-    runs OCR on it, and returns the structured OCR data.
+async def ocr_pdf(file: UploadFile):
+    """Process a PDF file through OCR.
+
+    Accept a PDF file, save it, convert its pages to images,
+    run OCR on it, and return the structured OCR data.
     """
     try:
         # Save the uploaded PDF
@@ -61,7 +64,7 @@ async def ocr_pdf(file: UploadFile = File(...)):
         doc = pymupdf.open(pdf_path)
         ocr_pages = []
         
-        for i, (page, image_file) in enumerate(zip(doc, image_files)):
+        for i, (page, image_file) in enumerate(zip(doc, image_files, strict=False)):
             # Get text with positions from PyMuPDF
             words = []
             text_dict = page.get_text("dict")
@@ -110,8 +113,7 @@ async def ocr_pdf(file: UploadFile = File(...)):
         return JSONResponse(content=response_data)
 
     except Exception as e:
-        import traceback
-        print(f"Error processing PDF: {str(e)}")
+        print(f"Error processing PDF: {e!s}")
         print(traceback.format_exc())
         return JSONResponse(status_code=500, content={"error": str(e), "traceback": traceback.format_exc()})
 
@@ -138,6 +140,7 @@ async def save_markdown(data: dict):
 
 @app.get("/")
 def read_root():
+    """Return API status message."""
     return {"message": "OCR PDF Viewer Backend is running."}
 
 if __name__ == "__main__":

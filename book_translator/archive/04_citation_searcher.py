@@ -16,7 +16,7 @@ load_dotenv()
 
 class CitationSearcher:
     """Search for citations using raw text."""
-    
+
     def __init__(self):
         """Initialize the citation searcher."""
         self.session: aiohttp.ClientSession | None = None
@@ -28,31 +28,29 @@ class CitationSearcher:
             self.gemini_client = genai.Client(api_key=self.gemini_key)
             if google_api_key:
                 os.environ["GOOGLE_API_KEY"] = google_api_key
-        
+
     async def __aenter__(self):
         """Enter async context manager."""
         self.session = aiohttp.ClientSession()
         return self
-        
+
     async def __aexit__(self, exc_type: Any, exc_val: Any, exc_tb: Any):
         """Exit async context manager."""
         if self.session:
             await self.session.close()
-    
+
     def extract_search_text(self, raw_text: str) -> str:
         """Extract searchable text from citation."""
         text = ' '.join(raw_text.split())
         return text.strip()
-    
 
-    
     async def search_google_books(self, text: str) -> list[dict[str, Any]]:
         """Search Google Books with API key."""
         if not self.google_books_key:
             return []
-        
+
         url = f"https://www.googleapis.com/books/v1/volumes?q={quote(text)}&key={self.google_books_key}"
-        
+
         try:
             if not self.session:
                 return []
@@ -78,13 +76,13 @@ class CitationSearcher:
                     return results
         except Exception as e:
             print(f"Google Books error: {e}")
-        
+
         return []
-    
+
     async def search_openlibrary(self, text: str) -> list[dict[str, Any]]:
         """Search OpenLibrary."""
         url = f"https://openlibrary.org/search.json?q={quote(text)}&limit=3"
-        
+
         try:
             if not self.session:
                 return []
@@ -107,14 +105,14 @@ class CitationSearcher:
                     return results
         except Exception as e:
             print(f"OpenLibrary error: {e}")
-        
+
         return []
-    
+
     def evaluate_results_with_gemini(self, citation_text: str, search_results: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
         """Use Gemini to evaluate which search results match the citation."""
         if not self.gemini_client or not any(search_results.values()):
             return {}
-        
+
         prompt = f"""Given this German academic citation:
 "{citation_text}"
 
@@ -133,7 +131,7 @@ For each result, respond with ONLY a JSON object like:
 
 Search results:
 """
-        
+
         for source, results in search_results.items():
             for i, result in enumerate(results):
                 prompt += f"\n{source}_{i}:\n"
@@ -147,7 +145,7 @@ Search results:
                     prompt += f"Authors: {', '.join(result.get('authors', []))}\n"
                     prompt += f"Publisher: {result.get('publisher', 'N/A')}\n"
                     prompt += f"Year: {result.get('publish_year', 'N/A')}\n"
-        
+
         try:
             response = self.gemini_client.models.generate_content(
                 model="gemini-2.5-pro",
@@ -162,13 +160,13 @@ Search results:
                 return json.loads(text)
         except Exception as e:
             print(f"Gemini evaluation error: {e}")
-        
+
         return {}
-    
+
     async def search_citation(self, footnote_num: int, raw_text: str) -> dict[str, Any]:
         """Search for a single citation across multiple sources."""
         search_text = self.extract_search_text(raw_text)
-        
+
         if not search_text or len(search_text) < 10:
             return {
                 'footnote_num': footnote_num,
@@ -177,21 +175,21 @@ Search results:
                 'status': 'too_short',
                 'results': {}
             }
-        
+
         google_books_task = self.search_google_books(search_text)
         openlibrary_task = self.search_openlibrary(search_text)
-        
+
         google_books_results, openlibrary_results = await asyncio.gather(
             google_books_task,
             openlibrary_task,
             return_exceptions=True
         )
-        
+
         if isinstance(google_books_results, Exception):
             google_books_results = []
         if isinstance(openlibrary_results, Exception):
             openlibrary_results = []
-        
+
         results = {
             'footnote_num': footnote_num,
             'raw_text': raw_text,
@@ -202,17 +200,17 @@ Search results:
                 'openlibrary': openlibrary_results
             }
         }
-        
+
         found_any = bool(google_books_results or openlibrary_results)
         results['found'] = found_any
-        
+
         if found_any and isinstance(google_books_results, list) and isinstance(openlibrary_results, list):
             gemini_evaluation = self.evaluate_results_with_gemini(
-                raw_text, 
+                raw_text,
                 {'google_books': google_books_results, 'openlibrary': openlibrary_results}
             )
             results['gemini_evaluation'] = gemini_evaluation
-        
+
         return results
 
 
@@ -220,24 +218,24 @@ async def main():
     """Search for all citations in the markdown file."""
     with open('test-book-pdfs/archive/Das Reich ohne Raum -- Bruno Goetz-citations.md', encoding='utf-8') as f:
         content = f.read()
-    
+
     citation_pattern = r'\[\^(\d+)\]:\s*(.+?)(?=\[\^\d+\]:|$)'
     citations = re.findall(citation_pattern, content, re.DOTALL | re.MULTILINE)
-    
+
     print(f"Found {len(citations)} citations to search")
-    
+
     async with CitationSearcher() as searcher:
         results: list[dict[str, Any]] = []
-        
+
         for i, (num, raw_text) in enumerate(citations):
             text = ' '.join(line.strip() for line in raw_text.strip().split('\n') if line.strip())
-            
-            print(f"\nSearching citation {num} ({i+1}/{len(citations)})...")
+
+            print(f"\nSearching citation {num} ({i + 1}/{len(citations)})...")
             print(f"Text: {text[:100]}...")
-            
+
             result = await searcher.search_citation(int(num), text)
             results.append(result)
-            
+
             if result['status'] == 'too_short':
                 print("  - Skipped (too short)")
             elif result['found']:
@@ -246,45 +244,45 @@ async def main():
                     print(f"    - Google Books: {len(result['results']['google_books'])} results")
                 if result['results']['openlibrary']:
                     print(f"    - OpenLibrary: {len(result['results']['openlibrary'])} results")
-                
+
                 if result.get('gemini_evaluation'):
                     matches = [k for k, v in result['gemini_evaluation'].items() if v.get('match')]
                     if matches:
                         print(f"    - Gemini identified {len(matches)} likely match(es)")
             else:
                 print("  - No results found")
-            
+
             await asyncio.sleep(0.5)
-    
+
     with open('test-book-pdfs/archive/Das Reich ohne Raum -- Bruno Goetz-search_results.md', 'w', encoding='utf-8') as f:
         f.write("# Citation Search Results\n\n")
-        
+
         for result in results:
             f.write(f"## [^{result['footnote_num']}]\n\n")
             f.write(f"**Original text:** {result['raw_text']}\n\n")
             f.write(f"**Search text:** {result['search_text']}\n\n")
-            
+
             if result['status'] == 'too_short':
                 f.write("**Status:** ❌ Too short to search\n\n")
             elif result['found']:
                 f.write("**Status:** ✅ Found results\n\n")
-                
+
                 gemini_eval = result.get('gemini_evaluation', {})
-                
+
                 if result['results']['google_books']:
                     f.write("### Google Books Results\n\n")
                     for i, book in enumerate(result['results']['google_books']):
                         eval_key = f"google_books_{i}"
                         eval_data = gemini_eval.get(eval_key, {})
-                        
+
                         if eval_data.get('match'):
-                            f.write(f"{i+1}. ✅ **{book.get('title', 'No title')}** (Confidence: {eval_data.get('confidence', 0)}%)\n")
+                            f.write(f"{i + 1}. ✅ **{book.get('title', 'No title')}** (Confidence: {eval_data.get('confidence', 0)}%)\n")
                             f.write(f"   - **Match reason:** {eval_data.get('reason', 'N/A')}\n")
                         else:
-                            f.write(f"{i+1}. ❌ **{book.get('title', 'No title')}**\n")
+                            f.write(f"{i + 1}. ❌ **{book.get('title', 'No title')}**\n")
                             if eval_data.get('reason'):
                                 f.write(f"   - **No match:** {eval_data['reason']}\n")
-                        
+
                         if book.get('authors'):
                             f.write(f"   - Authors: {', '.join(book['authors'])}\n")
                         if book.get('publisher'):
@@ -294,21 +292,21 @@ async def main():
                         if book.get('infoLink'):
                             f.write(f"   - [View on Google Books]({book['infoLink']})\n")
                         f.write("\n")
-                
+
                 if result['results']['openlibrary']:
                     f.write("### OpenLibrary Results\n\n")
                     for i, book in enumerate(result['results']['openlibrary']):
                         eval_key = f"openlibrary_{i}"
                         eval_data = gemini_eval.get(eval_key, {})
-                        
+
                         if eval_data.get('match'):
-                            f.write(f"{i+1}. ✅ **{book.get('title', 'No title')}** (Confidence: {eval_data.get('confidence', 0)}%)\n")
+                            f.write(f"{i + 1}. ✅ **{book.get('title', 'No title')}** (Confidence: {eval_data.get('confidence', 0)}%)\n")
                             f.write(f"   - **Match reason:** {eval_data.get('reason', 'N/A')}\n")
                         else:
-                            f.write(f"{i+1}. ❌ **{book.get('title', 'No title')}**\n")
+                            f.write(f"{i + 1}. ❌ **{book.get('title', 'No title')}**\n")
                             if eval_data.get('reason'):
                                 f.write(f"   - **No match:** {eval_data['reason']}\n")
-                        
+
                         if book.get('authors'):
                             f.write(f"   - Authors: {', '.join(book['authors'])}\n")
                         if book.get('publisher'):
@@ -320,18 +318,18 @@ async def main():
                         f.write("\n")
             else:
                 f.write("**Status:** ❌ No results found\n\n")
-            
+
             f.write("---\n\n")
-    
+
     print("\n\nSearch complete! Results saved to search_results.md")
-    
+
     found_count = sum(1 for r in results if r.get('found'))
     searched_count = sum(1 for r in results if r['status'] == 'searched')
-    
+
     print("\nSummary:")
     print(f"- Total citations: {len(results)}")
     print(f"- Searched: {searched_count}")
-    print(f"- Found results: {found_count} ({found_count/searched_count*100:.1f}% of searched)")
+    print(f"- Found results: {found_count} ({found_count / searched_count * 100:.1f}% of searched)")
 
 
 if __name__ == "__main__":

@@ -34,7 +34,7 @@ def extract_all_footnotes(markdown_file: str) -> tuple[dict[int, str], list[int]
             num = int(match.group(1))
             text = f"${{ }}^{{{num}}} {match.group(2)}"
             footnotes[num] = text
-            
+
             # Check for multiple footnotes on the same line
             remaining_text = match.group(2)
             while True:
@@ -47,7 +47,7 @@ def extract_all_footnotes(markdown_file: str) -> tuple[dict[int, str], list[int]
                 else:
                     break
             continue
-        
+
         # Check for standalone footnote (not [^0] format)
         match = re.match(r'^\$\{\s*\}\s*\^\{(\d+)\}\s*(.+)$', line)
         if match:
@@ -55,7 +55,7 @@ def extract_all_footnotes(markdown_file: str) -> tuple[dict[int, str], list[int]
             text = line.strip()
             footnotes[num] = text
             continue
-            
+
         # Check for simple indented format like "    ${ }^{5}$ text..."
         match = re.match(r'^\s+\$\{\s*\}\s*\^\{(\d+)\}\s*(.+)$', line)
         if match:
@@ -77,20 +77,20 @@ def extract_all_footnotes(markdown_file: str) -> tuple[dict[int, str], list[int]
     if missing:
         print(f"\nMissing footnotes: {missing}")
         print(f"Total missing: {len(missing)}")
-    
+
     # Final summary
-    print(f"\n{'='*60}")
+    print(f"\n{'=' * 60}")
     print("FINAL SUMMARY:")
-    print(f"{'='*60}")
+    print(f"{'=' * 60}")
     print(f"Total unique footnote numbers referenced in text: {len(unique_nums)}")
     print(f"Total footnote definitions found: {len(footnotes)}")
-    print(f"Success rate: {len(footnotes)/len(unique_nums)*100:.1f}%")
-    
+    print(f"Success rate: {len(footnotes) / len(unique_nums) * 100:.1f}%")
+
     if len(missing) <= 10:
         print(f"\nFootnotes referenced but not defined: {missing}")
     else:
-        print(f"\nFootnotes referenced but not defined: {missing[:10]}... and {len(missing)-10} more")
-    
+        print(f"\nFootnotes referenced but not defined: {missing[:10]}... and {len(missing) - 10} more")
+
     return footnotes, unique_nums, missing
 
 
@@ -98,5 +98,5 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python extract_footnotes.py <markdown_file>")
         sys.exit(1)
-    
+
     extract_all_footnotes(sys.argv[1])

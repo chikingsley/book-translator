@@ -17,8 +17,6 @@ exclude = [
     ".tox",
     ".venv",
     ".vscode",
-    "/*.py",
-    "/*.ipynb",
     "__pypackages__",
     "_build",
     "buck-out",
@@ -29,13 +27,12 @@ exclude = [
     "venv",
     "tests",
 ]
-line-length = 88
+line-length = 100
 indent-width = 4
 target-version = "py312"
 
 [lint]
-# Unlike Flake8, Ruff doesn't enable pycodestyle warnings (`W`) or
-# McCabe complexity (`C901`) by default.
+preview = true
 select = [
     "A",
     "B",
@@ -43,6 +40,8 @@ select = [
     "C4",
     "D",
     "E",
+    "E226",
+    "E303",
     "E4",
     "E7",
     "E9",
@@ -54,20 +53,26 @@ select = [
     "PL",
     "RUF",
     "UP",
+    "W",
 ]
 ignore = [
     "C901",
-    "E501",
-    "N806",
-    "N999",
-    "PLR0912",
-    "PLR0913",
-    "PLR0915",
-    "PLR2004",
-    "RUF001",
-    "N812",
     "D203",
     "D213",
+    "E501",
+    "N806",
+    "N812",
+    "N999",
+    "PLR0911",
+    "PLR0912",
+    "PLR0913",
+    "PLR0914",
+    "PLR0915",
+    "PLR0917",
+    "PLR1702",
+    "PLR2004",
+    "PLR6301",
+    "RUF001",
 ]
 fixable = ["ALL"]
 unfixable = []

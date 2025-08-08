@@ -1,0 +1,29 @@
+# KOMMENTAR- Einführung
+
+<!-- Source: mistral OCR -->
+
+# KOMMENTAR
+
+## Einfübrung
+
+Es war bei Ferruccio Busoni, daß sich im Jahre 1918 jeweils einige Künstler zum schwarzen Kaffee trafen, an seinem großen runden Tisch. Die Rede kam auf den okkulten Roman. Es fielen die Namen E. T. A. Hoffmann, Meyrink, Kubin u. a. mehr. Bruno Goetz entwarf spontan ein recht erregendes Geschehen. Er wurde von Busoni fast leidenschaftlich gemahnt, diesen Entwurf ernst zu nehmen und sich sofort an die Gestaltung desselben zu machen. Dies war, wie mir die Gattin des Dichters erzählte, der Auftakt zur Entstehung des «Reich obne Raum». In wenig mehr als zwei Monaten war es vollendet.
+
+Diese Entstehungsgeschichte ist für die Beurteilung des Werkes wichtig, weil sie zeigt, daß der Dichter hier weniger als sonst sein bewußtes Kunstschaffen einsetzte (obwohl es im Stil, in den vielen Abstufungen des Ausdrucks mit groBem Können geschrieben wurde) als daß er seiner Phantasie völlig freien Lauf ließ. In einem solchen Fall kommt cias Unbewußte natürlich viel unmittelbarer zu Wort, und diesem Umstand ist es wohl zu verdanken, daß Bruno Goetz, ohne es zu wollen oder vielleicht sogar ohne es zu wissen, in diesem Buch zu einem Propheten wurde und in seinem phantastischen Roman gewisse kollektiv-seelische Hintergrundvorgänge symbolisch gestaltete, welche verborgen hinter den nachfolgenden politischen, sozialen und religiösen
+
+---
+
+Wirren wirksam waren. In diesem Roman wurde in symbolischer Form ein geistiges Problem aufgeworfen, welches Europa noch heute beunruhigt, und wurden Dinge vorweggenommen, welche von den späteren Ereignissen in unheimlichster Form bestätigt wurden. «Wildgewordene Knabenhorden» haben ja in der nationalsozialistischen Bewegung oft in ähnlicher Art, wie es der Roman schildert, alle alten Ordnungen verwirrt und aufgelöst. Ja, - die angerührten Probleme dieses Buches sind auch heute beileibe noch nicht erledigt, sondern beunruhigen noch immer die Seele des mitteleuropäischen Menschen. Aus diesem Grunde möge es mir erlaubt sein, eine psychologische Interpretation des Romans zu versuchen. Ich werde mich dabei auf die Grundanschauungen der Jung'schen Psychologie stützen.
+C. G. Jung hat nämlich als erster auf die prophetische Bedeutung des Buches hingewiesen und es auch in mehreren privaten Seminarien erwähnt, wodurch ich erstmals darauf aufmerksam gemacht wurde. Natürlich nimmt eine tiefenpsychologische Betrachtung nur einen der vielen möglichen Aspekte, unter denen man dieses Werk zu würdigen hätte, vorweg. Es soll hier z. B. weder in das gesamte Oeuvre von Bruno Goetz, in die zeitgenössische Literatur eingeordnet, noch von der literarisch-künstlerischen Seite her gewürdigt werden - dies möchte ich Berufeneren überlassen. Hier soll nur der Inhalt des Buches in seiner stark vom Unbewußten diktierten Symbolik psychologisch betrachtet werden und zwar in ähnlicher Art, als ob es sich um den prophetischen Träum eines Individuums handelte. Dies bedeutet, daß die einzelnen Symbole in ihrem weiteren kollektiv-mythologischen Beziehungsnetz erfaßt werden müssen, wodurch man dahin ihren Bedeutungskern näher umschreiben kann. ${ }^{1}$ Es ist mir allerdings dabei bewußt, daß ich dadurch einen Sinnzu-
+
+[^0]
+[^0]:    ${ }^{1}$ Diese Methode der Jung'schen Psychologie dient der Amplifikation des Bildes, durch welche man dessen Bedeutungskern näher kommt. Vgl. hierüber C. G. Jung: Einführung in das Wesen der Mythologie. Rheinverlag Zürich 1951, p. 112 ff.
+
+---
+
+sammenhang sehen könnte, der Bruno Goetz selber nicht bewußt geworden ist. Aber warum sollte er nicht, wie die Propheten aller Zeiten, von Dingen im Unbewußten ergriffen worden sein, die weit über sein damaliges Bewußtsein und das seiner Freunde hinausreichte? Solche Massenbewegungen, wie z. B. der Nationalsozialismus es waren, und wie diese im Buch vorausgeahnt worden sind, entstehen nicht von heute auf morgen: ganz allmählich sammeln sich in Einzelnen ungelöste Fragen und ihre unbewußte Gegenkonstellationen an und dann - wenn Einer ausspricht, was viele unbestimmt fühlen, hoffen oder ahnen, löst sich plötzlich eine Lawine kollektiver Emotionsausbrüche mit ihren positiven oder fatalen politischen und sozialen Folgen. Natürlich entstehen dann auch Theorien, welche sie rechtfertigen sollten, Theorien, die jedoch selten jene unbestimmte Ergriffenheit ganz ausdrücken, welche die Vielen ursprünglich gepackt hat, und welche meistens mehr unbewußte als bewußte Hintergründe und Motivationen hat. ${ }^{2}$ Jung hat bereits darauf aufmerksam gemacht, daß hinter dem Nationalsozialismus eine religiöse Krise steht ${ }^{3}$ und daß dabei ein älteres archetypisches Gottesbild: Wotan im Unbewußten der Deutschen wiederbelebt wurde. Und doch wurde ein solcher Rückschritt in das vorchristliche Heidentum vom Unbewußten her nicht wirklich angestrebt, sondern er geschah aus ähnlichen Gründen, aus denen solche Regressionen auch beim Einzelnen jeweils geschehen: wenn der Lebensstrom nach vorne an ein Hindernis stößt und eine unbewußt angestrebte Weiterentwicklung schwierig wird, staut er sich und belebt nach rückwärts alte Bahnungen. Einen solchen Rückschritt sollte man jedoch eher psychologisch als ein «reculer pour mieux sauter» verstehen, und ihn nicht
+${ }^{2}$ Vgl. hiezu auch: G. L. Mosse: The mystical origins of National socialism. Journal of the History of Ideas. N. Y. Vol. XXII,Jan-March 1961 - p. 81 ff. und H. Schwerte: Faust und das Faustische. Stuttgart 1962 passim.
+${ }^{3}$ Aufsätze zur Zeitgeschichte, Zürich 1946, p. 5 ff. und sein Hinweis auf Bruno Goetz ibid. p. io u. p. 93.
+
+---
+
+nur verdammen. Was aber staute den Lebensstrom und was war die eigentlich gemeinte Weiterentwicklung in dieser Lage? In eben diese Probleme scheint mir die Symbolik des Goetz'schen Buches tiefer hineinzuleuchten, doch soll eine Erörterung dieser Fragen noch verschoben werden.

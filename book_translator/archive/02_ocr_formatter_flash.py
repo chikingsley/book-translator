@@ -12,7 +12,7 @@ def extract_page_range(content: str, start_page: int, end_page: int) -> str:
     pages: list[str] = []
     current_page: int | None = None
     current_content: list[str] = []
-    
+
     for line in content.split('\n'):
         # Check for page marker
         page_match = re.match(r'^#\s*Page\s*(\d+)', line)
@@ -20,10 +20,10 @@ def extract_page_range(content: str, start_page: int, end_page: int) -> str:
             # Save previous page if in range
             if current_page and start_page <= current_page <= end_page:
                 pages.append('\n'.join(current_content))
-            
+
             current_page = int(page_match.group(1))
             current_content = []
-            
+
             # Skip the page header line - don't add it
         elif line.strip() == '---':
             # Skip separators
@@ -31,11 +31,11 @@ def extract_page_range(content: str, start_page: int, end_page: int) -> str:
         # Add content if we're in a page
         elif current_page and start_page <= current_page <= end_page:
             current_content.append(line)
-    
+
     # Don't forget the last page
     if current_page and start_page <= current_page <= end_page:
         pages.append('\n'.join(current_content))
-    
+
     return '\n\n'.join(pages)
 
 
@@ -60,7 +60,7 @@ Instructions:
 14. If text seems to end abruptly, indicate with [...] rather than cutting off mid-sentence
 
 Text to format:"""
-    
+
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
@@ -77,53 +77,53 @@ Text to format:"""
 def main() -> None:
     """Format OCR text using Gemini Flash."""
     load_dotenv()
-    
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY not found")
         return
-    
+
     # Temporarily unset GOOGLE_API_KEY to avoid warning
     google_api_key = os.environ.pop("GOOGLE_API_KEY", None)
     client = genai.Client(api_key=api_key)
     if google_api_key:
         os.environ["GOOGLE_API_KEY"] = google_api_key
-    
+
     # Hardcoded file path for Gemini Pro Adaptive
     gemini_file = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz_pages_4_26_gemini_pro_single.md"
-    
+
     print("Processing Gemini Pro Adaptive OCR output with Flash (Pages 4-26)")
-    print('='*70)
-    
+    print('=' * 70)
+
     print(f"Reading {gemini_file}...")
-    
+
     try:
         with open(gemini_file, encoding='utf-8') as f:
             content = f.read()
     except FileNotFoundError:
         print(f"Error: File not found: {gemini_file}")
         return
-    
+
     # Extract pages 4-26
     print("Extracting pages 4-26...")
     extracted_text = extract_page_range(content, 4, 26)
-    
+
     if not extracted_text:
         print("Error: No content found in page range 4-26")
         return
-    
+
     print(f"Extracted {len(extracted_text)} characters")
-    
+
     # Format with Gemini Flash
     print("\nFormatting text with Gemini 2.5 Flash...")
     formatted_text = format_text(client, extracted_text)
-    
+
     # Save result
     output_file = "test-book-pdfs/pages_4_26_gemini_pro_adaptive_flash_formatted.md"
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("# Pages 4-26 - Gemini Pro Adaptive - Flash Formatted\n\n")
         f.write(formatted_text)
-    
+
     print(f"Formatted text saved to: {output_file}")
     print("Formatting complete!")
 

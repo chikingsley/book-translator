@@ -1,0 +1,10 @@
+# BRUNO GOETZ
+
+DAS REICH OHNE RAUM
+
+*Eine Chronik wunderlicher Begebenheiten*
+
+VORWORT WALTER R. CORTI
+KOMMENTAR M. L. v. FRANZ
+
+ORIGO VERLAG ZÜRICH

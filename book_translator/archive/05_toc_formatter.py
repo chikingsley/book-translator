@@ -20,14 +20,14 @@ def create_toc_structure_prompt(toc_data: list[dict[str, Any]]) -> str:
     for item in toc_data:
         level_marker = "#" * (int(item["level"]) + 1)  # Add 1 to shift down
         toc_template.append(f'{level_marker} {item["title"]!s}')
-    
+
     return "\n".join(toc_template)
 
 
 def format_text(client: genai.Client, content: str, toc_data: list[dict[str, Any]]) -> str:
     """Use Flash to fix heading structure according to TOC."""
     target_structure = create_toc_structure_prompt(toc_data)
-    
+
     format_prompt = f"""
 Reformat this text to match the EXACT heading structure below.
 
@@ -46,7 +46,7 @@ INSTRUCTIONS:
 
 Text to format:
 """
-    
+
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
@@ -63,18 +63,18 @@ Text to format:
 def main() -> None:
     """Format text with proper TOC structure."""
     load_dotenv()
-    
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY not found")
         return
-    
+
     # Setup client
     google_api_key = os.environ.pop("GOOGLE_API_KEY", None)
     client = genai.Client(api_key=api_key)
     if google_api_key:
         os.environ["GOOGLE_API_KEY"] = google_api_key
-    
+
     print("Loading TOC structure...")
     try:
         with open(TOC_FILE, encoding='utf-8') as f:
@@ -82,7 +82,7 @@ def main() -> None:
     except FileNotFoundError:
         print(f"Error: TOC file not found: {TOC_FILE}")
         return
-    
+
     print("Loading consensus text...")
     try:
         with open(CONSENSUS_FILE, encoding='utf-8') as f:
@@ -90,18 +90,18 @@ def main() -> None:
     except FileNotFoundError:
         print(f"Error: Consensus file not found: {CONSENSUS_FILE}")
         return
-    
+
     print(f"Read {len(content)} characters")
     print(f"TOC has {len(toc_data)} entries")
-    
+
     print("\nFormatting text with proper TOC structure using Gemini 2.5 Flash...")
     formatted_text = format_text(client, content, toc_data)
-    
+
     # Save result
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(f"# {os.path.basename(OUTPUT_FILE)}\n\n")  # Single top heading
         f.write(formatted_text)
-    
+
     print(f"TOC-formatted content saved to: {OUTPUT_FILE}")
 
 

@@ -1,0 +1,65 @@
+# KOMMENTAR- Das zebnte Kapitel- «Die Kreuzigung und die Tiere»
+
+<!-- Source: mistral OCR -->
+
+# KOMMENTAR
+
+## Das zebnte Kapitel: «Die Kreuzigung und die Tiere»
+
+In diesem Kapitel werden neue Aspekte Fo's und seines Reiches offenbar: Er enthüllt sich als Mondgott und Wassergeist, ja als ein Gott der Tiere und der Natur in ihrem paradiesischen Aspekt vor dem Sündenfall. In seinem Reich findet die ersehnte «Apokatastasis pantôn» statt, bei der die Sünde Adams, die Schuld der menschlichen Bewußtwerdung, gesühnt wird. Die Rebe verbindet Fo mit Dionysos, die Flöte mit Pan und das Kreuzigungs- und Todesmotiv, - wie schon in den Gaben der beiden Knaben an den alten Lindenhuis angedeutet worden war - mit Christus.
+
+Psychologisch gesehen gehört ja Christus zum Typus all jener früh sterbenden Sohngötter des vorderen Orients, wie etwa Tammuz, Attis, Adonis und Osiris. ${ }^{38}$ Auf einer antiken
+
+[^0]
+
+---
+
+Weihinschrift ist er sogar mit Dionysos in eins gesetzt. Solche Gleichsetzungen - von den Apologeten heftig be-kämpft- stellten Versuche dar, eine Brücke von den alten Mysterienreligionen zum neuen Gottessymbol zu finden, um das neue christliche Symbol seelisch zu assimilieren. Allerdings bestand bei solchen Gleichsetzungen die Gefahr, daß dadurch die «neue Botschaft» wieder in die heidnische Vorwelt zurückgesogen würde. Einerseits ermöglicht jede religiöse Erneuerung einen Bewußtseinsfortschritt nur dann, wenn sie klar in ihren neuen Aspekten verstanden ist, entfernt sich aber andererseits das Neue allzu weit von der instinktiven Basis, so wird eine Rückverbindung mit der archetypischen seelischen Grundlage notwendig, damit das Alte im Neuen integriert doch auch noch weiter mitleben kann. Aus letzterem Grunde hat die sich bildende Kirche so viel Kunst- und rituelle Symbolik aus den antiken Mysterienreligionen übernommen, um in richtigem Maß Altes und Neues zu verbinden.
+
+Das archetypische Bild, welches Christo im Bereich des germanischen Mythos entspricht, ist einerseits Baldur, andererseits aber Wotan, insofern letzterer neun Tage, gesperrt im Weltbaum hängend, einen freiwilligen Gottestod litt, um ein neues Bewußtsein (die Kunde der Runen) zu erlangen. Dieses Wotanmotiv drängt sich bei der Kreuzigung Melchiors vor, insofern er sich und das Kreuz allmählich zum lebenden Baume werden fühlt. Man denkt auch an das in der Fichte hängende Bild des Attis, das in Rom bei den Prozessionen herumgetragen wurde.
+
+Das Motiv des lebenden Baumes (als Kreuz) ist insofern sinnvoller denn das tote Holz, weil ja die Kreuzigung zunächst die Qual des Menschen symbolisiert, der mit dem Größeren in sich, nämlich Gott, zusammenprallt, d. h. die Qual höherer Bewußtwerdung, welche durch einen inneren Tod des Ich hindurch führt. Das Kreuz stellt daher eigentlich den inneren Lebensprozeß dar, der über einen Tod des Ich zur Bewußtwerdung führt. Als solches ist es nicht nur ein Marterinstrument, sondern auch etwas Lebendiges, das
+
+---
+
+sich aber über das Ego hinweg durchsetzt. Der leidende Mensch im lebenden Baum ist darum in Vielem ein sinnvolleres Bild für diesen Vorgang als das konventionelle Bild, denn die Kreuzigung führt nicht nur zu neuem Leben, sie ist der neue Lebensprozeß selber, der sich beim Tod des bisherigen Menschen offenbart. ${ }^{37}$ Im Frühchristentum mußte zwar der Akzent auf dem Todesmotiv liegen, um die Schärfe des ethischen Konfliktes zu veranschaulichen, doch liegt auch im vorchristlichen Bild des im lebenden Baum hängenden Gottes ein tiefer Sinn, den die dichterische Intuition des Autors wieder aufgegriffen hat. In der mittelalterlichen Kunst wurde in ähnlicher Art auch schon das Kreuz ebenfalls oft in einen Lebensbaum abgewandelt.
+
+Als Melchior in der Nachfolge Fo's die Kreuzigung erleidet, geschieht jedoch etwas, das vom psychologischen Gesichtspunkt besehen, bedenklich wirkt; er fühlte den Stamm des Kreuzes nur noch wie geballten Nebel, die Nägel wie Schatten. «Sein ganzer Leib schien ihm ein leichter Schatten. So bing er, ein Schatten am Schatten des Kreuzes.» Dieser Realitätsverlust nimmt dem menschlichen Leiden sein Gewicht und seine Würde. Es erinnert an die Lehre des Doketen, Christus hätte nur scheinbar am Kreuze gelitten, in Wirklichkeit sei er als Gott dem Leid enthoben gewesen. Melchior wird der Qual durch einen ekstatischen Zustand entrückt, und er wird eins mit dem Gott in der Natur: Er zerfließt völlig in unbewußte Grenzenlosigkeit.
+
+Die relative Entwertung des Leidensmomentes entspricht mutatis mutandis der Art, wie sich Melchior schon zuvor der Exekution im Reiche von Späts entzogen hatte - von dem weißen Vogel dazu ermutigt. Die geistige Ekstase (der Vogel ist ein Symbol des Geistes) entrückt ihn der Qual des Menschseins und heilt zwar seine Leiden, zugleich aber unterstützt es seine ethische Unverantwortlichkeit gegenüber dem Problem des Bösen. Die wirkliche Natur ist ja kein Garten Eden voller Unschuld, sondern bei aller Schönheit
+
+[^0]
+
+---
+
+auch voller Grausamkeit und Finsternis - ein Aspekt, der jedem gefühlsstarken Menschen eine ernste Frage stellt. Nur der Intellektuelle und der Aesthet können sich darüber mit einer leicht hingeworfenen philosophischen Phrase hinwegsetzen. Wer dies tut, erleidet die Kreuzigung nicht ganz und nimmt auch die grausame Finsternis der Natur in sich selber nicht ganz ernst. Damit fehlt dann ein Element, das zum Wesen des Menschen gehört, nämlich daß er sich in Kritik und Gefühlsauflehnung gegen das Dunkle in Gott und in der Natur absetze und leidend eine Frage stellt, die nur Gott ihm im eigenen religiösen Erlebnis beantworten kann. Wer dies nicht wagt, bleibt ein «Schatten» und seine Kreuzigung ist auch nur diejenige eines Schattens. Der verzweifelte Aufschrei Christi am Kreuze hingegen bedeutet erst die Offenbarung seines eigentlichen Menschseins, und es ist kein $\mathrm{Zu}-$ fall, daß gerade Christi Herz vom Speer des Longinus durchbohrt wurde, denn es ist das Herz, das religiöse Gefübl, das solche Fragen an Gott stellt. Es hängt darum wobl auch wieder mit der Schwäche von Melchiors Gefübl zusammen, daß er die Kreuzigung nur schattenhaft erlebt.
+
+Die relative Entwertung des individuellen Leidens könnte auch mit dem Einfluß östlicher Vorstellungen zusammenhängen, welche in dem Roman bemerkbar werden, z. B. im Namen Fo (Buddah) für den göttlichen Knaben, oder in der Idee der Reinkarnation, die das Werk durchzieht.
+
+Wenn es auch aus vielen Gründen überhaupt Mode und z. T. mehr als nur Mode ist, suchend nach Osten zu blicken, so scheint mir doch in der Psyche des deutschen und nordischen Menschen noch eine besondere Affinität zu östlichen Ideen und Lehren zu bestehen. Dies liegt wohl einerseits an der Tatsache, daß diese Völker ihr Bestes mehr in der Introversion als in äußerem Expansionsstreben leisten und auch daran, daß sich in ihrer religiösen Veranlagung eine Ausrichtung auf das Problem des «Sinnes» (mehr als dem der rationalen Kausalitätsverbindung aller Ereignisse) findet, eine Neigung, welche die Germanen mit der Mentalität des Ostens verbindet.
+
+---
+
+Der Introvertierte neigt von Natur offenbar mehr dazu, seine Aufmerksamkeit der Frage zuzuwenden, welchen Sinn die Anordnung innerer und äußerer Ereignisse habe, als daß ihn primär die Frage nach Ursache und Wirkung fesselt. Die ganze Wissenschaft des Ostens - vom Westen bis heute als «Aberglaube» verachtet - richtet sich nach dieser Frage, in welcher natürlich das Problem der zeitlichen Koinzidenz von Ereignissen besonders wichtig wurde. Mit anderen Worten suchte man im Osten herauszufinden, welchen Sinn der zeitliche Zusammenfall gewisser Ereignisse ausdrücken könnte: wieso «belieben» z. B. das Erscheinen von dunklen Vögeln, das Verdorren eines Lieblingsbaumes, das Zerbrechen von vertrauten Gegenständen und das gleichzeitige Auftreten gewisser Traummotive beim Tode eines Menschen scheinbar «zufällig», d. h. ohne nachweisbaren Kausalzusammenhang aufzutreten? Jung hat solche sinnvolle Koinzidenzen als Sychronizitätsphänomene bezeichnet und versucht, den Begriff der Synchronizität als wissenschaftlich gleichberechtigte Begriffskategorie für die Erforschung der Natur und des Zusammenhanges zwischen Außen- und Innenwelt einzuführen. ${ }^{38}$
+
+Er fand, daß wo immer solche «sinnvolle» Ereignisballungen stattfinden, eigentlich ein archetypisches Motiv darin in Erscheinung tritt, was sich durch die Beobachtung von Träumen beim beteiligten Beobachter nachweisen läßt. Bis heute haben wir sonst keine Methoden entwickelt, um diese Geschehenszusammenhänge zu erforschen, mit Ausnahme vom mantischen Verfahren, wie sie im Osten durch Loswerfen oder Stäbeteilen (im ältesten Kulturdokument Chinas, dem Buch des J-Ging) und überall auch im Westen in Astrologie und Geomantie ausgebildet wurden. Auch die alten Germanen haben sich fast ausschließlich mantischer Methoden bedient, um den Willen ihrer Götter zu erkunden. Die Runen dienten ursprünglich diesem Zweck. Wäh-
+${ }^{38}$ Vgl. C. G. Jung und W. Pauli: Naturerklärung und Psyche. Zürich, 1952, passim.
+
+---
+
+rend überall sonst im Westen dieser Uberrest «primitiver» magischer Denkweise längst von dem rationalen kausalen Denken abgelöst wurde, scheinen die Deutschen im Geheimen eine gewisse Anhänglichkeit an diese Denkweise, nicht zu ibrem geistigen Nachteil, bewahrt zu haben und darin liegt wohl auch ein Grund für die besondere Affinität des Deutschen zu östlichen Ideen. Man darf wohl sagen, daß sich, mit Schopenhauer angefangen, besonders viele bedeutende Deutsche dem Einfluß des Ostens innerlich geöffnet haben. Natürlich entspricht dies überhaupt einer allgemeinen Tendenz der westlichen Kultur heutzutage, die darauf beruht, daß wir dringend einer Vertiefung nach innen und einer Zuwendung zum sujektiven Faktor und damit zur Seele bedürfen.
+
+Solche Tatsachen haben wohl bewußt-unbewußt Bruno Goetz mit dazu veranlaßt, das Land des Fo nicht nur als Reich der Erdmutter und des germanischen Urbrunnens zu beschreiben, sondern ihm auch Nirvana-Qualität zu leihen und es (im Widerspruch zum Nirvana Buddhas) als einen Ort zu bezeichnen, wo in immerwährendem Wechsel Inkarnationsprozesse beginnen und enden in einem endlosen nebelhaften Gestaltenwandel der Knaben.
+
+Der Name $L i$, den Melchior erhält, könnte sich auf das chinesische Wort Li beziehen, welches «haften an etwas», «bedingt sein» bedeutet, ${ }^{39}$ im erweiterten Sinn bedeutet Li ferner auch Feuerschein, Klarheit, Verstandesklarheit, Vernunft. Melchior sollte ja seiner inneren Berufung nach den Konflikt zwischen von Spät und Fo «aufhellen», d. h. bewußt machen, er sollte Licht in das nebelhafte unbewußte Reich dieser zwei feindlichen Götter tragen, denn ohne es zerfließt dort alles ins Gestaltlose und bleibt im «Reich der Mütter» für immer verstrickt. Einen Augenblick lang versucht er das gestaltende Bewußtseinsprinzip
+${ }^{39}$ Vgl. Richard Wilhelm: J-Ging, Das Buch der Wandlungen. Diederichs, Jena. Kap. No. 30 (Li). Dieses Buch war Bruno Goetz bekannt.
+
+---
+
+zu retten, als er Fo fragt: «Warum müssen wir wandern?» Aber er erhält die Antwort: «Willst du nicht überall sein? Willst du nicht Wind sein und Regen? Willst du nicht Baum sein und Gras? Willst du nicht mit der Abendröte fliegen und im Mond zerschmelzen? Willst du nicht jedes Tier sein und jeder Mensch? Aus jedem Munde sprechen? Mit jedem Auge schaun? Wir entgleiten in jede Gestalt und aus jeder Gestalt. Wo wir erscheinen, löst sich alles in Wirbel und Wechsel auf und nichts hat Bestand.» -
+
+Hier, bei dieser Frage, hätte Melchior-Li reagieren, eingreifen und widerstehen müssen, aber wieder ist er zu schwach! Und so blitzt in Fo's Augen ein zerstörerischer Aspekt seines Wesens auf: er will nun mit seinen Knaben ins Menschenreich ausziehen, um dort Auflösung und Verwirrung zu stiften. In diesem Augenblick kündet sich jene Vervielfältigung des «Selbst» an, welche Jung als Anzeichen einer gefährlichen Auflösung beschreibt, und welche immer dann eintritt, wenn das Ich noch zu schwach und den kollektiven Werten zu viel verfallen ist, um eine selbständige ethische Gefühlseinstellung zum Leben zu finden.
+
+---
+
+# DIE TAT

@@ -7,7 +7,7 @@ the proper German guillemets « » format.
 
 Usage:
     python fix_quotes_with_gemini.py <source_file> <target_file> [--dry-run]
-    
+
 Example:
     python fix_quotes_with_gemini.py ../test-book-pdfs/citations/pages_1-13_final.md ../test-book-pdfs/gemini_formatted.md
 
@@ -33,7 +33,7 @@ def setup_gemini() -> genai.Client:
     if not api_key:
         print("Error: GEMINI_API_KEY not found in environment variables or .env file", file=sys.stderr)
         sys.exit(1)
-    
+
     return genai.Client(api_key=api_key)
 
 
@@ -62,7 +62,7 @@ CORRECTED TARGET TEXT:"""
 def fix_quotes_with_gemini(client: genai.Client, source_text: str, target_text: str) -> str:
     """Use Gemini to fix quotation marks in target text."""
     prompt = create_correction_prompt(source_text, target_text)
-    
+
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash", contents=[prompt]
@@ -77,19 +77,19 @@ def show_differences(original: str, corrected: str) -> None:
     """Show a summary of changes made."""
     original_lines = original.split('\n')
     corrected_lines = corrected.split('\n')
-    
+
     changes = 0
     for i, (orig_line, corr_line) in enumerate(zip(original_lines, corrected_lines, strict=False)):
         if orig_line != corr_line:
             changes += 1
             if changes <= 5:  # Show first 5 changes
-                print(f"Line {i+1}:")
+                print(f"Line {i + 1}:")
                 print(f"  Before: {orig_line[:100]}...")
                 print(f"  After:  {corr_line[:100]}...")
-    
+
     if changes > 5:
         print(f"... and {changes - 5} more changes")
-    
+
     print(f"\nTotal lines changed: {changes}")
 
 
@@ -100,54 +100,54 @@ def main() -> None:
     parser.add_argument('target_file', help='Target file to correct')
     parser.add_argument('--dry-run', action='store_true', help='Show changes without applying them')
     parser.add_argument('--output', '-o', help='Output file (default: overwrite target)')
-    
+
     args = parser.parse_args()
-    
+
     source_path = Path(args.source_file)
     target_path = Path(args.target_file)
-    
+
     if not source_path.exists():
         print(f"Error: Source file '{source_path}' not found", file=sys.stderr)
         sys.exit(1)
-    
+
     if not target_path.exists():
         print(f"Error: Target file '{target_path}' not found", file=sys.stderr)
         sys.exit(1)
-    
+
     # Read files
     try:
         with open(source_path, encoding='utf-8') as f:
             source_text = f.read()
-        
+
         with open(target_path, encoding='utf-8') as f:
             target_text = f.read()
     except Exception as e:
         print(f"Error reading files: {e}", file=sys.stderr)
         sys.exit(1)
-    
+
     print("Setting up Gemini Flash...")
     client = setup_gemini()
-    
+
     print("Analyzing quotation marks with Gemini...")
     corrected_text = fix_quotes_with_gemini(client, source_text, target_text)
-    
+
     # Check if any changes were made
     if corrected_text == target_text:
         print("No corrections needed!")
         return
-    
+
     print("Changes found:")
     show_differences(target_text, corrected_text)
-    
+
     if args.dry_run:
         print("\nDry run - no changes applied")
         print("\nFirst 500 characters of corrected text:")
         print(corrected_text[:500] + "...")
         return
-    
+
     # Write output
     output_path = Path(args.output) if args.output else target_path
-    
+
     try:
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(corrected_text)
