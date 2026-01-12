@@ -1,0 +1,1418 @@
+# The Problem of the Puer Aeternus
+## Marie-Louise von Franz
+### Lectures 9-12: Das Reich ohne Raum (The Kingdom Without Space)
+
+# Lecture 9
+
+
+The Kingdom Without Space, written by Bruno Goetz, Born at Riga in
+1885, is a novel, but starts off with two poems which I would like to summarize:
+When all we knew, destroyed, in ruins lay,
+Encircle in death’s mighty folds of darkness,
+Our burning spirits strove
+After the dream which led us on.
+Far from our home and our maternal land,
+On undetermined waves our ship drives on.
+Laughing boldly we had ventured forth
+As Vikings, searching undiscovered shores.
+And if by night and horror overtaken, thou sing’st
+Us songs of other homes,
+Then phantoms vanish into gentle mist,
+The world dissolves in dance and rhythm,
+The stars disperse a fortune long delayed,
+And radiant shines the kingdom without space.
+Then comes a second poem dedicated to “Fo,” who, as you will see, is the puer aeternus figure in the novel:
+When the dark cloud
+Withdrew not from the sky
+And from all the world
+The sun was hid,
+Out of the depths
+A new light neared,
+And in our sleep we knew
+That Thou wert there.
+
+O the suns that come
+From the depth of thine eyes,
+And from thy lips
+The flowing streams of love.
+Across the waves of an ethereal sea
+The splendor of thy limbs
+Entices us
+To flaming courage.
+Eternal youth,
+Encircled by the music of the stars,
+Giver of comfort,
+Sparking, free, and beautiful.
+Men and women
+Dance in thy glory,
+Driving into death
+For the sight of thee.
+Forever into light
+Thy white form calls
+Wave after wave,
+And never do we age.
+
+---
+
+The second edition of this book was published in 1925, as I told you last time. I have not been able to find the first, but at the end of this edition it is said that this is the first unlimited issue and that when the first was brought out the author was away and, either because he was shocked or for some other stupid reason, the publisher cut out some of the chapters—I will tell you which later—so that the first edition came out incomplete. The book was then misunderstood as being a political pamphlet. When the author returned he insisted on its being completely reprinted, and when speaking of the two editions at the end of the book, he says that he never intended it as a political pamphlet.
+It must be remembered that this was after the First World War, the time of the great debacle in Germany, of mass unemployment and all the post-war miseries. It was at this time that a certain pathological dreamer, a soldier named Schikelgruber (later known as Hitler), went about trying to form a group of young people around him with his ecstatic and crazy political programs. Goetz’s book was published fourteen years before the Nazis seized power in Germany, while they were already working underground. It was a time of the utmost collective despair, aimlessness and disorientation, a time that was in
+
+certain ways similar to what we are now experiencing. Since the first edition of the book appeared in 1919 and since the author must have taken some time to write it, we can assume that it was being written during the war at that the ruins alluded to in the first poem refer to the catastrophes of that time. The author mentions the dream, so passionately pursued, that takes them away across the sea to new lands and into some unknown horror, and then he tells about one who sings of a new country and of the emergence, before their eyes, of a
+“kingdom without space.”
+The second poem in the book begins with the same motif of a sky darkened by clouds. Although the sun has disappeared, there is a new light which comes from the depths and which the still sleeping people feel as an invisible presence, described as “eternal youth encircled by the music of the stars.” The author makes it clear that the eternal youth is the ruler of this kingdom without space and that one has to go into death in order to see him; that men and women dance ecstatically into death in order to see his completely transcendental form. It is therefore apparent that he entices people out of this world into another and seduces them to death.
+The first chapter, entitled “Schimmelberg” (White Horse Mountain),
+says that the inhabitants of a little university town—the University of
+Schimmelberg—well remembered the old sea captain, Wilhelm van
+Lindenhuis. (The name is North German tinged with Dutch, and is made up of the words Linde, lime, and huis, house, this “Limehouse.”)
+There had been a lot of talk about his sudden death.
+First his gentle, rather woebegone and sickly wife had died, after which people noticed that he no longer took his evening walk, but then they saw a light in his house and his lean, furrowed face at the windows, they thought that he must just have been indisposed for a while and was all right again, so they did not bother any more. One evening, however,
+two unknown youths appeared wearing leather caps and what the author describes as “weather collars,”
+that is, turned-up collars for protection in bad weather. They rang the bell at the Captain’s house and he himself opened the door. Passers-by said that when he saw the boys at first he recoiled as if in surprise, but the he let them in and in a quarter of an hour they had left the house again.
+
+Next morning the postman could not get no answer when he rang the bell to deliver a letter, nor could he at midday, nor in the evening, so he informed the neighbors, and when the door was broken open they found the old man sitting dead in his armchair. Apparently he had died quite peacefully from a heart attack. On going through the house, a crown of thorns and an ivory cross were discovered on the son’s—that is to say, on Melchior’s—desk.
+Since there was no dust on these objects, they must have been placed there quite recently, for everything else was thick with dust.. Every effort was made to advise Melchior (the hero of our story) on his father’s death; telegrams and letters were sent to him in
+Rome, but all were returned and he could not be found. Many years went by, and people had other things to think about other than Lindenhuis and his strange son. Only when they went by the Captain’s empty house did they wonder where Melchior could be and if he knew of his father’s death and why he did not bother about the fortune he had inherited.
+They said that he had always been a strange young man, and the following old story was dug up about him.
+When he was about fifteen years old he had had two friends—Otto von Lobe and Heinrich
+Wunderlich. Otto von Lobe was a very slender,
+gentle, blond, aristocratic boy, and Wunderlich was a strong, brown, bold young man. The three became friends and founded a mystical secret club. They read a lot of alchemical and Rosicrucian literature and started alchemical experiments with the idea of finding an elixer which, when drunk, would enable them to change shape. After many attempts they believed that they had succeeded in producing, but each of the three wanted to be the first to try it. Since they could not agree, they called the whole of their mystical club together. The others had been more fascinated by the romantic horror of the undertaking than by the details, which had been left to the three
+
+friends, and they knew nothing of the poisonous make-up of the drink. Lots were drawn and the lot fell to Otto von Lobe. It was then decided to have an all-night carouse in which their fantasy ran off into future possibilities and what they would do when,
+like magicians, they could change their shapes and how a new era would begin and mankind would be transformed. They became more and more ecstatic and in the early morning ran down to the sea and turned to the East. At the moment when the first rays of sun appeared, Otto von Lobe sprang up, tore off his clothes and, standing in the early light, laughed happily and then slowly drank down the elixir. In a few minutes he was dead. A strict investigation followed. Melchior was expelled from the school,
+having refused to make any statement, and the others were severely punished.
+Wunderlich, the strong, dark boy who had been the third in the group, changed noticeably after this event, dropping all unusual occupations and becoming very cynical and conventional in a rather pointed and exaggerated manner. He studied medicine and as a general practitioner retired to a little village, where he lived as a very down-to-earth,
+cynical, practical man who wished to have nothing more to do with anything fantastical.
+Here we have the description of something we can recognize from former lectures—the fallen Icarus who, after the elevation of creative fantasy, now drops once and for all into banality.
+Otto Von Lobe was dead, and the third member of the trio, Melchior, having been expelled from school,
+retired to his home and stayed shut up in his room for many months. His father, who was very much interested in magic and Rosicrucian writings and alchemy, pardoned his son. Although his mother cried about the catastrophe she also did not say much to him. Actually, the father was rather pleased and thought his son was following up with questions in which he himself was interested and that he would certainly get somewhere.
+
+At first Melchior would sit brooding for hours in his room, to which his food was brought up. Then he slowly began to regain confidence and started scientific discussions with his father who, although interested in magic and such things, had no faith in the possibility of the chemical transformation of the human being. He saw that, even if it can be done, it would have no meaning, and he saw no point in it.
+That that was the son’s fanatical idea, namely, for its own sake and without any further purpose it should be possible to burn the original shape of the individual to ashes and make the physical human being transparent—a mirror for the stars, as he called it. His father was more interested in astrology,
+Melchior considered him to be a muddle-head, so slowly they began to quarrel some more and more. In spite of their similar interests they did not agree,
+slowly drifted apart, and in time ceased to talk to each other.
+Melchior then began to visit Henriette Karlsen, the fifteen-year-old daughter of the Director of the local
+Museum. She was very beautiful, fair, slenderly built,
+with pale, amber-colored eyes and limp, longfingered aristocratic hands. Sitting locked up practically all the time in his darkened room,
+Melchior once saw her crossing the street, and the next day, for the first time he went out and they met in the Museum. She went up to him, took both his hands and looked at him for a long time without saying a word, her eyes full of tears. Then Melchior turned and hurried home. Thereafter he went to meet her every day in the Museum, but during all this time
+Henriette became paler and sadder. One day, by chance, the old Director overheard Melchior telling her how every night since his childhood a face had looked in through the window. In the evening, as a little boy, he would hear a knocking on the window,
+looking up, would see a small brown-faced little boy with eyes just like his own looking at him through the window. When he ran toward it the vision would
+
+disappear, and then he would sit and cry for hours.
+These visions faded, but while he and his friends were making the death potion which they imagined to be a transforming elixir, he again saw the boy, this time surrounded by other boys, looking through the window with mocking faces. Since the catastrophe of
+Otto’s death they had disappeared.
+“Thank God,” said Henriette, when he told her that.
+At that Melchior went into a rage, asking how she could say such a thing for since the boys had disappeared he was completely alone and nobody helped him. Otto had died merely because they had been in too much of a hurry and had not enough belief in the elixir, and Heinrich had betrayed them,
+and his father understood nothing, so now he was alone. To which Henriette replied that if he loved her he must promise to forget all that and if the boys called him he must not follow them.
+In despair Melchior said how could he promise that, how could she ask such a thing of him. He wanted nothing more than to go with them and solve all their riddles, Henriette with him, and he seized her hand.
+“Never!” Cried Henriette with deadly fear in her voice. “Do you want to kill me as you killed Otto?”
+Melchior then got very angry, calling her a coward,
+stormed out of the room, past the dismayed Director,
+and back home.
+On the same day he asked his father to send him to another town to school, to which his father agreed.
+Thereafter Melchior only came home occasionally for a few days and, after going to the University,
+remained away altogether. In the little town all they heard was that he was studying chemistry, at which he was very good, and that he eventually got a Ph.D.
+for it at Oxford. Henriette died of tuberculosis the year he got his degree. So the one who did not want to die, who refused contact with Melchior because she saw that the boys represented a pull toward
+
+death, soon died herself. A year before his mother died, Melchior returned to Schimmelberg and stayed three days, after which he went abroad and for a long time traveled in India and China. Then suddenly it was stated in the newspapers that the famous
+Professor Cux of the University of Schimmelberg needed an assistant and had taken Melchior for his chemical investigations. So he was coming back, and naturally everybody was very curious to meet the man about whose youth there had been such strange rumors.
+When he returned he seemed disappointingly normal. He had a very cold and strange personality,
+with still gray eyes, but except for his rather strange look he seemed to be an amiable and even impressive personality. People were pleased that he was married and fascinated by his somewhat exotic looking wife.
+On the first day Professor Cux told Melchior of the death of his father and of the strange apparition of the two boys who had deposited the crown of thorn and the ivory cross. When the boys were mentioned,
+Melchior seemed for a moment to know nothing about them. He just remarked that his father sometimes had strange ideas and for no reason had contact with people he did not know, and that he himself did not know anything about the matter.
+Melchior then took over and renovated his father’s house, where he, but particularly his wife, started a very social life. The whole town met there, partly out of curiosity but also for other reasons, as we shall soon see. Large parties were given every evening, but
+Melchior himself always withdrew early, excusing himself, and went to his study where he remained until far into the night.
+Slowly a scandal developed. Melchior began to be careless about his scientific activities and took more and more part in his wife’s social life, which through him now acquired quite a different character. People were indignant over the mocking way in which he spoke of State and Church institutions. Above all they
+
+were upset by his ever-increasing influence over the students, whom he tried to incite against science. He wanted to imbue them with radical skepticism against the foundation and outcome of scientific knowledge and the institution of the Church. He spoke of modern science as a modern form of intellectual illusion, saying that there was as little certainty as there was in faith, for science too was a pseudo-faith. At first it was thought that Professor
+Cux might put a stop to this, but then slowly it was discovered that he was completely under the charm of his young assistant. In the end both were obliged to stop lecturing, the Professor always supporting
+Melchior in his views about science, saying that he was quite right and what was science? What was there in chemistry and science? Nothing! People thought this was meant as a joke, but then it was discovered that in all secrecy the old man had married a young dancing girl. Everybody shook their heads and remarked that that was the fatal influence of a certain circle. Consequently, people drew away from Melchior and few remained true to him.
+The circle continued to meet once a week at
+Melchior van Lindenhuis’s house. There were eccentric and orgiastic parties, and although reports were greatly exaggerated, there was said to be a terribly immoral atmosphere. People were astonished when the liberal-minded Lutheran priest of St.
+Mary’s Church, Mr. Silverharnisk (silver harness),
+also joined the circle, but he justified his visits by saying that he was studying the uprootedness of the modern soul! The real reasons, as you can guess,
+were quite different.
+Melchior himself grew more peculiar, withdrawing entirely from the orgiastic parties given in his house.
+In November the strange boys who wore the remarkable clothes were seen around the house. Then the townspeople remembered the curious conditions surrounding Melchior’s father’s death and the stories told by the old Director of the Museum about
+
+Melchior’s conversations with Henriette when she was sixteen years old. People came to believe that there was some insoluble secret, and irritation and tension increased.
+The second chapter is entitled “The Meeting.”
+Melchior, in a very bad temper, sat on a bench,
+watching the heavy rain falling. He could not make up his mind to go home, for he was sure that his wife would have purposely forgotten to have his study heated in order to force him to join the party. He therefore preferred to freeze out of doors.
+Steps on the gravel started him out of his apathy,
+and with a shock he saw a boy wearing a high collar and a leather cap loitering along the leafless alley of the city park. When the boy came nearer , Melchior saw a small brown face out of which the determined yet shy, rather staring, gray eyes looked straight ahead. He walked past Melchior, and as he passed,
+looked at him briefly, smiled, and then disappeared.
+Melchior gave a little cry and suddenly began to tremble without knowing why. Then at the other end of the alley appeared a tall man who looked uncertainly around, took a few steps, and then,
+stopping again, looked around once more.
+Before the man could have seen him, the boy suddenly rushed toward Melchior and whispered to him to take his left hand and then quickly to put on his glove and not be surprised at anything and not tell anybody anything. The boy’s voice expressed such panic and his eyes had such a feverish look and his beautifully formed lips quivered in such fear as he spoke, that Melchior involuntarily seized the hand held out to him. At the same instant the boy disappeared as though he had melted into thin air,
+and on Melchior’s first figer there appeared a broad silver ring. Still under the influence of the boy’s frightened request, Melchior drew out his gloves and put it on. Then, he didn’t know why, he suddenly had a feeling of tremendous happiness and felt that something he had long hoped for had now happened.
+
+His depression disappeared completely, and full of self-confidence he looked at the tall man from whom the boy had fled.
+When the strange man saw Melchior he stopped and seemed undecided. He was clean-shaven, with clear-cut but rather faded features ending in a pointed energetic chin. His mouth was thin and large,
+his nose small and bent, his cheeks sunken and his eyes like bright transparent stones. When he raised his hat, Melchior noticed that he had a very large forehead and beautiful fair hair.
+“Excuse me,” said the stranger, “did you perhaps see a boy go by?”
+I haven’t seen anybody,” answered Melchior absent-mindedly.
+“Is that so?” said the stranger. “Excuse me.” And he sat down on the bench beside Melchior. “I am a little tired. I have been running about the whole day looking for my pupil.”
+“What does he look like?” asked Melchior, and in spite of himself had to smile.
+The stranger looked very suspicious and said: “But you did see him then? Did he speak to you? Did he…?”
+“I havent seen anybody,” interrupted Melchior. “I have already told you so.”
+“I thought from your question that you remembered something,” said the stranger. “So you didn’t see him! What a pity! Excuse me for persisting,
+but I am very worried.”
+Melchior continued to look mistrustfully at the tall man sitting beside him. The outwardly immovable face of the man seemed to change in expression from one second to another. Sometimes it seemed like the face of an old man, and sometimes there was a childish smile, and sometimes his features appeared severe and threatening and the eyes sparkled cold and penetrating.
+He got up and said, “Excuse me once more. I have a request to make of you. I don’t know why, but I
+
+have a feeling that it will be just you whom the boy will meet. I know that he will speak to you. Don’t listen to what he says; it’s not true. Don’t take his hand if he asks you to. It might bring you trouble. I warn you! And if you see him, please be so kind as to tell me. Do not refuse to do so.”
+Melchior did not answer.
+“My name is Ulrich Von Spät,” said the stranger.
+(Spät means “late.”) “I am staying at the Grand Hotel and am passing through. You must think me completely crazy, and I cannot explain the whole thing to you, but please have confidence in me and do what I ask you. The boy has a thin brown face,
+steady gray eyes, long black hair, and wears a coat with a high collar and a leather cap. You will certainly recognize him. His appearance must strike you…”
+At this moment Melchior dropped his head thoughtfully but did not say a word. Mr. von Spät waited a moment, then looked at Melchior and sighed. Stretching out his hand to him he said, “Well,
+let us hope! Auf Wiedersehen!”
+Melchior suddenly felt a tremendously warm sympathy for the man and a deep inner relationship.
+He forgot the boy’s warning, took off his gloves and shook Herr von Spät warmly by the hand, and the latter saw the ring. His eyes flashed for a minute, but he hid his excitement and walked quietly away.
+Melchior, suddenly remembered the ring on his finger, felt as though he had betrayed the boy. Only when it occurred to him that the stranger might not have seen it did he calm down a little, but without forgiving himself for his carelessness.
+“What can that mean?” he thought, “I am losing control over myself. Things happen to me as if in a dream. Who was that stranger? What power had he over me that I suddenly loved him so that I forgot who he was? He is my enemy!”
+The third chapter is entitled “Fo”—the name of the boy.
+On the way home Melchior felt as though he were dematerialized. Streets, walls, houses, surrounded
+
+him, tall and strange. They seemed to be made of air.
+It was as though he walked through them. They divided like curtains in front of him and closed behind him like clouds of mist. Everything was changed; buildings which he knew had existed in former times but were long gone, were suddenly there again. It was no longer the same town through which he walked.
+The people also seemed changed. He caught fleeting glances and felt as though he looked into his own eyes as into a mirror. A smile, a wave of the hand, seemed to him an indication, a greeting, a sign of secret understanding.
+Near the station, under a gigantic umbrella, sat a fat old woman selling apples. He went up to her,
+bought a couple of apples and put them in his pocket.
+To her astonishment, he stroked the wrinkled cheeks of the woman. “Yes, yes,” he said, beaming, “we know each other. We are old friends. Do you see this ring on my finger? You never saw it before, did you?
+Nobody else may see it. That means that I am going away now, far away. You know how it is when someones wants to go far away and suddenly it is time, and one goes.”
+The woman didn’t seem to understand and looked uneasy.
+“I know,” he went on, “that I don’t need to tell you all this. We know each other so well. We have known each for a long time, ever since childhood…”
+The woman, who had become more and more nervous, looked all around and at last, pulling herself together, interrupted Melchior: “Aren’t you ashamed of talking like that to an old woman?”
+“You don’t know me?” asked Melchior. “Why,
+suddenly, don’t you want to know me? You always sat at some corner when I was on the road. I always saw you when I left a place or arrived somewhere.
+Don’t you remember how you sat at the station in
+Genoa with a bright parrot on your shoulder, and on my arrival I bought oranges from you? And in
+
+Vienna? In St. Petersburg? In Stockholm? In a hundred other cities! You were always there and greeted me with your fruit when I arrived and watched me when I left.”
+“There is some mistake, Sir,” said the woman mistrustfully. “I have never been away from here.”
+Melchior looked her straight in the eyes and shook his head and finally said in a low voice. “I understand. You are careful. You don’t want to be overheard. The stranger is here—our enemy. It was careless of me to talk to you. We may have been watched. Only I was so glad to see you. Now I know
+I am going away.”
+At this moment he saw a boy going past the applewoman’s stall who looked at him sharply and put his finger to his lips in warning and then rapidly went around the corner. It couldn’t have been the same as the one who had disappeared, for this ones face was smaller, browner, bolder. Only the still gray eyes were alike.
+Melchior nodded good-bye to the woman and went quickly away. “Who was it who warned me?”
+he thought. “He wore the same clothing as the one who disappeared. What circle have I run into? What is it that surrounds and captivates me? I have seen it all some time in a dream. The many trusted faces on the street, the wink and nods and greetings, the two boys, the stranger—But I can’t remember. And the apple woman…Why did I say all that to her? It was idiotic! How should she know me? Old women sit in all railway stations. And yet, it was the same face, the same hair, the same wrinkles, the same voice…”
+When he neared his home, Melchior saw in the dusk a number of boys who broke up at the sight of him and hid behind the corner of the house and peeped out curiously.
+“It is becoming more and more confusing,” he thought. “Now there is a whole band of them!”
+The windows of his dwelling, which was on the ground floor, were all lit up. There was the sound of
+
+laughter and confused talking and music. Among the murmur of many voices he thought he recognized the clear voice of Mr. von Spät. Then it occurred to him that he had never given von Spät his name or told him where he lived, so how could he be there?
+Melchior decided he had been mistaken.
+In order to not be seen he went in the back door and straight to his study. There it was cold and dark.
+He turned on the light and lay down his damp coat on the couch. The ring, which was loose on his finger,
+fell to the ground. In a fright he looked up.
+The boy who had disappeared stood by the couch and looked at him, smiling, “You’re cold,” he said.
+“I’ll light a fire.” He lit the fire in the stove and then threw off his coat and cap and stood by Melchior.
+“I knew that I would find you, Melchior,” he said.
+“I had seen in your eyes that you would help me. You belong to us even though you don’t know it. I thank you. We all thank you.”
+“Who are you? Who are you all? Asked Melchior.
+“I don’t understand what is happening. Who is the strange man? How do you know my name?”
+“I have known about you for long. I am called Fo. I cannot tell you my real name. None of us may say that. We give ourselves nicknames so that we may speak to each other. Who are we? You will find out when you live with us. You have only to cry out that you want to go away and we will come fetch you. But be careful of the stranger! He is our worst enemy! He saw the ring on your finger, and he will try to catch you. He has a secret which makes him very powerful.
+I was once in his power and could only get away by tricking him. I will tell you about it later when you come to us. You are still living among the others, and
+I cannot yet tell you anything. And now—thank you,
+and let me go. The others are waiting for me.”
+Melchior heard a noise at the window and saw many faces pressed against the window-panes,
+looking in out of the darkness into the bright room.
+“I wont let you go,” cried Melchior, “until you
+
+have told me everything, How do I know that you will come when I call? How can I follow you when I don’t know who you are? How can I resist the stranger when “I don’t know his secret?”
+“Who we are you can only know by living, not by talking. You will follow us if your heart drives you.
+We are always there when called. We ourselves don’t know the stranger’s secret; if we did he would not have any power over us. I have answered you. Now let me go.”
+“You want to run away from me,” said Melchior,
+“but I know how to stop you with the ring.”
+“The ring won’t help you Melchior,” said the boy,
+laughing. “It turns your life into mystery and confusion and change. But you won’t get away. If you were to keep the ring, the town would aways be to you as it was on your way home today. You would unravel nothing; you would take friends for enemies and enemies for friends, for you would not undersstand the signs which would explain them.
+Come with us and then you will be free. Call us when you want us. Until then, let me go. Open the window.”
+Still Melchior hesitated. Then he stood up silently,
+looked at Fo for a long time, and opened the window for him. The boy jumped out, and the crowd outside encircled him. They took one another’s hands. A flame shot up in their midst, split up into sparks, and they all disappeared.
+You see that the story is very suggestive! It is something like Edgar
+Allen Poe’s stories and might have been influenced by the Kubin’s The
+Other Side by E.T.A. Hoffman. It is the kind of novel in which suddenly banal reality is dissolved in the mysterious events of the other side,
+where, in our language, the unconscious penetrates and dissolves the world of consciousness, and where from then on anything and everything can happen.
+Mrs. Volkhardt has called my attention to the fact that not only
+Kubin, but also Gustav Meyrinck wrote at this time in Munich, so there was really a whole school of writers of this type of story in Germany.
+Meyrinck was also interested in alchemical experiments and bought
+
+old lavatories in the Prague ghetto because he had read in alchemical books that very old human excrement contained the mystical stuff of the Philosophers’ Stone. He cooked this substance (he gave a description in a letter) and it exploded in his face! He also had contacts and conversations with ghosts. A whole circle of people there experienced the unconscious under a parapsychological aspect. To them the unconscious was the spirit world, and they tried to contact it by parapsychological and magical means. They fell back onto the
+Rosicrucian and Freemason and other traditions, from which they tried to obtain some knowledge of the world of the Beyond. Not having the key concepts provided by psychology, it was their only way of approach. Bruno Goetz is of this type and belongs to this period.
+The name of the town, “White horse mountain,” is also meaningful,
+for the white horse is a very well-known attribute, and sometimes a personification, of the old god Wotan, who either appeared riding on the eight-legged white horse Sleipnir or was replaced by this magic horse. Those who have read Alfred Kubin’s The Other Side know that a mad white horse who races through a destroyed world plays a similar role. Wotan retired to the mountain but will reappear at the end of time and reestablish his eternal and happy empire.
+Lindenhuis, the family name of the hero of the story, means “Lime
+Tree House,” and in olden times in most small German towns and villages there was usually a lime tree in the center of town. It is a feminine symbol and was dedicated to nature goddesses like Perchta,
+Hulda, Holle (plus all her other names). It was thought that the souls of unborn children lived under the leaves of the tree, and it was the mystical tree in the midst of the village around which the whole of life centered, very much like the central pole which, for instance, you find in American Indian rituals. Old Lindenhuis, the father, is a sea-captain,
+and all the other names are slightly distorted by North German or
+Dutch dialects to draw attention to the fact that we are concerned with a North German country and its overseas contacts. Also, in the opening poem there is an allusion to seafaring people, the still living
+Viking spirit being a personification of the restlessness and transcendental eternal longing which is typical of Teutonic peoples. We cannot interpret the details in the book until later, for so far we have no key as to what the ivory cross and the crown of thorns allude to. The explanation comes only in the later chapters.
+The rumors which spread about the hero of the story contain a very typical feature. For instance, there are three boys: Otto von Lobe, an
+
+aristocratic type, dedicated to death, and described as being very delicate, and Heinrich Wunderlich, who is described as being very vital. Those two are obviously opposite shadow figures of Melchior’s:
+one could be called a personification of the sensitive , artistic personality with a strong suicidal tendency, and Heinrich Wunderlich,
+the vital side of Melchior’s personality which pulls toward adaptation to life and who therefore cuts off all the juvenile romantic longings.
+Otto von Lobe dies from drinking the elixir, and through the shock
+Wunderlich becomes quite cynical and realistic. You could say that one part of Melchior dies and another part of him reacts to that with a tendency to cynicism. The ego complex, which would be represented by Melchior himself, is between the two. As we hear, he retires into his room and into a deeply depressed introversion after the shock, while
+Otto von Lobe, the real puer aeternus in him, dies. It is well known that between the ages of fifteen and twenty suicides occur frequently, for it is a period when the pull toward death is strong. Generally, it is connected with puer aeternus problems—a crucial time when these problems are urgent.
+Melchior describes how, from the time he was a little boy, he aways saw his double at the window. What does that mean? I will read you the exact passage:
+Father was at sea or occupied in some way, and
+Mother leant over the Bible, and he himself felt lost and sad. And then he heard a knocking at the windows and saw the pale brown face with eyes resembling his own, and that aways made him cry bitterly. His mother never knew about it, but he told his father, who only smiled but gave no answer.
+Naturally, you can say that that was Melchior’s early experience which foreshadowed all that was to come later, but I think we should amplify this with a very well-known fact, namely, that in early youth lonely children tend to produce a double personality with whom they entertain themselves. This double is the coming-alive of the unconscious personality, due to loneliness. It is typical that it is described in this way, namely, that he is a lonely child and in moments when he sadly realizes his loneliness this apparition appears. There are children who invent such a double and personify it and play with it for hours. Often this fantasy figure of early youth later reappears in dreams and really becomes a personification of whole unconscious. It is the shadow, the anima and the Self, still in one. It is the whole other
+
+side of the personality.
+We are always inclined to think of the unconscious in terms of the different classifications of Jungian Psychology, so we could debate whether this first apparition is the Self or the shadow, but we should never forget that these concepts are only valid in certain psychological situations. When a human being first meets the unconscious in an autonomous form, either in childhood, or for instance, in the beginning of an analysis, there is no question of shadow, animus or anima, and
+Self. The first experience we usually have when we encounter the unconscious is with what we could best call the other side. In those early stages it is personified in different forms, and it is advisable in analysis not to start introducing these formal concepts but to let the person first simply experience that there is another side to the ego and its ordinary world. It is only after some time, when the fact of a completely different part of the personality has been realized, another inhabitant in our inner house, that then we slowly discern figures in the half darkness of the unconscious such as that of the inferior man,
+whom we might classify under the name of shadow, and the figure of the heterosexual partner, which me might classify under the name of anima, just to bring some order into that other side. But in itself, as a reality, it is really the impact of the unknown part of the personality.
+You will find all over the world that the first meeting with the unconscious is often with such a personification, or a double, in which shadow, Self and anima (if it is a man) are completely one.
+There is the same idea in Persian teaching, which says that after death the noble man meets either a youth who looks exactly like himself (because in death he turns again into his beautiful and noble stature) or a girl of fifteen (that is, the anima). If he asks the girl who it is, it will say, “I am thy own self.” If the man has been virtuous, then this figure is shining and beautiful. By living virtuously , with the right kind of religious attitude, he develops a double in the Beyond, and the moment of death brings reunion with the other half. This Persian myth has survived in certain Gnostic and Manichaen traditions in late antiquity. There it is absolutely irrelevant whether the figure appears as a shining youth or as a girl, for its answer to the dying person is the same, namely, “I am thy own self, thy other half.”
+This is a very primitive, archetypal idea. In many primitive societies,
+it is thought that every human being on entering this world is only a half, the other half being the placenta, that is, that part of the personality which has not entered this world. It is therefore ritually
+
+buried, or dried and worn in a capsule around the neck, and is the magic substance in which the double is supposedly located (the transcendental double, the other personality), and there is the same idea that after death the two become one again. There is even a myth which says that the first man was complete in heaven, but when he was incarnated in this world he was only a half, and, therefore the first man, who is mythologically exactly the same type as our figure of
+Adam, is called the “Half One.” So you could say that that any human apparition is only a half; the other remains in the land of death in the
+Beyond, and one joins it after death. What this means ultimately we do not know because it is an archetypal representation whose meaning we can never exhaust intellectually. But we can say that among other things it mirrors the basic realization that the growth of consciousness,
+which begins in early youth and increases, is a halving of the total personality, and the more one becomes conscious the more one loses one’s other half, which is the unconscious. It mirrors, as it were, the split of the human being into a conscious and an unconscious personality, and there are early-youth experiences in which this is realized.
+I once read in the Neue Zurcher Zeitung a story told by a Hungarian officer which illustrates this. Before the first World War he was the only child of an aristocratic Hungarian family and was so lonely, having nobody to play with, that he invented a brother whom he called
+Stepanek and imagined as a very tough red-haired little boy. In his imagination this little boy would do all the mischief he hoped, or would have liked, to do, but for which he hadn’t the courage. In his fantasy he lived mainly in imagining what his Stepanek would do.
+When he went to school and found real comrades, the figure faded and was forgotten. And then he said (and I am just repeating the story) that in the First World War he was shot and wounded. He fainted and came around after a time, bleeding and shivering and in a very bad state.
+And he saw a human figure bending over him, a red-haired man of thirty, and thinking it was somebody who had come to rescue him he muttered, “who are you?” The other whispered “Stepanek!” The next thing he remembered was that he was being taken care of in a hospital and slowly coming back to himself. He was very much puzzled about whether he had an hallucination—whether he had projected something onto the man who had brought him in, who perhaps had been a black-haired Red Cross man. He tried to follow up the problem and so asked the doctors and personnel at the hospital how he had got
+
+there, but nobody knew! The nurse knew he had been brought to the ward, and that he had been found on a stretcher in the hospital courtyard, but nobody knew who had brought him there, and could never find out! He said that he didn’t want to theorize about it but that those were the facts. I have a rational explanation: As you see from the childhood story, Stepanek was his more ordinary and vital part, his inferior personality, the red-haired fellow who dared to do all the things he did not dare do. He himself was rather an introverted,
+sensitive kind of boy, and I think it quite likely that in the war situation, in a half-dazed way, he managed to drag himself to the hospital and was therefore literally saved by his inner instinctive personality, Stepanek. Then he broke down in the courtyard where he was found. His wound was not too bad. That seems to me the only possible explanation. The other possibility is that a man from the lazaret had picked him up and that in this dazed condition he had projected Stepanek onto him. Nobody knows!
+This is only to illustrate that fact that the lonely child very often finds a companion in the unconscious other half and thereby experiences the unconscious, but normally these shadow figures, and the other side, are at this age projected onto other children who take over the role of “the other.” It also shows the problem of a certain amount of dissociation , a dissociation of the personality, which then comes up again in this rather exaggerated, romantic fit which the boys experience at school when Otto von Lobe dies from the elixir. The fascination comes from the idea that the human individual, in its material shape, could be transformed and dematerialized and then become, as Melchior says later to his father, a mirror of the stars. So, at the bottom, the fascinating idea of an alchemical transformation haunts all those boys, and the accidents happens through their attempt to put it into reality. There we see clearly that this double —the puer aeternus boy—has to do with the Self and that the realization of the Self, as it is presented in the alchemical process, is the real fascinosum. There you also see how the two rhythms set in, namely, the pull to death,
+expressed in Otto von Lobe, and the cynical pull toward reality,
+personified in Heinrich Wunderlich. I think we cannot say more about it until we see how it all turns out.
+The next thing is that during Melchior’s retirement into his dark room a first meeting with the feminine principle takes place, for when he shut up in his room, having been expelled from school and quite under the shock of Otto von Lobe’s death, he discovers the girl,
+
+Henriette Karlsen, who later dies from tuberculosis. He quarrels with her, as you remember, because she does not want to follow him into death. She feels that those boys he always sees and the vision he has of the boys mean a romantic pull toward death and does not want to follow them. All the same she dies afterward. In anticipation of the story, I can tell you that the hero in it never unites with a woman in a real way. The marriage is nothing, for there is no relationship but complete hatred and disappointment on both sides. It is a complete fiasco. There is thus the same problem as in The Little Prince, for the contact with the anima does not work. Here is a different variation.
+You remember that the little prince also quarrels with the rose and leaves her on the planet. There the anima figure is also not so aristocratic and lacking in vitality but rather childish and haughty and difficult to get on with. This girl, however, is more the aristocratic
+“broken lily,” a very attractive anima type. But how would you interpret it psychologically? The first love of a man is always very meaningful, for the girl then is more the anima than she is real, and usually these love affairs do not end in marriage. It is mostly an anima fascination linked up with the mother in this story—that she was a sad,
+suffering woman who sat reading the Bible— and obviously Henriette
+Karlsen is a replica of the mother-image. Sometimes men have a different animae, and one of them is like that, but there are also others to compensate. If that is the dominant type, however, what conclusion would you draw? What does that predict?
+Answer: That his vitality is feeble.
+Not necessarily his vitality, but the feeling side; his eros is weak. He himself is not necessarily weak, for Heinrich Wunderlich is a vital type,
+the one who becomes the cynical realist, so it could mean that it would still be possible for the ego to be quite realistic. What would you guess if you met someone between eighteen and twenty who has such an anima figure? What would he look like if you met him again at fifty? I would say that he has every chance of becoming either homosexual or remaining a bachelor. Those would be the two possibilities because the whole relationship to the feminine side and to feeling—to eros,
+relationship—is weak and very likely to die, that is, to fade away. I have seen more cases like this among determined bachelors than among homosexuals.
+I know of a man who got engaged three times to a dying girl and never understood that this must have something to do with him. After the funeral of the third girl he thought he was just persecuted by fate
+
+and gave up. I knew him as a very old bachelor—a very nice man. He never saw that his anima-constellation made him choose such women,
+that he had a real instinct for picking out the doomed woman. He always got engaged correctly and meant to marry, but the girl died,
+one from tuberculosis and one in an accident, and the third I don’t remember how. What was so striking about this old man was the terrific sensitivity which he covered up by his odd behavior and scurrility. He went about dirty, covered with tabacco, and lived in a flat like a cave, decorated with beautiful things, but ash and cigars over everything. The mere mention of a charwoman put him into a rage,
+and he would shout about women—especially charwomen—who disturb everything. He was very artistic and had a beautiful collection;
+he knew more about art, with feeling and understanding, than anybody I have met since. He was the type of the spiritually, highly cultivated, funny bachelor!
+You could see clearly that his anima was so sensitive that he could never get near a woman or make a friend of a woman, or even make male friends; his feeling was too delicate and too easily hurt. The only way he could survive was by keeping away from any close contact with other human beings. What saved him was his tremendous sense of humor. He always laughed at his own sensitivity, covering it up with ironic remarks, a trick of many sensitive people. He made fun of himself so as to keep his shell whole. That is the usual behavior of a man with this special predilection for dying girls. The other possibility is a relationship to someone of the same sex, becoming homosexual,
+because there a passion and the realization of the marriage relationship with its disagreeable and wounding realities can be escaped. The similarity to the Little Prince is that the puer aeternus problem is here again connected with the problem of the weak anima figure and weak eros side, and relationship to the other sex is a problem.
+Then there is a strange paradox, namely, that the girl Henriette, the only anima figure he meets before his wife, wants to prevent him from following up the romantic pull from the Beyond. Then she herself died.
+How would you interpret that? In a way she does the right thing, for she warns him and tries to get him over onto this side and this life. But then she goes.
+Remark: He had projected a sickly anima onto her.
+Yes, and when she protests, then the anima projection falls off. If she had joined in with his romantic plans, she would have carried out the role of the anima, but by calling him away from those plans she refuses
+
+to take on that role. Why is not explained in the story, but at that moment the anima projection falls off because for him to be able to continue his projection she must cooperate in the pull toward death.
+Moreover, Melchior had chose her because she was a dying person,
+which apparently the girl herself did not know and was consciously not attracted by death. This also shows a tendency typical of young people which is indicative of a certain weakness, namely, that he belongs to the type of person who, when a projection falls off, does not carry the relationship—another sign of his eros weakness.
+Some people, when they notice that the other person is not what they had assumed, are pulled by natural curiosity to find out more about the matter. They think it odd that they were so attracted by a woman who ceased to attract when she proved to be quite different.
+They try to find out what happened and why the attraction faded. In that way there is a chance of realizing the projection. But those who, as soon as they are disappointed, just finish, always remain in the projection. If one is disappointed, that is just the time to follow the relationship, at least for a while, in order to find out what happened.
+That is actually how Jung discovered, in himself, the anima. Being again disappointed in a woman, he asked himself why on earth he had expected anything else—what had made him expect something different? Through asking such questions and realizing an expectation which did not fit the outer figure, he discovered the image inside.
+It is therefore always helpful if a relationship—not only a heterosexual relationship—disappoints you, to ask yourself such questions: Why did I not see that before? What did I expect? Why did I have a different image of this person?—Where did the error come from? For the error is something real too. If one can do this, it indicates a desire to hold on to the human relationship and take back the illusion. When one does that and makes an effort to establish the relationship on its own level, then the illusions must be investigated as something interesting. But people with weak feeling tend to break off the relationship as soon as the other person disappoints them. They just walk out because it is no longer interesting, and question about why one had the wrong expectation and why one is hurt are not asked.
+Question: But isn’t there something in the other person which formed the hook for the projection?
+Yes, but one can only discover that if one goes on after the disappointment. Then one might find it. At first one thinks one knows the other person, for when I project I have the strong feeling of
+
+intimate knowledge. At the first meeting there is no need to talk: you know everything about each other—that is a complete projection—the wonderful feeling of being one and having known each other for many ages. Then suddenly the other behaves in an unexpected way and there is disappointment. One falls out of the clouds and feels that “this is not it.” If you then go on, you must do two things, for now there is a double war: you must find out why you had such an illusion and who the other person is if he or she is not what you expected. Who is he or she in reality? That is a long job, and when you have done that—have found the root of your own illusion and how the other person seems to be when looked at without projection—then you may ask why your illusion chose that person to fall upon? And that is very difficult, for sometimes the hook is big, and sometimes very small, because the other person may have only few characteristics that fit the projection,
+so it may be more—or less—of an illusion. There are all degrees.
+Obviously Melchior is the type who goes as soon as the projection falls off, as soon as the other person does not behave as expected. He even calls Henriette a coward: he just insults her and leaves her.
+Subjectively, that shows the weakness of his dying eros function. It is not even said that he was sorry afterward or suffered from unhappy love and disappointment. Other boys who had such a silly experience with a girl at that age would sit down and write endless insulting letters, accusing her of being a cow and not understanding, and so on.
+They would follow up the problem, and this would show relatedness.
+It would be an attempt, even though based on error and projection; it would indicate a passionate interest in the other human being. But here there is nothing of the kind—he just writes the whole thing off,
+just like the little prince, only in a rather different form, for the latter leaves the planet and the rose, although she feels sorry and says, “Yes,
+yes, go, go!” Out of pride, she sends him away. If someone writes off his relationship so quickly, you may be sure that he will write himself off equally quickly. That is the suicidal type of person.
+Here there is the weak anima, typical of the suicidal tendency in the unconscious. That is how, to a certain extent, one can discover suicidal tendencies beforehand. I have met two types: one is not really suicidal but could finish himself off in a rage—a kind of accident. There are irascible people (really something of the murderer type) who get sudden fits of rage which may also go against themselves, when they can kill themselves by mistake. They lose their heads—and if they could survive they would be very sorry! That is not a genuine suicidal
+
+tendency. It is an inverted aggression. The aggressiveness is not integrated and may suddenly turn against the person himself—like the scorpion’s sting! But Melchior is the true suicidal type, and such people secretly, intellectually and coldly, write off those in their inner surroundings and also themselves. They never really trust themselves or those around them—there are no real relationships. That is something which runs through his whole book—there is not relatedness. That is the fatal thing right from the beginning.
+After this comes the quarrel between Melchior and his father, which is very important. Melchior is still pursuing the idea of the transformation of the personality, while his father is an astrologer, a magician, and is also interested in occult sciences, not, however, for the sake of transformation of the personality but rather out of curiosity or as a pseudo-scientific occult occupation. This is where father and son clash emotionally and then again write each other off. It is another breaking-off reaction. This is so important because it indicates the main problem—the enmity of Fo, the boy, and Ulrich von Spät, his adversary. At the beginning, Ulrich von Spät pretended to be Fo’s tutor and wanted to catch him in some way and keep Melchior away from his influence. The boy, on the other hand, is afraid of Ulrich von Spät and runs away from him all the time. He tries to bring Melchior under his own influence, and you will see that this battle continues. At one time Melchior really loves Ulrich von Spät; that is the moment when he takes off his glove and shakes hands with him and thus gives away the fact that he is wearing the ring. At other times he hates and wants to avoid him. We should go into this. Ulrich “Late” is an allusion to the fact that he is the elder and would have the father role in relation to the boy. He pretends to be the spiritual mentor, or tutor, or father, so obviously this conflict is a further development of the one we already saw between father and son. If the son believes in the transformation of the personality—in a most unreal and fantastic way admittedly, but still he believes in it—and the father is also interested in magic and occult sciences, but not for the same reason, what two worlds clash there?
+Answer: The two generations.
+Yes, the father refused transformation and wanted to keep that status quo, while the son wanted renewal. If you refer that to the idea of the transformation of the personality in alchemy, what then?
+Answer: The material and the spiritual are separated. In writing off his father he has written off the material side. Melchior is consciously searching
+
+on the spiritual level, but the material side then becomes the shadow.
+Yes, but it is very subtle. In a way, the father is the material side—or which would you say he was?
+Answer: He is both, for he is the wise old man and the magician!
+You see, in a way, he is both! Because he studies the book, he is the spiritual side—he is investigating this world mentally—with a secret materialism. The other way around you could say that the Fo archetype is a spiritual archetype. It is the élan vital, the spiritual element, but at the same time that is materialistic too because the boys wanted to transform the personality with real poison. That is materialism. So in both figures spirit and matter fall apart, and when the one adopts a materialistic trend, the other breaks with the spiritual attitude. When the other takes on the materialistic trend, then Fo pulls for the spiritual attitude. So I agree that spirit and matter have fallen apart in the wrong way—but in both! And what is lacking? If spirit and matter have fallen apart, who is lacking?
+Answer: The anima.
+Yes, the psyche, that which is between the two. That is why in both opposite positions, in both enemy positions, there is a seperation of mind and matter. There is no vinculum amoris (bond of love) to unite them, for the anima is lacking. So the father has spiritual interests with a secret materialistic background, and the son has chemicalmaterialistic interests with a spiritual background, and they clash and cannot understand each other.
+In a very real way, we have now the same problem collectively.
+Think of such movements as anthroposophy. In Los Angeles, for instance, there is a new sect, founded by Manley Hall, whose members consider themselves to be something like the New Rosicrucians. There is a revival of interest in magic, in Freemasonry symbolism, in
+Rosicrucian symbolism, and in astrology and the occult sciences. The followers of these movements all reject psychology. They want the
+Beyond to be called the ghost world, or they claim that an apparition of the animus is an angel from the Beyond, and they give factors,
+which we try to name in a psychological way, old names which they take out of the old traditional books. In Basel there is a man named
+Julius Schwabe, the founder of the Congresses on Symbolism held there every year. He invited people to report on symbolism and has professors from all schools. For instance, some talk on Tibetan medicine. He also once invited me to speak on Jungian psychology. As chairman he sums up, at the end, in occult terminology, and covers
+
+everything up by saying that such and such thing is the old figure X of the Beyond, while the unconscious is called the “transcendental spirit world,” and so on.
+This is really Mr. von Spät (Mr. Late) because every one of his explanations is a backward pull. The explanations regress to medieval,
+and to even Sumerian and Babylonian, magical concepts. Or the speakers use concepts of the sixteenth century, or Paracelsus, and they are all nicely muddled up! It is a beautiful pot pourri of concepts from the past, pulled out of their context and now used as a name for the phenomenon of what we call the unconscious. That way everything is explained and made quite clear by just using the old names, that is,
+sticking them onto the phenomena. But behind that there is a tremendous power gesture. For instance, Schwabe would say here,
+“Well, Fo is, for instance, the Hermes infans, Mercurius infans, the young
+Mercurius.” And then one feels that something has been said! That is
+Mr. von Spät! The outer and inner realm fall apart in this way, as well as spirit and matter, and any other factor.
+If a man, for instance, has an obligation to his anima, and to the woman with whom he made friends, or married, then he gets into a typical duality situation of life where one always has a real conflict, a double obligation, and where one is always torn between obligations to the outer and to the inner side of life. That would be the realization of the crucifixion, or of the basic truth of life! Life is double—it is a double obligation, it is a conflict in itself—because it always means the collision, or conflict, of two tendencies. But that is what makes up life!
+That realization escapes von Spät completely, or he escapes the realization! It does not even occur to him, and that is one more of the little, but fatal, turns in the story which point toward its tragic end.
+
+
+---
+
+# Lecture 10
+
+
+Last time I tried to give you an outline of Mr. von Spät, who is the great riddle in the book. The conflict between him and the boys mirrors, on a superpersonal level, the conflict which has already begun on the personal level between Melchior and his father. Melchior is seeking an elixer of transformation in black magic, and his father is studying magic for its own sake out of curiosity, or the desire for such knowledge (although one doesn’t feel he is seeking something especially creative in it). Father and son quarrel and break apart over this. Now the conflict appears on a much wider scale between the paternal protector and the runaway boy who gives the ring to
+Melchior, for Mr. von Spät alludes to the fact that he is chasing the boy to bring him under his power. But before we amplify these figures further I will give you a few more chapters of the book.
+You remember that when Melchior has returned to his own home,
+suddenly the boy appears and warns him against him against von
+Spät, saying, “You belong to us, stay with us, and dont fall into the snares of von Spät. He has a secret with which he can petrify us.”
+Melchior, asks what the secret is, and the boy says that if they knew they would be free but they do not. Then he takes away the ring he had given Melchior, saying it would would only pull him into complete chaotic confusion, and disappears out of the window in a spark of light.
+The next chapter begins with someone knocking at the door, but a
+Melchior does not answer.
+The door opens carefully and his wife Sophie looks in. She is small and delicate looking, with black hair,
+and green eyes look at Melchior, her sensual and
+
+rather shapeless lips quivering a little.
+“There you are again,” she says, “alone in your cold room. Won’t you come down? We are having such an interesting party.”
+You know I don’t want to have anything to do with those people,” he answers bitterly. “Why didn’t you have my room heated? (He knows it was a trick to force him to join the party.)
+“I’m sorry. I forgot, says Sophie.
+“You always forget when you have company, he replies. “You always want me to meet people who hold me back. I have no time for them.”
+You have no time for me either,” says Sophie.
+“With those people I can talk in a human way that bores you.”
+“Yes, always talking and chewing over the same thing does bore me,” says Melchior. “You sniff at everything, and it is always the same stuff.”
+A very angry expression crosses his wife’s face, but she controls herself and answers quietly, “I like to feel myself among familiar things, but you cant bear them. You always want to make me and everybody else feel insecure, and try to take the ground away from under our feet. People have become quite stupid after they have met you, and it is impossible to have any serious conversation with them; they begin to talk nonsense.”
+“Yes, you can’t understand me,” says Melchior.
+“You always are so sure. I can only tell you that your security is a complete illusion, just as the former security of your people was self-deception. The smallest thing upsets them, for there is nothing either above or below. Only the person who has gone through complete dissolution and chaos can talk about security. I do not trust any solidity, or gestalt, or performance, or security.”
+Impatiently Sophie says, “Well, our guests are waiting. Come along! Today it is absolute chaos, for someone who causes even more confusion than you,
+a new man who talks very strangely and pretends
+
+that he has only to command and an army of ghosts will obey him.”
+Melchior smiles and then says, “Does he talk about ghosts? You would rather believe in ghosts than in the spirituality of the world. Who is this ghostconjurer?”
+“An old acquaintance of mine,” says Sophie, “from my home town. We played together as children. But everybody always had to obey him, and we could never play as we wanted. He was small and weak,
+but nobody ever dared fight him. I left home very early and had never heard of him again. Now after fifteen years he has turned up unexpectedly, so I asked him to stay for tea.”
+“What is his name?”
+“Ulrich von Spät!”
+So we discover that von Spät was a friend of Melchior’s wife when she was a young girl.
+He says, Oh yes, he is staying at the Grand Hotel isn’t he?”
+“Oh, I just got to know him by chance a couple hours ago, and now he has sneaked into our party on the excuse of knowing you.” And he becomes very excited.
+Sophie says mockingly, “Now, all of a sudden, you have become very lively. Now you are interested. I see that now I must just get crazy people to come to my party in order to get you interested.”
+Melchior interrupts her, saying “Come on, let’s go to the party.”
+When they near the room, Mr. von Spät can be heard saying, “Ladies and gentlemen, you laugh at what I say, but I can assure you that I can show you things like a fairy tale come to life. Every one of you I can shut up in this little bottle which I hold in my hand.”
+As Melchior opens the door and comes in with his wife, there are shouts of laughter. He is immediately surrounded and notices that they all look excited and feverish, and he wonders whether Mr. von Spät is
+
+responsible for it all.
+“Hullo, old man!” shouts the fat, vulgar art critic,
+Heinrich Trumpelsteg, patting him on the shoulder.
+“You have come at just the right time; your famous friend is about to show us a couple of tricks.”
+But Melchior’s boss, Professor Cux, with his Goldrimmed spectacles, appears and introduces his wife,
+the dancer, a boyish-looking girl, her whole face powdered green and her lips violet. Melchior is amazed by the whole company, and Professor Cux very tactlessly says, “Look at my wife! See how beautiful she is, and just look at these legs!” He lifts her skirt above the knees, and says, “And a further view is more fascinating!
+Everybody laughs at this joke, Frau Cux loudest of them all, and the women lift up their skirts and show their calves, each saying that hers are the prettiest legs, so Trumpelsteg says, “All right ladies, I suggest we have a beauty show. Take off your clothes and show yourselves in all your beauty, and we will decide who is the most beautiful. Like the Greeks we want nothing but beauty, beauty!”
+There are shouts of “Hurrah!” and a confusion of arms and legs and articles of clothing ensues, and in a few minutes all the women stand there naked.
+Melchior looks across at his wife and sees that she too has undressed and is looking at him mockingly.
+“What on earth is happening here?” wonders
+Melchior. “It’s like a madhouse. Mr. von Spät must have this strange effect. Do my ideas seem like that to people they think about them?” (He always wants to make people feel uncertain by destroying their false,
+bourgeois certainty, but here he asks himself whether this would be the result.)
+Mrs. Cux dances naked through the room,
+embracing everybody, and all the women follow suit,
+hitting , scratching, biting and kissing each other, the men applauding violently. Melchior turns away and approaches Mr. von Spät, who comes toward him holding out his hand. “We meet sooner than we had
+
+expected,” he says. “What a strange chance that just you should be the husband of the friend of my youth!”
+“I don’t believe in chance,” answers Melchior,
+returning von Späts glance. “In one way or another we bring about chance.”
+It occurs to him that although that is a very banal way of talking, at this moment it occurs to him that it has a real and definite meaning known only to him and von Spät.
+Just then Trumpelsteg comes along and, having heard the last words, says, “Hurrah for philosophy!”
+He speaks so loudly that everyone becomes silent and listens.
+“Chance! Chance!” he goes on. “Naturally there is no such thing as a chance for a magician like yourself.
+One makes a chance! Mr. von Spät directs a whole orchestra of ghosts!” And he laughs again.
+Then Mr. Silverharness, the parson, with his goggle eyes, who comes to study the disorientation of the modern soul, says, “Yes, Mr. von Spät convinces us of all the things you have spoken of. Don’t only talk! We are all enlightened present-day people, and we only submit to facts! Facts, Mr. Von Spät!”
+In a chorus all the others scream out, “Yes, facts!”
+“Facts! says Schulze, the school professor, joining in. “Only facts convince us; we believe only in facts,
+as the great time in which we live has taught us!”
+“Bravo!” shouts the chorus.
+Trumpelsteg, no longer able to contain himself,
+jumps onto the table, and waving his apelike arms,
+shouts, “But the arts, ladies and gentlemen, you forget the arts!” He then makes a long peroration and ends up saying that they do not want facts. “Facts are mean. What we want is illusion! Let us be Knights of the Spirit!” (In the sense of illusion which takes us away from reality.)
+Everbody echoes, “Let’s be Knights of Illusion!”
+and claps. Even Sophie, who was standing silently in the corner, begins to get excited and smacks her
+
+naked thighs and joins in the general laughter.
+Melchior and Mr. Von Spät look at each other smiling. Melchior feels as if separated from the whole scene by a thin veil. The shrieks and all the noise don’t seem so loud; everything seems farther off,
+more peculiar and stranger. Only to Mr. von Spät does he feel himself near and closely connected.
+In the next chapter things begin to calm down and people sober up a little, but then the atmosphere begins to get tense and people start whispering to each other. Mr. von Spät leaves the room to return in a little while, opening the door and coming out slowly with his eyes half shut and surrounded by a bluish shimmering mist, out of which a white head appears. In one hand he holds a little bottle and in the other a shining knife. He seems to notice nobody and with stiff dancing steps goes up the two steps leading to the opposite corner, and the unfriendly looks which had hitherto fallen on Melchior are now directed onto him.
+As he passes them, Trumpelsteg, the art critic, and
+Mrs. Cux the dancer, who had made signs to each other, move out of the group and, holding something in their hands, move cautiously after him. Mr. von
+Spät meanwhile reaches the window, places his bottle beside him, and turns around, his white face looking like a sleepwalker’s.
+Suddenly in Trumpelsteg’s hand appears a revolver, and hoarse with anger, stutters, “Stop! Stop!
+You mean to kill us all! It’s not a joke any longer!”
+Quickly Mr. von Spät holds down his own first finger over the bottle and lets a drop of blood fall in.
+In the same moment Trumpelsteg, small as a thumb,
+sits in the glass prison.
+Mrs. Cux, horrified, springs von Spät to knife him.
+But that latter again quickly holds his first finger over the bottle, makes a cut with his knife, and lets a further drop of blood. Immediately Mrs. Cux is transformed and in the bottle.
+At first everybody is dumb with astonishment, but
+
+then comes shouts of laughter from all except professor Cux who, bellowing like a wounded animal, yells, “Give me back my wife or I’ll fetch the police!” But he doesn’t dare go near Mr. von Splät.
+“Police! Police!” cry the others. “Where’s the telephone?”
+But professor Schulze, the schoolmaster, runs from one group to another whispering, “For God’s sake,
+don’t irritate him! He could put us all in the bottle,
+even the police, and what would we do then? Then we would be lost! Keep quiet!”
+Petrified with horror, nobody knows what to do,
+but Sophie creeps around to her husband and, taking his hand, begs him to ask von Spät to free the prisoners. She tries to keep back her tears and says,
+“Why must I bear all this? What do you want of me,
+Melchior?”
+Melchior doesn’t even look at her and only answers, “What do I want of you? Nothing! You made your decision long ago. We have nothing more to do with each other.” Sophie drops to the floor,
+wringing her hands.
+Then the parson, Mr. Silverharness, starts, “Dear
+Brethren in Christ, this is the judgement of God. We in our pride doubted His almighty power, and now we are punished. Let us fall on our knees, and perhaps in His impenetrable goodness He will free us from the coils of Satan. Lets us pray!”
+They all kneel down, but Mr. von Spät picks up the little bottle from the table and holds it up. Coming to look, they can all see how Trumpelsteg, completely naked, is beginning to get very fresh with Mrs. Cux in the bottle and how the two dance round and round,
+ever closer, until they last sink together in a passionate embrace.
+When the parson sees this, the prayer sticks in his throat and his eyes nearly fall out of his head.
+Everybody presses around Mr. von Spät to see what is happening in the bottle. Then some begin to laugh gently, and in a few minutes uncontrollable laughter
+
+breaks out and they fall into each other’s arms, kiss,
+dance, exhausted with laughter, look once more at the unconcerned loving couple in the bottle and burst out afresh.
+Only Professor Cux is in a white-hot rage and wants to attack Mr. Von Spät, but the others hold him back, and then tie him to an armchair with a rope so that he can’t move. Mr. von Spät places the little bottle on the table and claps his hands. A white mist forms in the room, and seven white-clad maidens appear and bow before him. Out of the ground comes the sound of dance music. Mr. von Spät seizes the hand of one of the girls and now for the first time opens his eyes, from which there comes a silver glow.
+When his eyes are wide open, he stands there,
+sevenfold, dancing with each of the maidens. When the dance is over, he shuts his eyes and is once more one person.
+Afterward, a great door in the wall of the room opens silently, and in the next room there stands a table covered with food and drink, and everybody is invited by a voice, which seems familiar to Melchior,
+telling them to come and eat.
+In the doorway stands the old apple-woman of the station, throwing apples to the guests.
+Laughing and talking, the naked women pair with the men. Sophie has slipped over bedside Melchior,
+and Mr. von Spät is with one of the white maidens,
+and Professor Cux is forgotten. Wonderful dainties and wine cover the table, and the old apple woman goes from one to the other serving the guests. As she pours wine into Melchior’s glass, she whispers, “You were a clever boy to know me at once, but you are not clever enough. Be careful! I wish you well, but you must be obedient!”
+“Of whom should I be aware?” asks Melchior softly.
+“You must know that yourself,” whispers the old woman. “I cant say a thing!”
+Melchior takes her wrist and says he won’t let her
+
+go, she must tell him more—she must tell him everything. But the old woman pulls away with unexpected strength and says,
+
+Ring on the finger,
+Faces at the window,
+Ways cross,
+Winds blow southwards.
+Soon it will be time,
+They’re waiting! They’re waiting!
+Melchior silently repeats it all to himself, and then a great longing and restlessness surges through him.
+His throat feels tight through the tears he is holding back. He manages to control himself and looks round at the other guests, but nobody has noticed except
+Sophie, who overheard and looks at him sadly,
+thinking he will leave her.
+The seven girls sit there with their eyes shut as though they have fallen into a sweet sleep. Mr. von
+Spät also has his eyes shut; his head seems lifeless and made of stone. Melchior looks around excitedly and thinks, “Why do I hate him and love him? Why do the boys run away from him? What is his power?
+What made him make such a demonstration of his power to these people? Did he want to tell me what I already know? Long ago I overcame these people.
+Another company calls me. Why do I hesitate? The stranger keeps me bound. What does he want of me?” His glance falls on the window and he sees Fo’s face. For a minute it is there, and then disappears again.
+The other guests are still eating. Mr. von Spät opens his eyes and immediately he is sevenfold,
+sitting beside all the seven girls at the same time.
+Suddenly Professor Schulze, the schoolmaster, pushes back his chair, and tapping on his glass begins to speak: “Ladies and gentlemen, even the most
+
+amazing miracles seem quite natural when one has grown used to them. Today, for a minute, we were shaken by such unusual things which seemed like miracles to us, but now, think of it, there is imaginary food, people, wine, and so on, and we feel quite at home with it all! There are no miracles. There are only facts, and facts in themselves are always reasonable,
+so we don’t need to get excited any more. Ladies and gentlemen, we can just remain ourselves, what we always were. Let us raise our glasses and…”
+A terrible shriek interrupts him. The seven forms of Mr. von Spät moan and shut their eyes. The seven girls dissolve into mist. Mr. von Spät lies in his usual form unconscious on the ground.
+Fo appears standing in the window corner and laughs. Mr. von Spät lies twisting in pain. His blue eyes stare blindly up. His whole body seems wracked with unbearable agony.
+“D’you feel it now! D’you feel it now?” yells Fo.
+“You overdid it. You wanted to rest for a minute and play, eh? For a minute your power slept. D’you see now that you can never sleep? Now we are the masters!”
+He dances around von Spät with great bounds. His body is lit up. His hair is a dark flame. Quicker and quicker he encircles von Spät with ringing cries.
+Melchior looks at the face of the man lying on the floor. Horror and love battle within him. Almost unconsciously he wants to throw himself at Fo and tell him to stop, but Fo whirls, glowing, to the window.
+“Take him away, Melchior!” he cries. “We are in your debt. We give him to you! He is yours!” He laughs once more, uncontrollably. Then looking at
+Melchior, he says softly and urgently, “Melchior,
+we’re waiting for you!” And he disappears.
+Gradually Mr. von Spät’s pain lessens. He begins to breathe more quietly and seems to be asleep. The blue mist has gone, and he lies naked on the floor.
+Melchior looks at his beautiful body for a minute, and
+
+before the others can approach, he snatches a cloth from the table and throws it over the sleeping man.
+Then he carries him to the couch in his study. He pushes his chair to the head of the couch and sits down, watching the still body. Sleep has removed the tension from the face and now Melchior sees the real features which had hitherto been hidden from him by the ever-changing expression. It is the face of a beautiful god, just slightly distorted. After a few minutes the features begin to tense again and a movement goes through the body. The sleeper making an immense effort, opens his eyes, which are almost colorless and seem not to see anything. After a bit he sits up and noticing Melchior, lets himself fall back onto the cushions, and says hoarsely, “I came too late. I warned you too late. Fo is free again. You believe me to be your worst enemy. I came to your house to take the ring away, but sleep overcame me.
+Why did you protect me?”
+“The sleeper was not my enemy,” answers
+Melchior. “I realized that you were my brother.”
+Mr. von Spät shoots up and cries, “I shall never sleep again!”
+“Never sleep again?” askes Melchior, concerned.
+“What am I to understand by that? You cannot mean that literally!”
+“I shall never sleep again,” answers Mr. von Spät and his eyes open wide and become darker. “When I sleep, my enemies tear me to pieces. Everywhere sleep lies in wait for me. I played for a minute, and for the last time he overpowered me. But I am his master. Our body is not of earth. Our body is music, a mirroring of the stars.”
+Melchior lets his head sink and says gently, “I love the earth. I don’t want to be a master. I want to give myself.”
+Mr. von Spät moves impatiently. “You speak like the boys,” he says angrily.
+“Who are the boys?” asks Melchior quickly. “Who is Fo?”
+
+Mr. von Spät hesitates and at last, almost unwillingly, says, “Nobody knows, nobody knows their true form. They approach you as wandering boys, as fleeting girls, as animals. They lure you away into chaos and darkness. Somewhere they have a kingdom, the entrance to which I cannot find (the title of the book—The Kingdom Without Space), but they are never there. They are always here. Perhaps they are here and there at the same time. They seduce everybody into an ecstatic dance. I must discover the way. I must destroy their kingdom. The free unbridled people must be brought into my service.
+They must all be mine. Fo has escaped me, the freest,
+the strongest, the boldest of them all. No darkness must surround them, no night, no refuge. They must no more change, must not be transformed from one form into another. All around there must be light.
+Their wild love must die. They must be driven from the source of sleep. Nobody may sleep anymore!”
+He has got up. His body seems transparent. One can only see the gleaming outline. As he raises his face, the ceiling of the room disappears, and out of the darkness comes a face resembling his, looking down and dimly lit. “Who are you? Who are you?”
+cries Melchior, trembling. Mr. von Spät’s form rises to an immeasurable height, becoming more and more misty. Melchior’s blood feels turned to ice, but he cannot turn away.
+“Choose, Melchior!” cries Mr. von Spät, and his voice is like the distant ringing of glass bells. “If you want to join the boys, you only need to call and they will forget everything—what you were and what you are. If you want to come to us, just knock on the wall of this room and a door will open to you; a way will open to you to mastery in light. Think it over. The way to us is full of danger. You must have to go through the horrors of the world. You are still free.
+When you have chosen, you will have made the decision for yourself. A return will mean destruction.
+We shall not protect you.”
+
+As he speaks, Mr. von Spät’s form dissolves completely. The ceiling closes, the lamps burn again,
+the couch is empty. Melchior finds himself alone in his room.
+The discussion between Melchior and Sophie shows that their marriage is past repair: there is a complete split between the two; they do not understand and do not love each other any more. Obviously a terrific bitterness of disappointed love has piled up in Sophie, who feels that Melchior never takes part in her world and had never loved her. Like so many women who feel unloved, in their bitterness she has sold herself completely to the animus. Instead of relating to Melchior,
+she tries to play tricks on him. For instance, in order to force him to join her parties she does not have his room heated. She tries to catch and overcome him with tricks, and therefore love has turned into a fight for power. Eros has disappeared from their relationship. She also hates her husband because of his spirital searching and the fact that he is not at one with the bourgeois world but suffers restlessly from conflict and yearning, which upsets her need for peace and security.
+She wants to be the Professor’s wife, to have a nice circle around her and to play a certain role in it. He, as she complains, destroys the security of the world she wants to build. Therefore, they argue about security or insecurity. She accuses him of making everything insecure,
+of dissolving everything. And he, on the contrary, tries to show that the security of this bourgeois world is not real security, that the only people who can give themselves to the irrational adventures of life have genuine security. But the talk gets them nowhere, and so they break off their discussion and join the party.
+It also turns out that Mr. von Spät has appeared and that he was a friend of Sophie’s in her youth, and had then disappeared. Last time,
+you will remember, we tried to describe Mr. von Spät as the fatherspirit, the spirit of tradition, which always comes from the paternal world. For a man, the father-figure represents cultural tradition. Von
+Spät therefore personifies cultural tradition. It is that which is opposed to renewal; it is, as I tried to make clear to you, knowledge with its poisonous “We know it all.” Every cultural condition contains a secret poison which consists of the pretension of knowing all the answers. On a primitive level, you see this in the initiation of young men when the old men of the tribe tell them the history of the universe, how the world was made, the origin of evil, of life after death, the purpose of life, and so on. On this level, for instance, all such questions are
+
+answered by the mythological tribal or religious knowledge conveyed by the old to the young, and on that level, with the exception perhaps of a few creative personalities, this is just swallowed wholesale. From then on, the young men know everything too; everything is settled, all questions are answered, so that if a missionary comes and tries to talk to these people, he is just informed how things are: “Oh yes, we know,
+the world was made in such a way; evil comes from this and that; the purpose of life is so and so.” We do exactly the same thing, except that in our case it is a bit more complex; basically, however, it is the same.
+Mr. von Spät represents the archetypal principle of handed-down traditional knowledge, and this contends eternally with the principle of the puer aeternus—the spirit of creating everything anew, again and again. Sophie Lindenhuis is secretly linked up with von Spät, who turns out to be the boyfriend of her youth. Seen from the standpoint of her psychology, he would therefore represent the father-animus. The pretension of knowing all the answers is exactly what the fatheranimus produces in a woman: the assumption that everything is selfevident—the illusion of knowing it all. This attitude is what Jung is attacking when he speaks negatively about the animus: “Everyone does that, everybody knows this”—the absolute conviction with which women hand out “wisdom.” When one examines it closely, however,
+one sees that they have just picked up what the father (or someone else) said, without assimilating it themselves. The daughter tends just to reproduce the knowledge—knowledge not worked on by the woman’s individual consciousness and not assimilated—is dangerous and tends to be demonic.
+It is also clear that von Spät’s outstanding characteristic is a tremendous power-complex. Sophie says that even as a child he suffocated all creativity and that the children had to play the way he wanted. The basis of von Spät is power, and power, in a wider sense,
+corresponds to the instinct of the self-preservation of the individual.
+On the level of animals you can say that there are two basic, natural tendencies which, to a certain extent, contradict each other: the sexual drive with all its functions, including, for women, the bearing of children and rearing of the young, and the drive toward selfpreservation. These two drives are opposite in as much as procreation,
+birth and nurturing the young and all mean the death of the old generation. There are many animals among which the male dies after propagation has taken place. Or, for example, there are the spiders where after the male has impregnated the female he is eaten by her.
+
+Having fulfilled his function, he is no longer useful except in helping to feed the young by being eaten by the mother. That is an extreme case, but frequently older animals completely exhaust themselves for the sake of their young, even to the point of destruction. As hunters we well know, the sexual drive causes animals to forget self-protection entirely. They become blind to danger, and a roebuck pursuing a hind may run into a man. If a buck is in that state, the hunter must hide behind a tree, for the shyest animal will be oblivious of his own security when sex is the important thing. Sex means preservation of the species, and therefore the preservation of the individual is completely, or to a great extent, sacrificed to it. It is the species that is important—life must go on. In the unusual state, when sexuality is not constellated, then the drive to self-preservation (which takes the form of either fighting or running away) is uppermost. The animal is occupied by eating and by keeping away from death—that is, by keeping alive as an individual.
+These two drives, sex and self-preservation, are basic tendencies in animal life. In humans they appear as two divine and contradictory forces, namely, love and power—love including sexuality, and power including self-preservation. Eros and power, therefore, as Jung always points out, are opposed to each other. You cannot have them together;
+they exclude each other. The marriage of Melchior to Sophie, for instance, was switched into a power game in which each tries to save his or her own world against the dangerous world of the other. The possibility of giving oneself, the generosity of letting the other’s world penetrate one’s own, is lost. Both partners fight for their lives against each other and do not love each other anymore. It is therefore natural that since the wife has lost the capacity for love, she falls into the power-drive and for von Spät. That is the back door for which he gets into the house, but von Spät is just as much the power-drive of
+Melchior himself. How does the power-drive react toward eros?
+Answer: By ridiculing and exposing it.
+Yes, in the bottle! And what is the bottle? He puts it in a bottle and then ridicules and exposes it, a classic way in which the power-drive deals with love: he imprisons it! People imprison love and sex by behaving as though they were the owners. That would be the woman who uses her beauty and charm to catch a rich husband. That means she does not love him; she uses love, or what is supposed to be love, to make a career, to catch a rich husband, or whatever she may want. She behaves as if she were the owner, and she directs it. A woman who had
+
+fallen for Mr. von Spät would repress any spontaneous feeling of love.
+If she noticed that she was falling in love with a chimney-sweep, she would repress her feeling in statu nascendi (nip it in the bud) because it would not suit her to love a social nobody. On the other hand, she would deceive herself into believing that she loved the great Mr. X who had a lot of money. She would try to convince herself that she loved a man who would fit in with her ego and power plans, and any kind of spontaneous eruption of eros would be repressed. So love degenerates into its most basic fact, namely sexuality. It is reduced to its prima materia, so to speak, to physical sexuality, which is imprisoned in intellectual planning. Sexuality is used as a hook to catch a suitable partner for suitable reasons, and all real love, which gradually dissolves the fetters and boundary lines and creates new life situations,
+is anxiously repressed.
+Question: Isn’t it important that it is a bottle rather than a box, or some other prison?
+Yes, what is a glass bottle?
+Answer: It could be used as a retort or something like that.
+Yes, naturally. The whole thing reminds one of the alchemical retort in which, actually, the naked couple is together, but with a quite different meaning. Here, obviously, it is misused: it is a kind of cynical abuse of the alchemical mystery.
+Remark: It is the “nothing but” attitude.
+Yes, it is using an idea, or an intellectual system, with a “nothing but” nuance: it is “nothing but sexual liberty,” or “nothing but the body,” or “nothing but me with Mr. So-and-so,” thereby excluding any of the mystery of emotion. It can be said that in general, glass is a substance which can be seen through but is a very bad conductor of warmth. One could say that it has to do with the intellect, that it represents a system which makes one able to see through something but which cuts off the feeling relationship. For instance, if Snow White is imprisoned in a glass coffin, she is not totally shut off from life as if in a wood or stone coffin. She is shut off from life as far as feeling, but not awareness, is concerned. If you are in a glass house, you can see and be aware of everything that goes on outside, but you are cut off from the smells, the temperature, the wind and so on. All such perceptions are excluded, and therefore the feeling relationship to the outer world or to the inner world. It is interesting that we put some animals in the zoo in glass cages, thus avoiding all of the reality-impact with danger; then from an intellectual distance we can study their
+
+behavior.
+In alchemy, as you know, the glass retort is even regarded as being identical with the Philosophers’ Stone. The vessel is the feminine aspect of the Philosophers’ Stone, which is the masculine aspect of the
+Self, but both are the same thing. In the present story, the glass is a mystical factor, which is now in the hands of Mr. von Spät. What would that mean practically? What is the difference, psychologically,
+between the glass as a positive alchemical symbol and this mock alchemical vessel? The subtle difference can be discovered by first considering what the alchemical retort is in its positive form. What would that mean, putting everything into a retort?
+Answer: Accepting the suffering of it.
+That is a part of it, but what does the retort represent psychologically? Most of you have read Jung’s Psychology and Alchemy.
+What does it mean if I have everything in the retort?
+Answer: A transformation takes place.
+Yes, the retort is a place of transformation, and what is the precondition for any kind of psychological transformation? Looking at oneself, looking completely within. It means that instead of looking at the outer facts, at other people, I only look at my own psyche. That would be putting it into glass. Suppose I am angry with somebody; if I turn away from that person and say, “Now let me look at my anger and what that means, and what is behind it,” that would be putting my anger into the retort. So the retort represents an attitude that aims at self-knowledge—an attempt to become conscious of oneself instead of looking at other people. As far as the will is concerned, it requires determination, and as far as intellectual activities are concerned, it means introversion, the search for inner self-knowledge at all costs,
+and objectively, not subjectively, musing about one’s problems, making the effort to really see oneself. Nobody can find this attitude except by what one could call an act of grace.
+For instance, if somebody is either madly in love, or madly angry over some problem, perhaps a money problem, one always tries to get the person for once to look away from that particular question,
+whatever it may be, and just for a minute try to be objective, to look at the dream—see how it looks from within, from the objective psyche—
+using the dream life as a mirror for the objective psychological situation. Again and again, unless something like a miraculous turn takes place, people cannot do that even if they want to. They begin again, “Yes, but you see tomorrow I have to decide to work with my
+
+banker; I have either to sell the stock or not.” Yes, but let’s turn away,
+let’s look for a minute at the objective side, at what the objective psyche has to say about it! “No, you see I have to decide!” And then it is like a miracle if that person suddenly becomes quiet and objective and makes that turn and looks inside and says, “I will just abstain from looking at the whole situation and abstain from the emotions which flow toward it and try to be objective.”
+That is a miracle, and it needs the intervention of the Self; something must happen in the person for him to be able to do it. One knows it oneself, for sometimes one wants to find that attitude again and cannot; one is pushed away from from self-knowledge and can’t do it,
+and then suddenly this strange peace comes up within, generally when one has suffered enough. Then one becomes quiet and silent, and the ego turns to look at the facts within, objectively, and stops the monkeydance of thinking about the situation. The monkey-dance of ego selfassurance stops, and a kind of objectivity comes over the person. Then it is possible to look at oneself and be open to the experience of the unconscious.
+It can therefore be said that in a way the alchemical vessel is a mysterious event in the psyche. It is an occurrence—something which takes place suddenly and which enables people to look at themselves objectively, using dreams and other products of the unconscious as mirrors in which one can see oneself. Otherwise one has no
+Archimedean point outside the ego by which to do it. That is why an awareness of the Self is necessary before one can look at oneself, and that is why very often people are touched in the beginning of the analysis by experience of the Self. Only that enables them afterwards to strive toward looking at themselves in this objective way. That is what the alchemists meant by the vessel. It could also be said that the vessel symbolizes an attitude which is, for example, the prerequisite for doing active imagination, for that you cannot do except with the vessel. You can call active imagination itself a sort of vessel, for if I sit down and try to objectify my psychological situation in active imagination, that would be having it in a vessel, which presupposes again this attitude of ethical detachment, honesty and objectivity, which is necessary in order to be able to look at oneself. That would be the vessel in a positive form. If with my ego I judge the unconscious, I put it in a vessel too, but then it is the glass prison, the “nothing but" attitude,
+which gives that prison a negative aspect. Then it is an intellectual system, and the living phenomenon of the psyche is always
+
+imprisoned in any kind of intellectual system. The owner of its power.
+This is very subtle. There are people willing to look at themselves,
+but only in order to be stronger than the other person or to master a situation. They still retain an ego-power purpose, and they even use the techniques of Jungian psychology––Active imagination, for instance––but with their eyes fixed on power, on overcoming the difficulty, on being the big stag who did it. That gives it the wrong twist; nothing comes out of it. Or there are others who work for a certain time honestly analyzing themselves–– but in order to become analysts and have power over others. That is another snare of the same kind: looking at oneself only in order to exercise power over others;
+looking within not for its own sake––not just because one has the need to become more conscious. Thus Powers sneaks into everything again and again, and turns that which has been a living spiritual manifestation into a trick, a technical trick in the possession of the ego.
+Mr. von Spät is the demon of misusing everything, of making everything––even the highest spiritual powers––degenerate into such a technical trick.
+I have been asked several questions. One of them is this: assuming that von Spät represents the misuse of intellect with the shade of
+“nothing but” domination, then what about the miracles he performed? How would you interpret that? How can such an attitude produce such miracles?
+Question: wouldn't the word “trick“ be better than miracle?
+Yes, one could also collect a collective hallucination trick. Someone goes into a trance, and then a collective hallucination takes place,
+which vanishes when suddenly they all wake up in the dinner and everything else has disappeared. It was a trick of illusion, but how does that connect with the meaning we have so far established? If we look at Mr. von Spät as being Sophie's animus, then he would be a father–animus image. And how does a father-animus in a woman produce not only opinions but also magic tricks?
+I am reminded of the case of a woman who had a schizoid father, a rather cold sadistic man who perpetually criticized his children,
+constantly telling them that they were nobodies and would never get anywhere. If they tried in school he said that they would never succeed, or if they wanted to take up art, he told them that they had no talent and would not make a success of it. There was always a negative attitude. He also had the habit, which drove the daughters mad, of cutting off the heads of flowers with a stick when they walked along in
+
+the fields. It was a tic nerveaux (nervous habit) and was done in revenge, or out of bitterness over his own disappointed and destroyed feeling life. There is an inherited schizophrenia of many generations in this family, and here the father cut off his children's heads by discouraging remarks, or he tried to do so, so that they should not grow up. Now this daughter had a series of lovers––old men, young men, artists, businessmen––apparently all kinds of different people,
+but always, when she had known them for more than a fortnight, they would start to torture her in a sadistic way by telling her that she was nobody and was disgusting, would never get anywhere, that all she said was stupid, that her art would never lead her anywhere. It was exactly her fathers gramophone–record kind of talk. I have never found out whether she made them do it, or if by some divination of instinct she always picked such men. Most of them I never got to know except through what she said about them, but you can say that it was like black magic.
+In primitive language I would say that there was a curse on that girl,
+that she was compelled to choose critical, unloving sadistic men who trampled on her feelings, which were already nearly destroyed anyway. In the dreams it appeared that it was really the father. For instance, the night after one such quarrel with a lover who told her that she was no good and everything was wrong with her, and so on, she dreamt that her father always waited for her and beat her on the shinbone with a stick so that she should fall down. It is a well-known fact that the father-animus, or the mother-demon in a man, does not only act as an inner wrong fate, a distortion of the instincts in the choice of the partner and all these other things, but also is really like an outer fate, and can appear in synchronistic miracles outside the personal life, in events for which we cannot make individuals responsible. I think it would be the wrong feeling-nuance to tell such a girl that she always fell for sadistic lovers because she had not overcome the sadistic father-animus within her. There is quite a bit of truth in that, but it is not the whole truth. Later, when she is further along, one may encourage her to see that she has such a father-demon and sadist within her and that it attracts sadistic men. Sometimes,
+however, when one tries to deal with such a dark fate, one feels that one is up against a divine destructive power, so much that one cannot make the individual responsible.
+Question: Couldn’t you say that she always had that thought in her head,
+and then it became part of herself? To get those people into the bottle von Spät
+
+always had to give a drop of blood, and it seems to me that the animus in a woman—that is the thought in her head—gets right into her blood and actually becomes a part of her. Von Spät gave his blood; he gave the whole of himself in making those tricks.
+Yes, von Spät is naturally the secret thought-demon in a woman.
+Remark: But he also gave his blood.
+This is quite right, but there we have to go another factor, namely,
+that when von Spät performs this magic he becomes untrue to himself,
+which is why Fo catches him. It is very important to remember that if von Spät hadn’t performed this trick, if he hadn't started to display magic, Fo would have not overcome him.”I’ll never sleep again,” Mr.
+von Spät said after having been overcome by Fo. “When I sleep, my enemies get me; always sleep lies in wait for me. I played.” So you see you became untrue to himself because for the minute he played: he forgot his power–drive; he became amused in the magical performance. For a moment he behaved like the Fo-band, like the boys.
+He played––“and there he got me for the last time, but I am his master.
+Our body is not earth, our body is music, mirroring the stars.” It is a true enantiodromia, and we must take Mr. von Spät as the spirit of intellectualism—thought-power—powerful only as long as he does not play. When he begins to produce magic, he begins to turn toward the
+Fo-principle. If you look at it as though there were two poles, one pole would be Fo and the other von Spät. When von Spät is at his best and is himself, then he is awake; he does not sleep, he does not play, and he does not perform magic tricks. Be he got drunk off his power, and displayed it more and more; he produced magic stuff to show off, and slowly, as he says, forgot himself. He went to sleep—played. And then
+Fo got him! You could just as well say that he fell into Fo, for these two powers always fall into each other through an enantiodromia, as do all unconscious opposites. Both are unconscious opposites because they are gods, which means basic archetypal drives in the psyche.
+It is a play of opposites in which Melchior is the suffering human, in the middle of the two, for von Spät and Fo both want his soul. When von Spät goes too far in his power-play, he snaps into Fo, and you will see that when Fo goes too far into his other play; he snaps round into von Spät. So when von Spät begins to perform magic by cutting himself and using his blood, he is really leaning toward the Fo side; he is switching over into the other. Secretly they are linked. You could say that they were two aspects of life, for both belong to life and you cannot live without the other. But each claims to be the only one,
+
+making a total claim on the human being. Fo asks Melchior to give himself totally to him, and von Spät asks the same thing. As we shall see at the end of the book, is that Melchior cannot hold his own standpoint. Seen from the personal angle, this is the weakness of ego,
+which is switched around between the opposites and is their plaything. He is between two gods or demons who both claim to be his unique owner, and what he cannot do is to keep his feet on the ground and say, “I will not obey either of you, but will live my human life.”
+And that is why he is caught up in this constant demonic play.
+Miss Rump has discovered something very interesting about the word “Fo,” namely, that its dominant meaning is Buddha; it is one of his designations. This makes sense because it is said that Melchior had traveled in China and India, and Fo is the ruler of an invisible kingdom, which would be Nirvana, as we shall see later. The decoration of the book cover is on one side something like a Japanese torii, which has a mystical meaning in the East—the door through which you go into the Beyond—and at the back of the book there is an eightfold star. These two designs are probably chosen consciously.
+Obviously the author had read and was fascinated by Eastern Material,
+as will become much more evident later, and he projects the puer aeternus—the creative-demon and eros demon—into the East. So von
+Spät, on the other hand, represents late Christianity. Christian civilization is now old and worn out for us. It has lost the powerful
+élan vital that it had in the first centuries of its rising. We, the tired
+Western civilization, pretend that we know all the answers, but we are longing for a new genuine inner experience and are, to a great extent,
+turning to the East, expecting a renewal from there. (But this is obviously a projection.) That would be another aspect of von Spät,
+whose slightly morbid face suggests a beautiful divine image, slightly oblong and sickly. Which god looks like that in our civilization? Christ.
+So here is a hint that von Spät is not Christ but the image we have of him—a suffering, dying god—something divine, but no longer capable of living.
+Much of the book at this point does not need any comment. There is the journalist who just talks any kind of rot he thinks fitting at the moment and the parson who pretends that he is studying the disorientation of modern life and then in the midst of his prayer just stops to stare at the sexual intercourse. The irony in all these things is transparent and comes out of the conscious layers of the author.
+Therefore no further psychological interpretation is needed.
+
+But the still unsolved problem is the role of the feminine. Women are described with the utmost scorn. There is not a single positive feminine figure in the book. The author ridicules them completely. Whether he is a homosexual or not I do not know, but he certainly displays the psychology of homosexuality. This may be due, however, to the genreal German attitude which, even in heterosexual men, is colored by a strong homosexual bias. There is no eros in the book, and the only positive woman in the chapters we have read is the apple-woman, who is a positive mother-figure. She brings a message to Melchior when von Spät’s power is at its height. When everybody is fascinated by his magic, the apple-woman comes to the dinner party and whispers to
+Melchior, “Ring on the finger (the ring signified betrothal, so to speak,
+with the boy), faces at the window, ways which cross each, winds blowing southwards, soon the time will come, they’re waiting, they’re waiting”—meaning that they are waiting for him. The message she transmits to Melchior is that he should not become untrue and disloyal to them. She is only the feminine figure on the side of the boys, and this makes a cluster which consists of a group of mother-bound boys whose feminine ruler is archetypal mother nature and, at the same time, is the fat old woman who sells apples at the station.
+That there is no young anima figure is typical of the German mentality. As Jung points out, on the other side of the Rhine the anima has not been differentiated but has remained completely within the mother complex. A man belonging to the Secret Service told me that when he wanted to loosen up young Nazi prisoners so as to get military information out of them, the leading—and practically always successful—question to put when they were determined not to tell the enemy was (with a slightly sentimental quiver in the voice), “Is your mother still alive?” Usually they then started to cry, and their tongues loosened. He discovered that this was the key question with which to penetrate the armor of the hostile attitude in German youths. Naturally generalizations must be taken as such; they are only half-truths in individual cases, but if we may characterize national differences, there is still a lack of differentiation of the anima in Germans compared with the more Latin-influenced peoples. Germany itself also differs in the south, where there was Roman occupation. In the center of Germany the attitude is slightly different from that of the northern part, so the statement has to be taken with a grain of salt. This novel, however,
+shows clearly the state of complete undifferentiation of the anima, the only positive woman being this apple-mother.
+
+Sophia means wisdom, and it is meaningful that Melchior’s wife’s name is Sophie. But she appears as a bitter, animus-possessed, socially ambitious, petty, unloving woman, the typical disappointed wife.
+Nevertheless, her name means wisdom, which shows how greatly the unloving attitude of the man has altered the feminine principle. Sophie could be Wisdom; she could incarnate the love of humanity—she could be all that the name Sophia implies—but instead she is changed into this destructive small figure because Melchior has not known how to turn toward her and make her blossom with this love. She is negative wisdom, and she is bitter because he does not love human beings. She likes human contacts and he hates them; she wants to force him to make human contacts, but he remains in inhuman isolation.
+This is what they fight about.
+As you know, the Sophia is called philanthropos, “the one who loves man.”18 She is an attitude of love toward mankind, which naturally means being human among other human beings and loving them. That is the highest form of eros. As Jung sketches it in his paper on the transference, it is even higher than the highest love symbolized by the
+Virgin Mary because, as he says, very meaningfully, “the less sometimes means more.”19 This means that if I have an idealistic love for mankind, wanting to do only good, that is less than just being human among human beings.
+But that kind of love is lacking at this party is which a completely barbaric animality breaks through with its egoism, vulgarity and untruthfulness. This shows what happens if love for the human being is not present, and also shows what neglecting the eros side produces,
+namely, a conventional surface layer of so-called spiritual civilization and, underneath, the old animal ape-circus which may break loose at any minute. As soon as the conventions are gone and the women have undressed, there is just the ape-circus left, with a complete undifferentiation of anything human. One could say that this is the typical psychology of those schizoid intellectuals, so numerous in our civilization, in whom the feeling function has been completely repressed. This is what people look like when they haven’t developed the feeling function, except that as a rule they don’t have the courage
+
+See references to Sophia in Jung’s Psychology and Religion, CW 11, and in The
+Practice of Psychotherapy, CW 16; also Proverbs 8:31, and Ecclesiasticus 24:19-22.
+The Practice of Psychotherapy, CW 16, par. 361.
+
+to reveal the animality lurking underneath. It takes a revolution, a
+Nazi movement, or something of that sort, to bring it out into the open,
+and then one is amazed at what comes out. When the conventions are swept away, then this ape-circus appears.
+Herr von Spät hates sleep. How would you interpret that? He says that when he has completely overcome his enemies there will be no sleep, and his way to overcome the boys will be to cut them off from the source of sleep.
+Answer: In sleep there is no power-drive.
+Yes, in sleep the power-drive is knocked out. We are completely helpless and passive, open to the whole world, naked in our surroundings. It is a state in which power is knocked out and the unconscious comes up, so you think that at first that he must represent consciousness and Fo the principle of unconsciousness. But if we look more closely, it is a bit different. Mr. von Spät is something unconscious too, namely, the unconscious demonic aspect of consciousness. Consciousness consists of something we think we know; it is an immediate awareness. Even though we do not know quite what it is, we have a subjective feeling that what consciousness is is intimately known to us. But behind this conscious awareness lies an unconsciousness; in other words, behind that I and the whole phenomenon of consciousness lies the shadow, the power-drive, and something demonic.
+We must never forget that consciousness has a demonic aspect. We begin now to be aware that the achievements of our consciousness—
+our technical achievements, for example—have destructive aspects. We are waking up to the fact that consciousness can be a disadvantage and that it is based on an unconsciousness. That which makes me so passionately want consciousness to dominate life is something unconscious. And we don’t know what that is. The need, the urge and passion for consciousness is something unconscious, as is what we know as conscious tradition.
+For example, to a primitive tribe its own tradition appears to it as consciousness. In an African tribe, if a novice—having been tortured and having his teeth knocked out, or whatever—is taught how the world was created, how evil comes about, that illness means a certain thing, that men must carry women of a certain clan for certain reasons,
+that to him is consciousness. The Africans say that a man is an animal until he has gone through an initiation whereby he assimilates the tribal tradition. The uninitiated they call animals, which shows that
+
+they would maintain that the acquisition of such knowledge is the step from animal unconsciousness to human consciousness. To us, however,
+who have a different tradition, the mythological teaching that the young primitive absorbs seem purely unconscious. We even interpret such teachings as we do dreams; that this is possible shows that what signifies collective consciousness to a primitive tribe is in reality full of unconscious symbolism.
+I refer to other civilizations to illustrate my point because one can observe another society sine ira et studio, that is, dispassionately. But with our own religious tradition it is the same. We could say that
+Christian teaching is a content of our collective consciousness. If we look more closely, however, we see that it is based on symbols such as the crucified god, the Virgin Mary and so on. If we think about these,
+about what they mean and how to link them up with our actual life,
+we discover that we do not know because they are full of unconsciousness. We find that precisely those known aspects of our spiritual tradition are completely mysterious to us in many ways and that we can say nothing about them. So consciousness contains a secret reverse side which is unconsciousness. Just that is the demonic thing about von Spät, namely, that conscious views always behave as if they were the whole answer. One might say that perhaps it is now the task of psychology to uncover this secret, destructive aspect of consciousness and to fight it.
+I hope that we may sometime get to the point where consciousness can function without the pretension of knowing everything and of having said the last word. If consciousness could be reduced to a function, a descriptive function, then people would cease to make final statements. Instead, one would say that from the known facts it appears at the present time as if one could explain it in such a way.
+That would mean giving up the secret power premise that claims to have said all there is to be said, so that now we know all about it and it is so. If the false pretension could be eliminated, that would be a big step. But that presupposes the integration of consciousness by our becoming aware of its relativity and its specific relation to the individual. (I must know that I know and that I have especially that view.) It is not enough to have a conscious viewpoint; one must know why one has it and what one’s individual reasons for having it are. The average person is still possessed by collective consciousness and,
+under its influence, talks as if he knew all the answers. For example,
+people tend to regard a humanitarian attitude as being their own,
+
+forgetting that it is derived from the Christian Weltanschauung. They fail to realize that it is collective and that it is part of a Weltanschauung they no longer share. Power is the hidden motivation behind such a behavior.
+Knowledge is one of the greatest means of asserting power. Man has obtained power over nature and other human beings by brute force and also by knowledge and intelligence. It is uncertain which is the stronger, for strength and intelligence are the two aspects of the powerdrive. They account for the many primitive animal stories in which the witty, clever one outwits the strong one: the hyena outwits the lion,
+and in South America the little dwarf stag outwits even the tiger. This shows up in the power-drive of the single individual; for instance, in the animus of women—either they trick their husbands or they make brutal scenes. Emotional brutality and cunning are the two manifestations of power. When my power-drive is irritated, I either hit the other person directly, or, if I am too cowardly or not strong enough,
+then I find a way of tricking him.
+Our consciousness is still secretly coupled with these two tendencies for domination, and knowledge is generally combined with them. You see this most irritatingly in the prestige drive of the academic world. It is a rare event in university life that a professor is interested in truth for his own sake; usually he is more interested in his position and in being the first to have said something. Twenty-five years ago an anthropologist dug up an amazing skull in Tanganyika—what anthropologists had been searching for for years—the “missing link.”
+It lies between the anthropoid ape and the human species and, as shown by the Geiger-counter, adds about ten million years to the age of the human race. It has thus thrown over all the former findings of anthropology. This man published the facts about his discovery, but for twenty-five years, with the exception of Professor Broom in America,
+there was dead silence in all the universities. The discovery was absolutely ignored. Not one professor of anthropology corresponded with the publisher or tried to check up on the age of the skull. A
+Geiger-counter could have been used and a check made, but nobody did so for that would have meant revising their theories. They would have to say that something said in a former lecture must now be corrected, and academic vanity, the power-drive of the intellect, would not permit such a thing. Now another skeleton has been dug up in
+Italy, and facts are accumulating, so now, hesitatingly, here and there an anthropologist makes tentative allusion to such a discovery, but for
+
+twenty-five years they all sat on their power-knowledge and were not interested in the truth.
+Remark: Les savants ne son pas curieux, as the French say.
+Yes, exactly! Which shows that the power which is contained in knowledge, the demonic drive to dominate through knowledge, is stronger than the objective interest in finding out any kind of truth.
+That is only one example. There are many others.
+
+
+---
+
+# Lecture 11
+
+
+Last time we had reached that part of the story where von Spät suddenly wakes up and his magic is over because, for a minute, he slept or played, was not quite alert enough, and so the demonic boys overcame him. You remember that, at the dinner party which he had conjured up, von Spät had appeared with seven girls and sometimes multiplied himself so as to be the lover of all seven. He is seven men with seven girls, and then he is again one figure. At the moment when he wakes up, he is shocked out of his trance by the appearance of the boy Fo. The seven girls and the magic dinner party disappear. How would you interpret the one magician and the seven girls.
+Remark: With himself it makes eight.
+Yes, but when is there one with the seven? You must remember that the author had been interested in alchemy and had produced this alchemical pseudo-miracle of putting Trumpelsteg and Mrs. Cux in the bottle, a kind of mock representation of the alchemical mysterium coniunctionis.
+In alchemy, especially in the later alchemical texts, which are probably the ones that our author knows, There are often representations of seven women sitting in an earth cave, and they are the seven planets or the seven metals, both representing the same thing. The idea was that every metal corresponded to a planet: gold—
+Sun, Silver––moon, copper––Venus, lead––Saturn, Iron––Mars, tin––
+Jupiter, quicksilver––Mercury. The eighth figure among the seven women would represent the ruler of them all and would be either the sun-god or Saturn because Saturn was also represented as the old sun,
+the old form of the sun. From his name (“Late”) one can also conclude that von Spät probably represents the old sun-god surrounded by the
+
+seven planets. We have interpreted von Spät as representing the principal of Christianity because he appears as an aristocratic but rather morbid–looking god, and now he appears as the old sun-god,
+which would mean that it is not Christianity in itself, whatever that is,
+for nobody knows, but the old tired Weltanschauung of Christianity,
+that which has been realized and is therefore a habit of thought and is no longer vital––a kind of principal at the base of our social and religious institutions. In fairy tales, this corresponds to the old king who has lost the water of life and who needs to be renewed or has to be dethroned to give up the throne to a follower. In other words, the
+Weltanschauung, having once again growing old, has become an aged ruler who is sterile and needs renewal.
+There is a little incident which goes further, for at the end of the chapter I read you, Melchior asks von Spät who the boys are. Von Spät says,
+Nobody knows their real essence. They approach you like wandering boys, like animals, like girls. They seduce you into chaos and darkness. Somewhere they have a kingdom but I cannot find the entrance. They are never there. They are always here. They are in several places at the same time. I must find the way. I must destroy the kingdom. Those free people must be subdued and strongest and boldest one, Fo, must also. Their wild love must die. I will cut them off from the well of sleep. Nobody shall sleep any more.
+At that moment von Spät gets up and looks as if he were transparent.
+He lifts his head, and the ceiling opens, and suddenly, from above, a mirror–image, his double, looks down, shining. Melchior is frightened when he sees somebody looking down who looks exactly like von Spät and he cries out, "Who are you? Who are you?" But von Spät disappears into a kind of cold mist, and then he calls down from far above:
+"You must choose, Melchior! If you want to go to the boys, you need only call them and they will seduce you into the sweet darkness, and if you choose their way you will forget who you were and who you are.
+But, if you want to come to us, you must only knock on the wall in this room, and a door will open and the way toward the ruling of the light will come. Now think it over. The way toward us is full of danger, but
+
+you are still free. When you have chosen you can't go back. If you want to go back we will not spare you."
+After this the figure of von Spät disappears, and
+Melchior sees the lamp burning and the empty couch,
+and he is alone in his room.
+How would you interpret this doubling of von Spät? The rest of what he says is more or less clear from what we said about him before, but how would you now interpret the fact that he becomes double and then disappears into heaven––into the sky, the firmament––like mist?
+Answer: Hasn't he been living as a human? He was living a human life,
+now goes off into the god.
+Yes, you could say that von Spät below would be an incarnation of a divine principle and now is again joining his eternal form. What would that mean also for Melchior, practically, If he could draw the conclusions from what he experiences? What does it mean if an unconscious figure doubles in a dream?
+Remark: that the dark side of God is constellated at the same time.
+Not necessarily. That is not in at this point; that will come later. Here the double is as light as von Spät. He is a kind of spirit magician.
+Question: Would he be a pagan god?
+Yes, that's closer! Do we, who belong to the Christian civilization,
+really know at bottom what it means? What archetype is behind the
+Christian civilization? Could we honestly claim that we know what we mean when we say we believe in a Trinitarian God and in Christ? Even the greatest theologian has never claimed to do so. Catholic theologians, for instance, speak of the mystery of each dogma. Some aspects could be put into words, but the nucleus is absolutely unknown to us. We would say that there is an archetypal content or an archetype behind it which, by definition, we do not know. One could therefore say that von Spät is that part which has entered human consciousness, which sounds familiar to us, and it gives us that strange feeling of knowing what it means, of being aware and conscious of it.
+And then there is a whole other half which is completely unknown to us, and that would be his other part. One might say that only after having realized the pagan opposite pole––which would be the world of Fo and the pagan mother–goddess––could we become aware of the double aspect of Christianity––its conscious and unconscious aspects.
+As long as we are in it, we cannot become aware of it, for we are, as it were, wrapped up in it; it needs an Archimedean point outside to realize the specific nature of our own civilization. The pagan pole is
+
+projected onto the East, for the boy Fo has a name which points to
+Buddha, which means that the capacity for looking at our own cultural and religious background is only possible for us when we get into closer touch with other civilizations and their religions. If, with a certain equanimity, you can accept the fact that the other person’s religion contain some truth too, then you are able to become aware,
+objectively, of the specific character of our culture.
+Detached awareness such as this is, of course, a modern development, and it has increased to such an extent that it is no longer possible for us to get stuck in the medieval prejudice that ours is the only true religion. Now that the world has shrunk and we are confronted with millions of people who have other attitudes and other beliefs, we have to ask ourselves what is specific and different in our attitudes and in our civilization. That question introduces a certain relativity which makes us realize how much von Spät, in some ways,
+represents something we consciously know in which we attempt to convey to others (for instance, in foreign missionary work) and how much there is an archetypal, unknown background; namely, the eternal aspect of von Spät, which is the image of something divine behind any specific form in which it may appear.
+In a way, you find this development very clearly in the writings of
+Toynbee, who tries, with a kind of extraverted approach, to say that it is quite clear, now that we have come into closer contact with the East and other civilizations, that we shall simply have to adopt a kind of mixed Religion. He proposes a new form of prayer which would begin:
+opening “Oh Thou, who art Buddha, Christ, Dionysus…" we should just pray to a savior figure to whom one would describe all those names, in making a nice cocktail of all the essentials of all the religions,
+slightly blurring the not too important differences, so as to have a kind of generalized world religion where Buddhists and South African
+Negroes, and everybody can join in and think what they like about these contents. This is the same reaction that we have already had on a smaller scale in the late Roman Empire. There, too, there were all those little nations with their local creeds and folklore and religious teaching––the Celts and the Syrians and the Israelites, and so on––and then, when all this was put together in the Roman Empire, the Romans tried the same thing. They said that you just had to pray to JupiterZeus-Amun, which was the highest god, and the underworld god would be Hades-Osiris (in Egypt, Sarapis), and there you have a new cocktail religion where even the attributes of Christ, in which he would
+
+be represented as sitting in the Buddha-position, with the mudra of pity, and somewhere the cross behind him in a decorative way. All that is possible—human naiveté is boundless!
+This attempt at relativity––the typical development of von Spät, the late development of a tired civilization, of a worn–out and decaying
+Weltanschauung––has no chance of success because the very essence of religious experience is that it has an absolute character. If I say that my experience could, but just as well could not, be, or that I believe such–
+and–such but can't quite understand another's believing something different, this indicates that my so–called religious experience is not genuine, because religious experience has a compelling and absolute character. One could say that this is the criterion of a religious experience. If someone asserts that his experience has changed his whole life and will now pervade everything and if it really does apply to everything, being a total experience, applicable to every field of activity, then you know that whatever it may seem, it is a truly religious experience. Otherwise it is merely an intellectual experience,
+or a mood, which passes away or which is kept in one drawer for
+Sundays––taken out and put away again.
+So we are in a terribly contradictory situation, because in order to have a religious experience one needs some kind of absolute obligation, yet this is irreconcilable with the reasonable fact that there are many religions and many religious experiences and that intolerance is really outdated and barbaric. The possible solution would be for each individual to keep to his own experience and take it as absolute, accepting the fact that others have different experiences,
+thus relating the necessary absoluteness only to oneself––to me this is absolute (there is no relativity and no other possibility) but I must not extend the borders into the other person’s field. And this is what we try to do. We try to let people keep a religious experience. And this is what we try to do. We try to let people keep a religious experience without collectivizing it and taking the wrong step of insisting that it must be valid for others too. It must be absolutely valid for me, but it is an error for me to think that the experience which is absolute for me has to be applied to others. We shall see that this shortly becomes a crucial point in our novel. Here, however, received that the breaking in of a new religious experience, which is represented by Fo, makes it possible to realize two layers of the late Weltanschauung of von Spät,
+who says, "if you want to follow us (namely, him) toward the kingdom of light, then just knock on this wall and a door will open."
+
+The next part of the book is “The Open Door,” so we must conclude
+(and we shall see soon that this is true) that at this moment of the novel
+Melchior, or the author, chooses the way of von Spät and makes up his mind to leave Fo.
+Melchior meditates on what has happened, and then he becomes very excited, just as though he heard a bell inside him ringing, and suddenly he says, “I must find certainty.” And he bangs with his fist on the wall. At that moment he hear beautiful music and sees columns appearing, and a big gate opens and he sees the sea and the quiet waves. A great white bird spreads its wings and approaches him, and he sees a sailing boat coming in. But then everything becomes disagreeably quiet and dead. He shudders and is unable to move, and then he begins to delight in the stiffening which has taken possession of him. After some time the clock in his room strikes, and his numbness disappears. Tears come from his eyes. With widespread arms he passes through the gateway and out into the night. After a few steps he hears voices which he thinks are those of his wife, of Trumpelsteg,
+and of Professor Cux. Dark figures appear from all sides. A muffled, bitter voice cries, “Seize him, seize him!” Somebody catches hold of him from behind,
+and a black cloth is put over his face and he faints.
+After some time he comes to and finds that he is lying bound on the deck of a little ship and that immoveable figures are sitting beside him. A storm comes up and they are tossed ceaselessly on the waves. Hours pass and no one speaks. Then a torch is lit, and in the forepart of the ship a giant of a man makes signals, swinging the torch above his head. In time, answering signals come from the opposite shore, and Melchior is relieved to be once more approaching land. Before landing, a black veil is again put over his face and his hands are again tied.
+he tries to cry out, but cannot, and faints again. On land he comes to and has to walk in the darkness with others beside him. After a time they come to pass endless passages, and sometimes he hears the
+
+sound of a door. He is astonished to feel ground under is feet, for he had the feeling of walking on air.
+Someone bangs on metal. Then everything becomes still and dark, as before. In that moment, life returns to Melchior, and he tries to fight, but he comes up against nothing but empty air. He is alone. Suddenly the darkness lifts, and a blaze of light stabs his eyes.
+He is in a big hall, decorated with a red velvet, and behind a large table are enthroned three veiled people dressed in red. Along the walls sit all the men and women whom he has known during his lifetime.
+They look at him severely, whispering among themselves.
+The next chapter is “The Judgement.”
+Melchior asks who tied him up and brought him there. But there is no answer, “I want an answer!” he cries and bangs on the table, but a stern voice says,
+“You stand right before your judges, Melchior!”
+Somebody then says that the accusers should come forward, and there is a lot of movement and whispering and murmuring in the hall. Melchior looks around and recognizes friends and enemies,
+relatives and neighbors, comerades, and the main servants of his own house. All their faces are gray and covered with dust, their mouths open and black, their lips blueish. Obviously they are all dead and have come back from the tomb. He looks for his wife and sees her standing in the front row, looking at him with mad, demanding eyes. Then he sees Professor
+Cux with his red beard, Trumpelsteg, and all the others. Mrs. Cux’s beautiful legs now look like sticks.
+His wife, Sophie, says, “You never wore the slippers which I spent a whole year embroidering for you.
+You never loved me.” Cux says, “You were never interested in my chemical discoveries, but you were always concerned with your own.” Trumpelsteg says,
+“Always when I had an idea, you picked my brains and used it yourself, and I was left empty.” And Mrs.
+Cux says, “You never admired by beautiful legs and now they have become like sticks. You were heartless
+
+to me.”
+So, one after the other, they all accuse him. Now ghosts keep appearing around Melchior. He sees his mother’s suffering face, his father’s face, and then an old great-aunt turns up and says, “You always laughed when I wanted to read you the verses out of my album. I showed them to nobody but you, and you laughed at them. So everything I loved died with me.” School friends turn up, and among them he sees
+Otto von Lobe (the one who committed suicide at the beginning of the book) and Heinrich Wunderlich (the boy who became cynical) and also Henriette Karlsen.
+He wants to walk up to her and say, “Are you here too?” But others come between them. Then the old apple-woman is there and accuses him, saying, “He always went away. I sat at the station. I saw it! I know, I know!” Then they all begin to murmur in a hostile way and the Judge says, “You have heard the accusations. Do you admit your guilt?” Melchior says, “Yes, I am guilty. Every step I took I did wrong.
+We kill while we live, but who wants to be the judge?”
+There is silence and the Judge’s voice says, “You deserve the death sentence. You must die.” The three mummies get up from their thrones. But Melchior says calmly that there is nobody there who can judge him. He gets up from his knees and says that he does not admit any judge. He asks who those are who accuse him and then says that they are just crazy shadows. The people are infuriated and say he must die. They call two wooden figures at the entrance who seize him. He goes through a kind of nightmare of hell: there is fire and shut doors and doors which open and fall on him and, so on––just as it would be in a nightmare. In the end they take a black coat and nail it on him so that he feels great pain from the nails entering his flesh. They lead him on, in this hellish walk, to a big marketplace in a little town where all the houses are those in which he had lived during his life, and the people standing around are those whom
+
+he knew in his lifetime. He has to go up to put his head on the block, and there is great excitement, but just at the moment when his head should be cut off,
+he looks up and sees the white bird approaching, and that gives him courage, and he seizes the sword and kills the executioner. A loud cry goes up from the people, but at the same moment the sea breaks in a great wave, bringing a horse which halts before him.
+He was just time to mount and ride away before everyone is engulfed by the sea, and he hears their cries as they drown.
+The next chapter is “The Call."
+Melchior still has in his ears the sound of the cries of the drowning people. He goes up a mountain and finds a little river and drinks from its cold water, after which he feels quieter and as though freed from the nightmare. The horse has disappeared, but again he sees a white bird and follows it. He still feels that there is an abyss behind, which seems to be following his every step, but it never quite reaches him. The night is cold. Suddenly he hears a wolf barking.
+How would you psychologically interpret the problem of the judgment? You see quite clearly that from a literary standpoint this is a judgment after death. It gives the idea, more or less, of what we think will take place after death. The people who appeared were people who were still living, like his wife and Mrs. Cux, who, we presume, are still alive, but there are also a number of dead people, so the living and dead are together, and they look like half–decayed corpses. What would that mean? What is now approaching? What is the accusation?
+This is a fatal turning point in the story, so it is very important that it should be realized.
+Answer: That he has not been related to anybody.
+Yes, exactly. Now the unconscious catches up with him and the general reproach is unrelatedness. He has not worn the slippers his wife embroidered, he has not looked at his colleagues' work. It is complete, cold narcissism, which from the very beginning has been
+Melchior’s disease, is absolute unrelatedness. We said before that with the lack of differentiation of the anima and without any relationship to the feminine principle there could be no eros and no relatedness. The essence of the whole reproach is unrelatedness, but why are they all
+
+dead?
+Answer: He did not keep them alive?
+Yes, exactly. It is relatedness which gives life to things. If I am not related to someone, it is absolutely irrelevant if that person is alive or dead. A person to whom I am not related is as good as dead to me;
+there is no difference. All the people in his surroundings are dead. It is a whole dead world, so it can be said that they also represent his unlived life, for having escaped into complete intellectualism, he has not suffered in life. Going through the door is like going through the unconscious, and the first thing which comes up is the revelation of all the unlived life which he has not lived because he had no feeling. How would you interpret the fact that he escapes his executioner?
+Answer: It is a moment of realization and a determination to act for once.
+You would evaluate it positively?
+Answer: Well, he kills the executioner, doesn't he?
+Yes, and do you think that is positive? What does execution by cutting off the head mean symbolically?
+Answer: He could not think anymore.
+Yes, it would be cutting off the intellect, so do you think it would be a good thing that he escapes that?
+Answer: It gives him another chance.
+Answer (from a different person): No, he should go through with it!
+Yes, he should go through with it. What would the white bird be,
+therefore?
+Answer: The spirit.
+Yes, the spiritual attitude. That is the typical trick of the intellectual,
+on to whom all the unlived life and all the betrayed feeling–
+relationships fasten, giving him a terrific sense of guilt; he then makes a clever tour de passe-passe with the spiritual or intellectual explanation––and escapes again. For example, he may say that these are mere feelings of inferiority or of guilt which he must overcome. In fact, this is the explanation that Mr. von Spät gives. Melchior falls into the clutches of von Spät, who says, “Thank God you did not fall for those judges! Thank God you freed yourself from the wrong feelings of guilt." That is what the intellect calls it. We know that there are pathological and morbid feelings of guilt and that sometimes one has to push them off. There is a kind of wrong conscience which tortures people to death; in women, it is generally the animus and in men the mother anima that initiates such feelings. So it is a very mixed problem, because having the apple–woman in it and all these feelings
+
+of guilt, there is also a little bit of the mother–anima poison in it. What would that mean? How does it look in practical life if people fall into that state?––if they suddenly realize their unrelatedness, and then the apple–woman comes in and it becomes so dramatic?
+Answer: The anima does not want any further consciousness. She wants to keep him where he is.
+Yes, and she does that by terribly exaggerated emotional upsurge,
+bathing him in feelings of guilt. This is also illustrated by the red velvet hangings and the childishly dramatic performance in which he is guilty of God knows what. That is the wrong kind of mea culpa (my guilt) combined with true guilt, making a mix–up of genuine guilt and an hysterical, exaggerated guilt–realization, which is just another kind of inflation––an inflation of evil. "I am the greatest sinner. Nobody is as abject as I. I have done everything wrong in my life"––and so on. That is inflation; it is simply swinging over into the opposite. There is a beautiful hint of this inflation of guilt, or inflation of blackness, in which motif? The cloak which is nailed onto him. What does that remind you of?
+Answer: The cross.
+Yes, before Christ was crucified a royal red garment was put onto him because he was accused of pretending to be the King of the Jews;
+so they put a scarlet robe him and crown of thorns, and mocked him.
+That is a parallel. Only here the garment is black and the execution is that of beheading, which is symbolic, because he had to be "deintellectualized." The garment is not the realization of his royal nature but of his black nature. It is a kind of reversed crucifixion. But the destructive or poisonous aspect is the exaggeration, namely, the idea of feeling like a negative Christ: "I am the greatest center in the world and am now suffering for my sins." The royal garment of sin!––there is the inflation. What about the nails in the flesh? They nailed the black cloak on him, and that causes the suffering.
+Answer: It’s like being nailed to the cross, isn't it?
+Yes, it is an allusion to the crucifixion of Christ, but with a variation,
+for it is the wrong kind of identification. I can give you here an interesting parallel in the dream of a woman who had tremendously impressive visions and because of that she was very much estranged from reality. She had an urge to exteriorize all this inner material by telling it, but afterwards she had the experience, common to many people after telling their great inner experiences, of being empty,
+deflated—now I have told it all and am empty. Because of by telling
+
+the inner experience one disidentifies, and just a miserable human being is left who says, “Yes, and now what?” As long as it remains an inner secret one is filled with it. According to her dream it was right for her to tell and be separated from her visions, but then she dreamed that a monument was shown for her—the figure of a naked man with an enormous nail going through his shoulder and coming out at the hip, and a voice said, “Lazarus was dead, a Lazarus is alive again.” She asked me what this nail meant and I could not figure it out. I remembered vaguely something about the thorn in the flesh of St. Paul but my knowledge of the Bible was not good enough to get it at once,
+so I said merely that in St. Paul there is something about a thorn in the flesh. I thought it a strange motif and looked it up in the Bible, and in 2
+Corinthians 12:7 St. Paul says:
+Because I have such great revelations I have this thorn in the flesh, so that I should not boast [I am putting it in ordinary language]. So that I should not boast of my revelations, God has put a thorn in my flesh, and the angel of Satan is standing in front of me, beating me down.
+So, you see, the thorn in the flesh would be the reverse experience of being inflated. If I have great visions, if I have inner revelations and identify with them, then I get a thorn in the flesh, something which should remind one constantly of one’s inferiority and meanness and human incompleteness. That is how St. Paul put it. And now with this woman it was the same thing. Through her inner experience she got a tremendous inflation, and this last dream was an effort to show her that the great inner experiences she had were, in another way, also a wound, a constant torture—something that made her incomplete and wounded. You could even say that those revelations are the thorn in her flesh. It is a question of words whether in such cases you call the person a great religious mystic or schizophrenic, for that is the closeness of the two. Here we have the same motif, which again indicates that there is a tremendous inflation of the feeling of guilt. You know that when some people go off their heads, they say that they are
+Christ, while others say that they caused the First World War. There is not much difference between the two! It is megalomania, this way or that. Sometimes it switches, and one minute they will say that they caused the First World War and two minutes later that they are the savior of the world. Once they have crossed the threshold, those two inflations are one and the same thing, and that is only the extreme case
+
+of something you always find on a minor scale when people have committed some sin. Either they pooh-pooh it intellectually or they bathe, in an emotional childish way, in their sin—in order not to see their guilt—bathing with hysterical pleasure on one’s sins and feeling so awful that everyone has to give comfort! That is a pathological reaction which is just an escape from the realization of the real guilt.
+Another aspect of the weakness of the feeling function in the author (or in Melchior) is this typical reaction of an intellectual when he is hit on his inferior feeling function, and because that becomes too painful and too insufferable, the white bird, a kind of spiritual elation, carries him suddenly out of himself by a trick.
+Remark: I think it is so surprising that von Spät tells him to knock on the wall and Melchior naturally expects them to get him, but instead…
+He does get to von Spät. You will see later the Melchior circles between the two worlds: the spirit world of von Spät and that of Fo—
+the world of the mother and the boys. This does not give the picture of a mandala but of an elipse because it is unbalanced. The anima, which would make it round, is lacking. The mother would be an old figure like von Spät and the anima would be a young figure like Fo, and these two would make the circle complete. But these two poles are not there.
+Sometimes the apple-woman turns up at one masculine pole and sometimes the other, and the anima is not there at all, which together with the unrelatedness shows the complete deficiency of the feminine principle.
+Von Spät says, “Knock on the wall!” He is always connected with the idea of stars, the firmament, music, spirituality, power and order.
+Von Spät
+Fo
+Stars
+Mother
+Spiritualization
+Trees
+Ghosts
+Animals
+Power and Order
+Boys
+Melchior knocks on the wall and comes to the von Spät pole and is first attacked by his feelings of guilt. Afterward, as you will see, he will be attacked by something else, and he always breaks away by means of the white bird. Then he comes to von Spät, who says, “You did very well, you broke through the feelings of guilt.” So you see the white bird is von Spät’s messenger, and that would be the magic trick by which to get out of the feeling of guilt with a kind of false spirituality.
+You just have to do some Yoga exercises or Subbud, or something like that, and then you are free again. And von Spät is all for such tricks
+
+and compliments Melchior on his escape.
+Remark: I don’t see the importance of the slippers I think the relationship might be under the slippers of one’s wife!
+The be sure, the slippers have a fatal implication, but on the other hand Sophie says, “I took a whole year to embroider them,” which implies a lot of libido. Imagine embroidering for a whole year! It must have been petit point plus petit point, and she gave a lot of love to it. I don’t see Melchior would have been under the slipper, but simply to kick them away like that, after someone had worked a whole year for you, means being unrelated. If he had looked at the slippers, he would have said to himself that he must give some response to that feeling,
+but not get under her slipper. That would have created a conflict because that is what women always do: they give genuine love and add a little power-trap. That is exactly what the feminine problem is for the man: that usually there is in women a mixture of genuine love and devotion and then a little left-hand power-trick to put him in a box. His mistake is that he simply casts away the whole thing, and that is just what the puer aeternus man often does. Because there is always a little power-trick in the woman’s love, he takes that as an excuse to reject the whole thing: all women are rotten—their love is nothing but putting one under the slipper, nothing but putting one into a box.
+Cheap sweeping statements such as these save the man the difficulty of asking every minute of the day, “Is this a trick or is it love?” Such statements show that the man is not up to that problem with women. If he is not conscious of his anima and his own eros, he will always fall for tricks. For instance, he wants to go out, and his wife thinks that he might meet Mrs. So-and-so, in whom he is interested, so she pretends to have a headache and says, “Let’s stay at home, I have a headache.” But if he has a differentiated feeling function he will sense that today this is a trick, and he therefore will say that he is going out and that if she has a headache she can stay at home. The next evening she has a real headache, and it is very unrelated if he says, “No, to hell with you, I am going out!” Only if a man has a differentiated erosdevelopment can he find out whether a woman is playing a trick or whether it is the real thing, and that is exactly what men do not like to do; they like sweeping generalizations: “I never go in for that” or “I always such-and-such.”
+If a man takes a feeling-problem seriously, he has, from minute to minute, to relate to what the woman does and, on top of that, he has always to be aware of whether it is power or real feeling, which in an
+
+unconscious woman are very close to each other. If you are an analyst,
+the problem is the same: an analysand may bring to you a tremendous amount of feeling, but, as Virgil says, there is always a snake in the grass, which means that you are never quite sure what she is up to, but if you reject the whole transference on account of that, then you destroy the patient’s feeling. And you are not a good analyst. If you cannot accept the real feeling in a transference, you are destructive to the analysand. On the other hand, if you fall for the transference and eat it up, the she will nicely put you in her pocket and make a fool of you.
+So whenever a man is confronted with the problem of relating to a woman, he has to perceive the difference between snake-in-the-grass tricks and genuine love, and he cannot discover that difference without possessing differentiated feeling. If he has that, he will just smell a rat and know from the woman’s voice that she is up to something, or from her eyes and her voice he will learn that it is feeling to which he must respond. But a man can learn that only by differentiating his anima for a long time, by dealing with her and with the problems of relationship.
+If he makes a principle of yes or no, then he is not capable of relating to women or of being an analyst.
+Here there is the either-or attitude. Melchior rejects women together with their slippers. Clearly he is not a man who falls under the domination of his wife’s slippers. He fought against that, and you remember the trick she played by not having his room heated so that he should be forced to come to her party. That is a typical feminine trick, but Melchior does not fall for it. He sees through such tricks, but he does not see that Sophie also loves him; he doesn’t realize that for a woman the one does not exclude the other. For her the two go together
+—she can love a man yet play such tricks—and it is the man’s task to discover from minute to minute which is which.
+You will remember that in the last chapter Melchior, with the help of the white bird, escapes the big wave which drowns all his accusers and executioners. Then he walks up a mountain and slowly rises above the trees.
+Night comes on and he hears the howling of a wolf.
+In the light of the stars he sees shadows, and soon he sees that a ring of wolves surrounds him. Terrified, he stops, each time he moves they snarl, but when he keeps perfectly still they do not attack. So he sits there and does not know whether he has sat for hours
+
+or minutes. He looks toward the horizon where the sun is slowly rising, and at that moment tears come into his eyes. He sees the light coming and stretches out his arms toward it. The wolves disappear like clouds.
+Toward midday he comes into a fog smelling of mold and decay. He cannot see well, but he arrives at a kind of wooden fence. He goes into a courtyard overgrown with grass, in the middle of which is a tumble-down hut full of people with birdlike hooked noses and piercing eyes who are selling large yellow mushrooms with green spots. The sun is shining on them, but a yellow mist rises from them and there is a strange smell. The little people say, “Please buy the mushrooms. They are the last. The earth is dissolving into mist, the sun rots. Buy mushrooms as long as there are any. The woods are dying, and the world is exploding. Bargains! Good bargains!
+He turns faint in the mist and feels heavier and heavier. Still feeling the wounds from the black coat on his shoulders, he walks around among them. It looks as though the whole earth were covered with dirt and mold. He hears the uncontrollable feminine laughter, and turns around and sees the old applewoman among the people, dancing completely naked making indecent gestures. She too cries, “Buy mushrooms! Buy mushrooms! They are the last! The earth molds and the sun rots! The woods die! The world explodes! Bargains! Good bargains!”
+Then a handsome, sensuous-looking young woman who also makes indecent gestures and who is also quite naked joins him They surround Melchior more and more closely, and he gets terribly frightened and takes a knife and tries to kill them. But their blood changes into red mist, their wounds close,
+and they become alive again and laugh in a more and more cynical way. They seize him, and he shuts his eyes and sees a blue light within himself as if he had a vision of the cold sky with its stars, and in the cold sky an enormous body forming. He pulls himself out
+
+of the embrace of the women and tries to sing. His song is echoed a thousandfold until the music dies away. The lights go out and it is daytime again. He is standing in front of a glacier and sees far away a kind of crystalline building and von Spät standing in front of him. That hellish dream of the mushrooms has disappeared.
+Von Spät says to him: “You have found the way.
+Now you are one of us. You have escaped the judgement of human beings. You have now overcome the greed of the animals, and you have banished the vengeance of the decaying earth. Now you serve the stars, and you are a master over human beings (the power principle), animals and the earth. Come, and we will crown you as one of our brothers.”
+Instead of pleasure, Melchior feels as if something really deadly cold were creeping toward him, but von
+Spät takes his hand and leads him away. “Night and chaos are overcome,” says von Spät. “Sleep has no power any more. It is daytime always and light all the time except when you go down onto the earth to appear to sleeping people like a ghost.”
+Then Melchior comes to a crystalline castle which is built like a mandala, with a round roof, but the cold is terrible. Von Spät tells him that he must wait until he is called and that his staff is there on the table beside him. (The staff is like a magician’s wand and is decorated with pearls arranged as letters.) Melchior leans against a pillar and realizes that it is made of ice. The room is empty. He takes the staff in his hand,
+and his clothes fall away from him. The wounds close and heal. He no longer notices the cold. A door opens slowly and he goes into a big open place filled with bright figures, their bodies like glass and their eyes like blue stones. On a big pedestal there is a crown.
+Bells rings, and everything vibrates in harmonious music. At one side he sees a group of petrified,
+immobilized boys, their heads hanging down. One of the glass people orders two of them to come forward,
+and with stiff movement they go up and take a
+
+shining crown and lift it up in the light. Melchior moves towards them. The rining of the bells ceases.
+At this moment he feels lost and alone. Then the eyes of one of the boys meet his, and he gets a terrific shock for they are the eyes of Fo. He then realizes that the boys belong to Fo’s group, and they have been caught by their enemy, Ulrich von Spät, and they are immobilized and petrified. He thinks: “I am going to become as rigid as they! What have I done? I have betrayed those to whom I belong and for whom I have longed and waited all my life. They came to fetch me for their group, and now I have betrayed them to the enemy. I am (and this is the important sentence) shattering life. I am breaking life apart.”
+With horror he suddenly looks around while the two boys who have to offer him the crown approach him. He feels a terrible shudder go through him when they hold the crown toward him, and then he hears a soft voice whispering, “Don’t you want to go away from here? Don’t you want to run away?” It was Fo’s voice. At this Melchior comes alive again and thinks, “He is here! Fo is here!” For a moment he hesitates, for von Spät is looking at him threateningly.
+But then he throws out his arms and says, “I want to go away, I want to go away.”
+At the same moment he feels the arms of the boys seizing him, somebody kisses him on the lips, and everything vanishes. The wind blows warm. He feels as though he were sinking down in the warm air. He opens his eyes and comes back to consciousness in a meadow. The moon is shining and innumerable fireflies dance in the summer air. He sees Fo’s face bending over him and, smiling, falls into a deep sleep.
+After having fallen into the half-right, half-wrong feelings of guilt and then having pulled away from them into a kind of wrong spiritualization, he falls into the pack of wolves. How would you interpret this psychologically? First the feeling of guilt because he has missed the experience of love with the other sex and has missed life,
+and now the wolves come up.
+
+Answer: The wolf is an attribute of the witch and in its negative aspect denotes the devouring mother.
+Yes, in some variation of the fairy tale Mother Holle has a wolf’s head. Mother goddesses and witches have a wolf’s head of iron, and it does sometimes denote the devouring mother.
+Question: This would be the opposite of the extreme spiritualization,
+wouldn't it? It would be the other side.
+Yes, one could say that whenever a man escapes the whole problem of relationship by making the wrong kind of spiritualization, he is still in the clutches of the devouring mother. What is much worse, he turns all the women in his surroundings into devouring mothers. What else can happen? If he doesn't relate, he can only be eaten! That is naturally the wrong thing, but it is a kind of involuntary and automatic reaction in a woman. The more the man refuses to accept relatedness, the more she feels that she has to imprison him, catch him, eat him up, forbid him to move around. So he calls up the devouring mother in every woman, and then it is a vicious circle. He is disappointed because every woman turns out to be a devouring wolf. Then he says, “There you are! That is what I always said!" and walks out on the woman.
+Actually, his flightiness has constellated her devouring side, and for this reason he is again caught in the vicious, destructive circle. Because he does not relate, she comes with her trap and a box to put him in.
+Because he has no love, he summons her power–complex.
+So you can say that a man with that attitude toward feeling finds the devouring mother everywhere within and without. And that would be the wolf. But beyond that, the wolf in mythology doesn't only have feminine witch qualities. There are other aspects: for instance, in the
+Etruscan tombs the god of death has a wolf's head or a wolf’s cap. The
+Greek Hades was also often represented with a cap on which was the head of the wolf, so it is also the abyss of death, thought of as being a kind of devouring jaw, eating people up. The wolf stands––not only in women but also in men—for this kind of drivenness in wanting to have things without any further purpose. Jung says that often among the strongest drives with which we are confronted when we open the door of the unconscious are the power drive, sex drive, and then something like a hunger which just wants to eat and assimilate everything without any reason or meaning. It is that which always wants more and more. If you invite such people to supper, they are not pleased but simply furious when you don't invite them again next week. If you give a tip, they are not grateful, for the next time if you
+
+don't give them more, they say, “What? Only a franc?"
+The worst are those who in early childhood have been starved of love. They go about pale and bitter with a “nobody loves me”
+expression, but if one makes a kind gesture, there is no appreciation,
+only the desire for more. If you don't give more, than they are furious and enraged. You could go on and on and pour the whole world into such an open mouth––and it wouldn't help. You could throw everything in; you can be up nursing them night and day, give them all your money, do anything you like––they would never find it enough. It is like the abyss of death: the mouth never shuts; there is only the demand for more. It is a kind of driven passion of eating and eating,
+and it generally results from an early childhood experience where the child was starved and deprived of love or of some other vital need on the psychological or physical level. One day one can only say no whenever such greed comes up because there is no end to it. It is a divine–demonic quality. It is that thing which says, “More! Still more!
+Still more and more!"
+The wolf in Germanic mythology belongs also to Wotan and one of his names is Isengrim, which really means “iron head." But it has also been interpreted in folklore as “grim, cold rage," and you can say that the wolf very often stands for a kind of cold, hidden resentment. Most people who have had a very unhappy childhood have something like this at the bottom of their souls. It never comes up. It is absolutely frozen and cold, a form of petrified rage, in that it also behind the demand for more and more: “The others owe me everything." If one has to deal with orphans or children who have grown up in a “home”
+and have been beaten a lot, one can generally see the wolf very clearly.
+But naturally it is not confined to them alone. Many others have this kind of wolf quality in them. Melchior has been frustrated from early childhood. We know that his mother was a weak, sickly woman, who did not look after him, that in early childhood he was so lonely that he saw his double at the window. We know that he did not grow up in a warm, instinctually healthy atmosphere. So this is a typical case of such a situation, and in him there is this greed and the longing always to have more.
+After having overcome his half–right and half–wrong hysterical feeling of guilt, he now falls into this new trap, and here again he gets out of it by longing for the light. When he stretches out his arms for the light the wolves disappear, so he does not really deal with the problem;
+he falls into it, and then, by enantiodromia, comes out of it when the
+
+night turns again day. He falls into that state without realizing what it means and by the grace of God gets out of it again. Naturally, in such a case nothing is worked out all. It sinks again into the night, and the next situation in life will bring it up again.
+Some people who have this wolf problem realize that this kind of greedy wanting more and more and eating everybody and everything up is mad and unreasonable, so they don't let it out. They behave very correctly and never ask for more, but you always suspect that it is just politeness behind which is caged the starving wolf. Such people then suddenly fall into the wolf and come out with terrific and impossible demands which cannot be fulfilled, but if you want to discuss it analytically and say that now we must discuss that problem they want to tell a very interesting dream and the wolf side is just gone again. I may say, “Listen, I am sure you are furious because I could not do what you wanted when you rang me up, and I think we ought to talk about that." But they reply that that is quite alright, they quite understand. The wolf has gone into the woods again, although you know that nothing has been settled. It would be much better for that person to make a terrific scene, and then we could deal with it. But it has all crumbled away, and if you then artificially, on account of the dream, say that now they should come out with it, you will get the reply, “But I know it is unreasonable. I know you have no time. I know
+I should not have asked it of you." So the wolf has disappeared, but without being transformed. That is what happens in this story.
+Melchior gets into and walks out of it, and the next step is the same thing with those moldy mushrooms and those sensuous women dancing around, saying that the earth is now being destroyed. How would you interpret this motif?
+Answer: The great mother and her dactyl or Cabiri.
+Yes, it is the Great Mother with her primitive Cabiri adherence, but how would you interpret the mushrooms? They say the wood is decaying. Now the wood is a mother symbol, but what is this? You have the feeling that here is Great Mother Nature, but what about it?
+Answer: She is not sane.
+Yes, it is an unhealthy nature, sickly nature. It is morbid and there is also morbid sensuality.
+Remark: It is very probable that the last thing we shall see on the earth is a mushroom!
+That is quite possible. There is an area where the mushroom now plays a role that is invading our world, namely, in the new drugs, some
+
+of which are made from some kind of fungus. This is invading psychiatry, and it is now hoped that a chemical cure for schizophrenia will be found. It is indeed quite possible that this can be done because any kind of overemotional state causes intoxication, and we believe that in schizophrenia there is a certain condition of intoxication, and then, naturally, you can eliminate these results. The snag is, however,
+that if you analyze people after they have been treated with these drugs, you find that if you analyze such people after they have been treated with these drugs, you find that the psychological problem which brought about the schizophrenic episode is not removed. All the morbid emanations of the problem—that people behave in a mad way and rave, and other symptoms—these things you can stop with the drug, but analysis shows that the basic problem remains unchanged. If at this point you do not use psychotherapy, the patient is just headed for another episode and then the drug will have to be given again. This process can continue endlessly. After such a partial cure with drugs a series of dreams will point out the danger of a counter-tendency—of saying that I can continure with my wrong attitude, and the next time I go off my head I will just ask for another pill. The worst thing about the drugs is that with people of weak character they even have a demoralizing effect. Such people do not want to change their attitude;
+it is much easier to go on with it, and if a psychotic episode occurs and they fall into the unconscious, they can have a drug to get out of it again—so it is all right! They do not want to return to psychotherapy because the other is the easy way, but it results in constant relapses and more drugs.
+I know the case of a woman, a nymphomaniac, who lived that to such an extent that she dissolved physically and psychologically, and sank into a psychotic episode. She got the drugs, came out of it reasonably, and the next dream clearly announced that her real purpose was to carry on now. She did not need to face the thing which had led to her slipping off into the unconscious; she could just take the drug again. If you try to interfere therapeutically and say, “Now we have pulled you out of the acute episode, but we still have to face the problem,” such people don’t want to. The believe in the drug and think why make a psychological effort if they can go on in the old way and if anything goes wrong again, get another pill from the doctor! They is why curing people by drugs is a very risky and dangerous business. In a way, it us reasonable to use them, but it leads to a very difficult situation afterward. I would not speak against the use of drugs in such
+
+situations altogether. It is a short-cut to eliminate certain very dangerous condition, but one pays for the short-cut because it undermines the confidence of that patient in being able to pull out through his own moral effort. It undermines the confidence of the patient in being able to pull out through his own moral effort. It undermines his belief in himself and naturally makes him forever dependent on the doctos who have the pill when necessary. Those are the pros and cons of using these remedies.
+Remark: In my observation there is something which goes dead in the personality. It’s like a loss of soul.
+Not always, if the drug has not been used over a long period. I have seen cases where that has not happened. Only belief and confidence have been lost, not the soul. It might go dead if the episode has already progressed very far and remedies have been used very much, but not necessarily. Confidence dies, however, and that is the danger.
+Remark: We don’t really know where it might not in some cases be better in the long run for the person to go crazy. One doesn’t know.
+That is naturally a question of the ultimate Weltanschauung, and there we come to the end of a discussion, for you have to make up your own mind as to whether you want to help people to become mad.
+Remark: Nature brings it about.
+Well I think it is a dangerous attitude to say, “Oh well, there are people who are just good enough to go mad, so let them! That is how
+Nature removes useless individuals.” There you come just as well in physical medicine into the problem of euthanasia, where you say, “Oh well, let’s kill off the old people and the morons, and so on.”
+Remark: I did not mean it quite so negatively as that, but I have seen one or two cases which by these drugs were forced into a kind of sanity which I would think madness if preferable.
+Yes, certainly, but that is not sanity; that is kind of a persona existence, like a whitened tomb, which simply enables people to be less disagreeable socially. Their behavior is just more tolerable, but except for that nothing has changed and they are just as mad as before. I have heard the confession of such a person. She had been changed into such a white persona, but later when her madness came back, and with it her better part, she said, “I was mad all the time. It was only covered up. I had a pseudo-adapted behavior.” That is not a cure; it is only beating up people into socially adapted behavior, so that they may be less disturbing, which is naturally useful for the doctor. Is it really a self-defense mechanism of the doctor’s.
+
+Remark: I think if we don’t use drugs too long that the effect is reversible,
+but also, what seems to be a loss of soul is really an abaissement of the emotional level. When asked, they all say that the hallucinations and other experiences of the psychotic stage are still there, but that they do not experience the emotional part so strongly.
+Yes. In a case where there was a lobotomy, the person told me that all the time she felt that the madness was still there. She used a metaphor and said, “It was in the cellar but it could not come up the stairs any more.” She was carefully living in the upper story, and the madness was one story lower, which would be exactly what you describe. The emotional problem is not solved; it is only removed.
+There is a certain distance between it and the person, and in this case the operation had the same effect; it simply means cutting off the too strong emotion. If people fall into too strong an emotion, they afterward generally switch to the opposite pole of being too unreasonable, and then they have a secret homesickness for their former emotional madness because to be emotional and mad is to experience the plentitude of life.
+You are never fully alive as when you are mad. It is a kind of peak! If you are not mad enough to have experienced that, then just remember some time when you were absolutely madly in love, or in a mad rage.
+What a wonderful state of affairs that is! Instead of being that broken human being, always fighting between emotions and reason, you are for once whole! For instance, if you let out your rage, what a pleasure!
+“I told that person everything! I didn’t keep anything back!” You feel so honest, and whole, for you haven’t been polite, but just said everything! That is a divine state, absolutely divine, and it is a divine state to love in that way, where there is no doubt any more. She—or he
+—is everything! Divine, complete trust! No safeguards against the faults of the other fellow human! None of that distrust that everybody has toward everybody else, but instead: “We are one! We are one! And the stars dance around us!” It is a state of totality. And the next morning she has a pimple on her nose, and the whole thing collapses!
+You are out of the total state. But emotion creates the experience of being totally in something, whatever emotion it is, and that is why if one makes people too normal then they are adapted but do not feel complete any more. Secretly they long to return to their madness. So it is no solution. One has to swing back again into the emotion and try to get the two poles together. The reasonableness is the emotionality must both be lessened.
+
+The opposities must unite, like the opposites in our book where pure emotion is represented by the boy Fo, and order and reason by von Spät. The author of the book is torn between these two. At one end everything is order, but rigid; it is a kind of madness, and that overadaptation you get from drugs. The excess of reasonableness that people have after an episode is a form of madness. It is mad to be as coldly reasonable as that, and the other opposite is another form of madness. If you cannot keep in the middle between the two you are lost, which is exactly the tragedy of the book. If you take it on a political level, you see the same thing in society: mad mass-psychosis emotional movements where people go around with either a Celtic cross or a Hakenkreuz, or whatever it may be, raving in emotion and feeling whole. It is so wonderful to walk in thousands through the streets, just howling, for then you feel whole and human. But then there are the police and order, business order, the law and all the rest,
+which is von Spät. Then you regress into what is called the restitution after revolutions in which everthing is in order, but power dominates and people are deadly bored and think how nice it would be if they could go back into the chaos of revolution, where at least life flowed.
+You see more and more how nations now switch between those two poles, just as individuals do. Groups do the same thing everywhere,
+and that is why we have to deal with the problem. It is urgent just now.
+For instance, those people behind the barricades in Algeria with their beautiful Celtic mandala cross, have practically no program! 20I am sure most of those young people just enjoy the plentitude of life,
+feeling whole and heroic and themselves, without any further thought.
+They look as though they were moved by a total emotion of some kind,
+and then that switches back to the boredom of order. And what can you do with that? The order of von Spät is cold!
+
+[This lecture was delivered February 17, 1960.—Ed]
+
+
+---
+
+# Lecture 12
+
+
+You will remember that Mr. von Spät nearly won out last time and that
+Melchior was already in his glass and ice kingdom and on the point of being crowned when suddenly he realized he was getting into a prison and broke his bonds, saying he wanted to go away. By that he freed Fo who took him with the boys.
+They come to a meadow lit by moonlight. It is a warm and the atmosphere is beautiful. They dance around singing, and one of the boys throws a spear at Fo, hitting him in the heart. Fo pulls it out of his chest, and from the open wound a great stream of water, not blood, flows onto the ground, from which all the boys drink. As the flow decreases Fo becomes small and thinner until he collapses, and his whole body turns into a kind of mist which becomes transformed into waves of sound. The stream dries up, the boys sink back exhausted onto the grass and fall asleep with their eyes open. From their foreheads comes a glowing mist which turns into circles which floats higher and higher, eventually forming one great ball of mist which whirls around the moon in even narrower rings, at last melting into it. The moon increases in size and after a pause sinks to the earth,
+splitting up into dustlike rays of light. Fo appears,
+coming out of the rays, and touches all the sleeping boys, who spring up, once more alive and laughing.
+They surround Melchior and welcome him to their group, but tell him that now he has to be crucified.
+
+He is not frightened but accepts the ultimatum, and a crown of thorns is put on his head from which he feels no pain, only a slight faintness. Then they crucify him. The nails in his hands and feet feel like cold shadows, and his whole body like a light shadow. He hangs…a shadow on the shadow of a cross, high between heaven and earth, his face turned toward the rising run. But he sees nothing, for heaven and earth disappear. The first rays of the sun strike his chest and tear open his body from which the blood rushes in a mighty stream, dividing up into innumerable little rivers which lose themselves in the earth.
+Then he realizes that he is no longer hanging on the cross but has become one with it and that it has become and enormous tree. From his stretched-out arms come many branches; his hair waves in the wind, his head grows larger and larger, and his roots penetrate deep into the earth from which comes springs of water. He hears the sound of a flute and sees Fo sitting in the shadow of the tree playing. The whole troupe dances around and fades away, and already some of the boys are flying, as big birds in the sunlight, and nest in his hair. Innumerable animals surround him, and more and more come: leopards,
+stags, wolves, bears and foxes—they come from all parts of the forest.
+A cry breaks from Melchior, and he becomes a boy like the others. Fo still plays the flute and together they sing: “All animals return to the Garden of
+Eden.” As the song comes to an end, Fo puts aside his flute and, going to Melchior, takes his hand, saying,
+“You had a name. Do you still know it?”
+Melchior tries to think but he cannot remember and says he does not know. He asks if he has been asleep and has just forgotten his dream?
+Fo says that they all had other names before they were crucified, but now they will take him in their group and give him a new name, but it will not be his true name, for that he will only hear when he comes
+
+to the kingdom.
+Melchior asks, “Which kingdom?”
+Fo answers, “Our kingdom! That’s where we are at home. There we play round the old fountains and drink of the holy water, and there in black mirrors we see everything we have lived. For the dark surfaces
+(of the mirror) arise thousands of forms which we leave behind when we leave the kingdom and which we have to resume when we begin to wander again.” (A very important place.)
+Melchior asks, “And why have we to wander about? (Notice that this question is not answered)
+“Don’t you want to be everywhere?—to be the wind and the rain, the trees and the grass? Don’t you want to be a part of the sunset and to melt into the moon? Don’t you want to be every animal, and every human? To speak out of every mouth and see out of each eye? We escape into and out of every figure.
+Wherever we appear everything changes into a whirlwind, and nothing is durable.”
+“But when do we get to the kingdom?” Melchior asks again.
+“Today or tomorrow, or in innumerable years.
+What does time matter? We can suddenly stand at the crossroads, and one of the roads leads to the kingdom, or it stretches out into a faraway golden shores beyond great waters. Or we open the door into a strange house—and have arrived. Everywhere we can stand at its borders, but till then we must wander.
+If we stop we shall never get there.”
+“And where are we going now?”
+“On and on,” says Fo, his eyes shining, “and immediately in front of us is a big city, and when we leave it our group will have grown bigger. And in that city no one will know anymore….But you must have a name. Who should give it to you? He from whom you receive your name, he is your partner if the group scatters.”
+Melchior looks long at Fo and then asks, “Do you want to come with me?”
+
+And Fo answers, “Yes, we have saved each other,
+so we will stay together.”
+He then beckons to the boys who circle around and says solemnly, “You shall be called Li!”
+“Li! Li! Li!” the boys cry.
+This is the anticlimax. In the previous chapter, Melchior was almost completely caught in von Spät’s kingdom, but with a tremendous enantiodromia it turned into the opposite so that now he is in the kingdom of von Spät’s enemy, Fo’s kingdom. The first part of this chapter reveals who Fo is. We know that he is the leader of the boys and that his name points to Buddha; that Fo advocates eternal wandering in karmic incarnations, whereas Buddha teaches escape from the karma of incarnation, from the wheel of rebirth. Fo, on the other hand, consideres endless incarnations a pleasure. Moreover, since he turns into the moon and then returns to earth after having been wounded, he is also a moon-god—a moon-god and the god of running water. When his chest is cut open, blood does not flow but a spring of life it is specifically stated that a white stream comes forth and that this water revivifies all those who drink it.
+Earlier, we saw from an allusion that von Spät is associated with the old sun—Sol Niger, Saturn. In old sun-god mythology he would correspond to the Greek Kronos and to Saturn in medieval alchemical mythology. This we deduced from the fact that he danced with the seven girls who would represent the seven planets surrounding the sun-god. Fo, the opposite principle to the sun, is, logically, the moongod, the god of night, of sleep, of the irrational, of eternal change, with naturally a latent feminine tinge. And it must not be forgotten that in
+German the moon is masculine (der Mond) while in Roman mythology it was hermaphroditic and was worshipped as both a male and a female figure. This hermaphroditic aspect of the soul shows that the symbol of the Self and the symbol of the anima are not yet separated.
+Fo represents the unconscious in its feminine and in its masculine personifications. He is the principle of the night, the other side of the light of consciousness, but the anima has not yet been differentiated.
+I have been asked to compare this book with Saint-Exupéry’s The
+Little Prince to show the difference between German and Frech mentality. Unfortunately I can only do this very briefly, but one of the characteristics would be that on the other side of the Rhine, that is in
+Germany, the symbol of the anima is not as much differentiated.
+Practically the only feminine figures in this book are the apple-woman
+
+(the mother nature figure), Sophie, who is a very negative and also a rather maternal figure, and then the pale anima-girl, Henriette Karlsen,
+who dies almost before she appears on the scene. The powerful soulfigure is an hermaphroditic being—namely Fo, the moon-god. If you compare him with the soul-figure in Saint-Exupéry’s book—the couple on the asteroid, the rose and the little prince—there the hermaphroditic aspect is at least differentiated into a couple, and the anima is differentiated one step further, although she is still a rather negative feminine figure, both haughty and hysterical. She has not progressed much, but at least she is separated from the symbol of the Self and appears as an independent being. The national differences are strongly contrasted in the two books. The German book gives the impression of a more archaic, more powerful symbolism and much greater dynamism. While reading it you are pulled into an emotional, dynamic atmosphere with an hysterical, exaggerated tone which is not entirely agreeable. If we look at the negative factors, the French book is suffused with cruelty and childish sentimentality in contrast to the dynamism and hysterical exaggeration of the German book.
+Two assumptions to account for this difference can be made: first,
+the the pagan, pre-Christian layer in France is more Celtic and in
+Germany Germanic (you can read about the difference between the
+Celtic and the Germanic character in Caesar and in Tacitus). Then—
+and perhaps this is even more important—there is the fact that France was thoroughly Romanized before it became Christian (and also southern Germany and Austria to some extent, and Switzerland too),
+whereas along the line of the Main River Germanic heathendom was directly covered over by Christian conversion. One can say that in the
+Mediterranean real Christianity was the end-product of a long civilizing development and therefore became a spiritual and differentiated religious form—that on the basis of the Roman civilization it was possible for the people to understand the Christian symbolism, and so, wherever Christianity was superimposed on a
+Romanized background there was the possibility of a transition. In areas where Romanization was lacking, the historical continuity of evolution was interrupted and Christianity superseded something very different. Using a metaphor, you could say that the north of the
+Main, people have “a hole in the staircase”—a lower story and an upper story in the middle an open space.
+This situation is not only typical of Germany; it will arise soon (and there will be a much greater problem) in Christianized Africa, where it
+
+is already creating a terrific tension and restlessness, quite apart from the other cultural and economic problems. Africans who have been
+Christianized have that same hole in the stairs. The problem exists also among the Americans who fell, when they went West as pioneers, into a primitive civilization, namely, that of the American Indians. Survival in that primitive environment could only be achieved by becoming as tough and as primitive as the natives; on the other hand, the pioneers had a Victorian Christian past, and this explains why the North
+Americans have in many ways the same hole in the stairs (or a variation of it) that the Germans have.
+Such a hole is not only a disadvantage, however. The inner polarity and tension which such a cultural situation creates makes people dynamic, efficient and active. It can be said that is the electric plus and minus poles are very far apart and very strong, then the electricity is also much greater. So it creates more dynamic and active personalities,
+with the drawback of a certain tendency to dissociate easily in mass movements, the nucleus of the personality and its balance being more easily disturbed.
+Naturally, this hole in the stairs—now going back to a comparison of the French and German mentalities—is only relative, for the French have the same problem, but on a minor scale. It could be said to be only relatively different, and naturally when you make such sweeping statements about nations, there are many exceptions. This is just an attempt to characterize it in a general way.
+Question: Would the fact that the author comes from Riga and is Latvian influence the whole concept?
+The fact that he is from northern Germany, or Latvian, would make it worse since it would mean having no home but widespread Roman
+(underground), Russian and Slavonic influences. In northern Germany there is already a strong Slavonic influence, which is why there is in
+Germany a kind of secret hostility between the north and south.
+The crucifixion of Melchior is very revealing because one sees that
+Fo really represents the return of the archetypal figure which is also behind the figure of Christ, in an older form. If we try to compare Fo with other gods, one could say that he was closer to Dionysus. He is the god of roses and grapes. Whenever Fo appears in the book, roses and grapes are mentioned, so he is a kind of return of Dionysus. Again,
+this crucifixion in which the crucified person turns into a tree reminds us of Attis, who was changed into the Maternal tree. One could therefore say that in giving himself to Fo, Melchior becomes “Attified.”
+
+Since all the others had gone through the same fate, they seem to consist of people who had first lived an earthly life and then were crucified and turned into those eternally wandering boys. The myth of
+Attis is repeated in each of one of them. As we know, Dionysus and
+Attis represented the early-dying sun-god, the son of the mother, the god who dies in the spring. The date of the Feast of Easter has been taken over from the Feast of Attis, and mosaics were executed in ancient Rome with the cross with grapes around it and an invocation,
+“Oh thou, Dionysus, Jesus Christ.” So at the beginning at least there was considerable doubt as to whether Christianity did not mean a rebirth of Dionysus—or of Attis—but in another form. The Church
+Fathers tried to make a definite break and establish Christianity,
+hoping in this way to prevent the new symbol from being sucked back into the past (which would have implied a victory for von Spät). To make sure of its creative élan, the newly converted Christians where emphatic in contending that Christianity was entirely different from the cult of Dionysus. But the similarity of the archetypal figure was so striking that everyone felt very doubtful, which account for such stress being laid on the fact that Jesus Christ was an historical personality in contrast to the archetypal god figure.
+To return to the cultural problem: if, therefore, Fo returns in the form of Attis or Dionysus, he could be said to represent an attempt by the unconscious to create an archetypal experience which would bridge the gulf created by this sudden Christianization. One might think that,
+having passed through this experience, the author might now really understand what the figure of Christ means. If you sweep away all the accumulated historical dust, you see that this is a return to the original experience of what it means to take the cross upon oneself, to carry it and be crucified with Christ, only there is a different shade of something more ecstatic and dynamic and, in an archaic way, vital. It is an attempt of the unconscious to recreate the Christian symbol and revive it in a form in which it is linked again with the deeper layers of the personality.
+How widespread and how vital this problem is can be seen by the fact that one finds the same attempt of the unconscious in a completely different sphere. Those among you who heard my lectures on Niklaus von der Flüe will remember that there Christ appears with a bearskin
+—as a Berserk—and there too it is an attempt not to abolish the symbol of Chris but to reinterpret it, linking it with the archaic layers of the instinctive psyche. Only if we understand it in this more complete
+
+form can the symbol of Christ survive, for if it is not anchored in the depths of the soul it will be cast off and there will be a return to atheism and neo-paganism in some form.
+The same thing can be seen in the Negro spirituals, which give parallel phenomenon, for in them there is a pagan layer of the psyche with its symbolic expressions and religious emotions, and over that is layered a Christian doctrine, just a lacquer which any kind of movement or anti-propaganda would remove. Unless the main archetype of this of this Christian doctrine, which in our civilization is called Christ, constellates in a similar archetypal symbol and links it up with the whole emotional personality, whereby it becomes a living faith, only then can people understand from underneath what Christ means in them personally. Otherwise it is purely intellectual and there is the hole in the staircase. Below one still prays to Dionysus, or in these cases, naturally, Wotan, because the one who is speared and who hangs on the World Tree is Wotan:
+Christian doctrine
+Christ
+Pagan archetype constellated below
+
+Wotan (in Germany)
+Mercurius-Kerunnus (in France)
+
+In this book the archetype constellated below is Wotan, as is naturally the case in a Germanic civilization. In France and those countries where there is a Celtic background the archetype called up in this form is not Wotan but Mercurius-Kerunnus, a stag god. This is a god who is transformed, who is crucified, and who is the sacrificed sun god—the spring god and the resurrected god—so in Celtic countries it is the archetype of Kerunnus which is constellated by Christ. In medieval legends, in the legend of the Holy Grail and also in Celtic material in
+England, Ireland and Wales, it is the archetype of Mercurius-Kerunnus.
+In all those cases there is an attempt to link these superimposed figures of God with the old roots of the archaic and genuine inner experience.
+There are other motifs in the description of the kingdom of Fo, for he says “We play around on fountains (which reminds one of the
+Germanic Fountain of Urd at the base of the World Tree) and we drink of the holy water. (If you drink from the Fountain of Urd, you become a seer. The shamans and the medicine men drink from that fountain.)
+In black mirrors we see what we were.” Here and Eastern influence is introduced which we have already noticed before—the idea that in this kingdom you can mirror all former incarnations. We shall see later that
+
+the author believes in reincarnation, something he has derived from his Eastern studies that blended into this German material. Since the
+Germanic races were, in general, on the introverted side, pre-Christian
+Germanic civilization was introverted and had an affinity with the
+Chinese and Eastern spiritual life. The Germanic runes (which we now believe to be the letters of the Germanic alphabet) were originally used as an oracle, as are the sticks of the Chinese oracle, the I Ching, and even later were still used in this way.
+For instance, when the Germans took prisoners, a certain number were slaughtered in honor of Wotan, for which purpose the captors
+“threw” the runes. That is, they took sticks on which they had carved different runes, and if the specifically marked death-rune lay on top,
+then that prisoner was sacrificed, while the others were kept as servants or slaves. According to the myth, this technique of divination was invented by Wotan when he was speared—we do not know whether by himself or by another, but we must also remember the spear of Longinus in the case of Christ—and here Fo is speared. Wotan then hung nine days and nine night on the World Tree, Yggdrasil, after which in bowing down (when he fell down) he discovered the runes at his feet. Therefore, one could say that the creative product of the long crucifixion was the discovery of the runes—a new manifestation of cultural consciousness which originally consisted in reading the moment of fate. This also underlies the ideas at the back of the I Ching,
+which is a way of exploring the will of the gods, a method of divination based on the principle of synchronicity.
+Even nowadays many people who have a Germanic racial background display a great affinity for the Eastern world, and it seems to me that there is at present in Germany quite a widespread tendency to seek the healing of their problem—the wound caused by the war—
+by turning to Eastern philosophy. This would mean again finding a sufficiently introverted attitude with which to work out the problem from within, instead from without. Naturally, the big economic boom now being experienced is very unfavorable for this, but all those who try to work out such problems turn to introversion and cling mostly to
+Eastern philosophy to help get into this attitude. I once suggested to one of my analysands, a man from North Germany who was in the habit of consulting the I Ching, to looks at this problem in this way. The night after I told him what I am now telling you, he dreamed that he was in front of a Prussian military barracks. At the entrance was a shield with writing on it in Chinese signs and Germanic runes, which
+
+shows that the unconscious at once picked up the suggestion as relevant.
+In scandinavian mythology, trolls are also regarded as a manifestation of the principle of synchronicity. I do not want to go into that, but I would say that people from the north of the river Main, if they are creative, are more introverted and, like Eastern people, are more interested in synchronistic phenomena than in rational causality as is the case with Westerners. In the north of Germany there is a tendency, which you see clearly in Russia, toward the great problem of uniting the Eastern and Western minds in a middle attitude. In the socalled Pan-Slavonic movement, to which Dostoyevski belonged, it was claimed that Russia was the chosen country that which one day would be able to unite the introversion of the East with the efficiency and extraversion of the West. Currently they have departed from that idea by becoming completely extraverted.
+The kingdom is characterized here in a strange way, for it is partly the Garden of Eden, to which all the animals return, and partly the old paradise of the Germans, the Fountain of Urd under the World Tree.
+But it is also clearly influenced by Eastern ideas of Nirvana, where one finally escapes the eternal wandering from one reincarnation to the another, except—which is interesting—that Fo and his band have not yet reached the kingdom and that they see a meaning in wandering,
+which is opposed to Buddhist teaching, according to which one should escape the karmic wheel of reincarnation. This is a more Western tendency, and a rather fatal one, namely, the glorification of dynamic movement in itself, even if it has no goal. But the exaltation of feeling psychologically alive and being in a creative movement with neither result nor goal is dangerous and demonic.
+You will remember that I spoke of von Spät was successful and then, with Fo and the crucifixion, came the enantiodromia which was really Fo’s victory. Later it turns the other way once more. von Spät is fatal, because at his pole things are absolutely static; once you are in the glass palace, in the spirit kingdom, nothing happens any more.
+Everything becomes glasslike, transparent and rigid, whereas at Fo’s end there is an absolute glorification of the creative movement and ecstasy in itself, with the idea that creative ecstasy has a meaning in itself, irrespective of whether there is any result. What is being taught is a constant continuation of emotional and creative ecstasy. We find this expressed in rock-’n’-roll dancing which represent the enjoyment of psychic and physical dynamism and musical rhythm, with no
+
+further goal. When it is over, you are tired, and the next evening you start again, and that in itself is satisfactory. On von Spät’s side there is result without life movement and at Fo’s end, eternal movement without result. It is another example of extreme one-sidedness, with no union of opposites. One is simply being torn between them.
+von Spät
+Melchior
+Fo
+Reason without Life
+
+(Ego)
+
+Eternal Movement without Result
+
+Ice-North
+
+Li
+(Consciousness)
+
+South
+
+There could only be healing if two other (feminine) poles had developed, because in a man’s psychology the feminine, the anima principle, is the principle of reality and also realization. That is lacking in this constellation.
+I will now condense the middle of the book. Fo, eyes shining, says that now they are going toward a city. He turns to give a name to
+Melchior—Li, consciousness, the thing that Melchior should provide.
+What follows is easy to understand and not very symbolic. It tells of the mischievous deeds of Fo and his band.
+The story is that there was a town called
+Stuhlbrestenburg. (Bresten is an old German word for disease, and Stuhl means either chair or excrement,
+but here it obviously means the latter, so it would mean “Excrement-Disease Town”.) In this town it is said that there was once a big figure which almost wiped out the town. The king, who was of a whimsical turn of mind, had thought the old walls should not be pulled down but that the burnt-out houses should be cut off at a certain level, say two meters above the ground, and left completely black.
+Over them a new town would be built in a very light and elegant Rococo architecture. The king, Walter II,
+thought this very amusing. But what happened was that a criminal world collected in the subterranean area and connected all the cellars, so that the whole underworld could communicate. From time to time
+
+these people made a sortie and robbed banks, etc.,
+and then hid again in the burnt-out black cellars. The police could never completely exterminate them, so that the bourgeoisie in the upper stories of the houses were constantly threatened by them. The situation became aggravated when the police caught one of the chief criminals who divulged information concerning the geographical network of the underworld, with the result that the police decided on a big coup to clean up the whole gangster set-up.
+Of the townspeople it was said that they worked hard but that they lived at a terrific pace, both violently and greedily. Their factories, churches and pleasure houses—brothels and so on—were full of life, but the atmosphere was hot and a bit unclean. A kind of miasma rose up perpetually from the black walls below.
+Trouble now started up in the neighboring town of
+Rattenhausen when a school teacher who had once done some wrong to a pupil, a romantic boy of the type of Otto von Lobe, suddenly had the hallucination that one the boys in his class was the same boy whom he had wronged twenty years ago.
+The teacher fell on his knees in front of the boy and begged for pardon. It turned out that the boy, Ranke,
+of whom he was supposed to have begged forgiveness was at this time at home in bed and had not been at school at all at that time. The headmaster himself went to the boy’s home and verified the fact.
+There was a great fuss and the teacher lost his job.
+The next morning more than half the boys could not be found. The second result, which occurred practically at the same time, was that a very honorable banker, Mr. Rotbuch, at mid-day when the rest of the staff was absent, was seized by a crazy idea. He opened a window on the first floor of the bank and threw all the money onto the crowded market place. This caused an indescribable tumult in which two people were killed and many severely hurt.
+
+The banker was arrested and put in the lunatic asylum. When he regained control of himself he said he did not know what had come over him. Two boys wearing turned-up collars and leather caps had come to him and told him to do this, and he acted under a kind of compulsion. On the same day, the doors of the prison were found open, the warders tied up in the henhouse and the director of the prison, dressed in full uniform, was discovered flaying around with his arms and crowing like a cock. All the prisoners had disappeared, and it was supposed that they had fled to Stuhlbrestenburg and joined up with the underground gangsters.
+In the Rattenhuser Bote a group of shameless teenagers had probably read too much of Sherlock
+Holmes, Karl Marx and Alexander Dumas. Poisoned by them they had tried to seduce the people into following impossible ideas. It was said that all this resulted from the haste and greed for new sensation which are part of present-day life—what was once a miracle is now a daily event— so that even sober people were no longer able to discriminate between the possible and impossible. In such stormy time, the article continued, when everything is topsy-turvy, we can only advice our worthy fellow citizens to believe only in things which are officially confirmed. The only thing which remains firm is official sanction—
+Sigillum signum veri (the seal of the State stands for truth). The principal officials recommended a search for the evil-doers so that they might not bring about more harm and confusion and said that the people should follow the Government’s lead—Caveant consules. A psychiatrist, Mr. Hinkeldy, wrote another article of mass psychosis and warned against overwork, too much introversion, and too many fantasies. He recommended cold foot-baths before going to bed and rubbing the whole body with a damp cloth on getting up in the morning!
+In the next chapter the same boys wearing the turned-up collars and leather caps appeared in the
+
+Cathedral. People outside heard beautiful music and went in. They found the place full of people, the altar candles burning, and dance music being played,
+which infected everybody to such an extent that they forgot where they were and danced around madly.
+The music got wilder and wilder, with drums, violins and trumpets, and when the organ joined with the thunder of the underworld, people could stand it no longer. The teacher, the district court judge and the public prosecutor jumped about like goats, together with the market women. When the music ceased,
+Pistorius, an old member of the Consistory, appeared in all his vestments, and the people were suddenly silent and fell on their knees begging for pardon as he went up to the pulpit. But from the pulpit came loud continuous laughter. Pistorius’s full red face became smaller and whiter. For a minute looked like a halfgrown boy, and then, standing up in the pulpit, his shaggy front legs supported on the reading desk,
+appeared a bleating white he-goat.
+It was a mass hallucination in which they were all caught, all except Flamm, the teacher, who began to speak. But hundreds of boys descended on him from the organ and clapped and mocked him. Then a naked youth appeared at the altar and played on his flute, whereupon the choir appeared as dogs among the people. Those who were frightened tried to escape, but the doors were shut, so they climbed up on the benches and tried to get out through the windows. When the flute fell silent, the youth, the boys and the roses all disappeared and the doors stood open. No one dared say a word, and they slunk out onto the street.
+The judge, who had been in the cathedral, went across the court where a man was to be tried for a sex murder. The public prosecutor stood up to speak and for an hour opened and shut his mouth, getting more and more excited, but not a word was audible. When he dropped white and exhausted onto his seat, a woman dressed in white clapped and applauded. The
+
+defendant’s lawyer then got up to speak, but before he could begin his exact double appeared before him and accused him of being a fraud. He was so horrified that he could only stammer a few words,
+whereupon the other accused him of being unable to say anything in his defense. The uproar in the court was quelled with difficulty. Then the fraudulent lawyer began a long speech in which he said that after all the accused was only seeking his own pleasure, just as others seek their pleasure in judging.
+What was the difference? Some took pleasure in morality and others in immorality, some in murdering people and others in following the law. He turned everything upside down, and there was such confusion of the just and the unjust that everyone was exposed in his ape-like greed and amorality.
+In place of the counselor appear a naked boy who played the flute in the Cathedral, and a woman dressed in white then intimated that she and the counselor had spent half and hour together in the next room, where she had been quite irresistible, and that he had stuck a paper knife into her breast when,
+in his arms, she had first turned into a boy and then a sow. The ivory handle of the paper knife was still visible in her breast. The boy took hold of the counselor’s hand and said, “See, it is full of blood,”
+and as the blood ran onto the ground the accused came up and good-naturedly asked the counselor for a kiss, saying that they were all brothers.
+The accused was then declared innocent, the boy and the woman in white clapped their hands and cried out, “And now kiss each other!” Once more there was a terrific scene in which everybody embraced and kissed—anyone and everywhere.
+Outside, all the bells of the town began to ring, and everybody questioned everybody else—contended,
+contradicted, fought, screamed and raged—until the police came with their swords.
+While all this was happening in the Law Courts,
+the king was in the theater. (He was a romantic young
+
+man and sick of ruling. Actually, he appeared very much to resemble Ludwig II of Bavaria, the artist king.) He was deadly bored with his duties as a king and, sitting in his royal box, was filled with romantic ideas and melancholy, and was bored with the play.
+In the principal scene, there was a discussion between the hero of the play, the director of some electricity works, and his step-brother. The director made a long speech in favor of materialism, of himself and of his like, saying that with them the gold is in the good hands of practical idealists. But then two boys appeared on the stage, and once more there was chaos. The director was transformed into a ball which was first tossed from one boy to another and then to the king, who caught it and threw it back, whereupon it burst with a loud bang. The king clapped delightedly, and two more boys appeared who put a crown on his head, scepter and orb into his hands,
+and an ermine cloak around his shoulders.
+The boys took him by the hands and let him down a ladder of flowers which had appeared between the box and the floor of the theater. The audience stared in dumb horror. The court marshal tried to save the situation by shouting “Hurrah!,” and some began to sing the national anthem. The crown fell from the king’s head and proved to be made of paper. Smoke began to rise from the corners of the theater. King and boys disappeared, the doors burst open, and dark figures appeared with hatchets and pistols ; people shrieked, saying they were from the underworld.
+People were shot, or killed by the swords and hatchets of the intruders; the smoke increased and the building burst apart, burying the people underneath it.
+In the whole town a terrific battle was going on,
+and nobody knew who was fighting whom. In the market place a dark figure had swung himself onto the top of a stationary tram, and, standing in the glow of the burning theater, he cried out, “Friends! Stop! Be reasonable! It is only because you are afraid of each
+
+other that you are murdering each other. The old order makes enemies of you. Create a new order! Do not forget who are your real enemies—the boys! They hide everywhere and in every form. Who are they?
+Who knows them? Where do they come from?
+Wherever they appear everything becomes chaotic. If you follow them you will have no peace. The ground will shake under your feet. All life and order will vanish. A whirlwind will seize you, and madness will tear you apart in horror!”
+For a minute the people remained motionless, but their uneasiness grew. Cries, oaths and questions broke out: “The boys! Where are they? Look for the boys! Kill them! No, kill that man, he is a traitor!”
+Again the speaker stretched out his hands. “My friends,” he began again, “You are searching for God,
+the new God, to be created by your own will, your longing, and your work.” (The God whom the ego has created! What nonsense!) “You want your life to have a new form; you want a holy order, the holy order of your work. It lies within you, this holy order and longing. I will show it to you. I will teach you about that which you feel within you. I will give you the laws you can follow. We (the ghost world of Von
+Spät) want to heal and to serve you!”
+The moonlight fell on the figure, and a crowd of people surged around him, begging him to teach them and stay with them.
+“We want to help you,” answered the figure, his voice sounding like bell. “Do not dive again into the old dark well! Do not hunger for an eternity that does not exist!”
+Again the crowd cried out for the boys, saying that they would kill them. The figure warned against touching them, but nobody listened. Then in the middle of the square a flame shot up, and in its red light appeared a group of naked boys. In a second there was a deathly silence. A boy moved forward and spoke: “Come to us, those of you who are free.
+Let the others build towers up to heaven! Let them
+
+petrify in their order, work and happiness! Let those who love the flame and eternal transformation come to us—into our night when their day suffocates you—
+into our kingdom when theirs is destroyed!”
+From the naked group there broke out a song. A shudder went through the crowd. But then a new song joined in, for the glassy men were also singing.
+The crowd seized rifles, made a dash for the boys, but a gust of wind changed into the sails of an immense fireboat which lifted the singing group above their heads. There were shouts of “Shoot them down!
+Don’t let them escape!” The guns took aim, the fireboat in which the boys were collected dispersed into sparks. Millions of roses were scattered all over the square and filled the air with sweet breathtaking scent.
+From the boat (clearly the Thespis boat of Dionysus) and the roses, it becomes more and more evident that this is a new form of the old archetypal figure of Dionysus. From the two speeches it is clear who von Spät and Fo are, for the polarity is obvious.
+The contents of the book speak for themselves. It is amazing to think that the book was written about fifty years ago and that we have passed through all that was predicted—which shows how prophetic art can be. Even the burning of the Reichstag came about, and there is no need to make any further interpretation. But the strange and uncanny thing is the motif of the burned town, upon which the lighthearted and thin upper architecture is constructed. That shows that if there is such a hole in the staircase—such a blatant contrast between the lower, emotional, archaic parts of the psyche, with its pagan outlook on life, and an upper layer of a higher civilization—then, if the problem is not made conscious and faced, it continually creates general catastrophes such as wars and revolutions, followed by a kind of representative reconstruction on top of the debris, the old rubbish not having been cleared away.
+It is frightening that just this is happening again in Germany, for the
+Germans are again creating a big economic boom, with great élan,
+upon the burnt-out ruins of the world wars, and the one thing which one cannot now discuss with the Germans is what really happened.
+Most people in Germany do not want to face that particular question—
+it is all past and was horrible and “I disapprove of what took place, but
+
+let us not look at it anymore. Let us quickly build up again a new form of life”— which means that nothing has been cleaned up. Now that things have quieted down, they do not say, “Let us look back and ask ourselves what really happened, psychologically.” Now should be the time for reflection. Instead, a subterranean world is built up, teeming with revolution, which is already showing itself in the painting of swastikas and other impulses.
+It is just the same if people break down neurotically and pick up again with the help of Largactyl or Serpasil, and so on, and then go on in the same old way, instead of for once turning to the unconscious and asking what was at the bottom of it. In a breakdown there is always something positive which wants to come through and creates the breakdown. If the person does not turn and do as Cinderella did—
+discriminate between the good and the bad corn—that person does not only lose connection with his or her own past personal psychology, but also loses connection with the positive values of the unconscious. The same is true of National Socialism, which was a distorted impulse toward the renewal and creativity. If this symbolic figure, Fo—who is clearly a new form of the archetypal savior figure— had been realized by the Germans, not in this political Fürher craze, but subjectively—
+that is, an introverted way, inwardly—it would have been the beginning of a great creative dynamism. Instead of that, it was externalized and mixed up with political propaganda and a fatal power drive which culminated in the catastrophe which we have all seen and suffered from.
+On a large scale we see a development absolutely parallel to the development of the neurotic individual, for what is constellated in a neurosis is really something creative which, if not recognized, will word toward a breakdown. If one turns toward it, that which makes one sick is also the healing thing. It is clear from this book that the romantic, religious élan vital of National Socialism might have brought about a tremendous cultural renewal of the German people and great progress in consciousness. But because of the wrong twist the dynamic energy became extraverted political aims instead, and the opposite came about—and the terrible catastrophe. There is another reason why
+I lecture on this book (I speak of the Germans because the book came out of Germany, but the problem is widespread). The same situation exists in America, especially with young people. In different counties there is a different tinge, but it is a modern problem and not just a
+German problem, although Germany was the first, the locus minoris
+
+resistentiae (place of little resistance) where the disease showed itself.
+We all suffer from it in different variations.
+If this breathing through of the new god had been realized inwardly,
+it would have led to the discovery of the unconscious and of the necessity or turning creatively toward it. But von Spät, who represents the eternal seduction to turn the unique inner experience into an outer collective order, got the Germans into this fatal vicious circle. And what is more terrifying is that right now they are again building a light rococo architecture, all rosy and white, on top of the burnt-out ruins and are therefore moving toward another catastrophe—unless for once a few people notice what they (and we) are moving into.
+Question: Are there any large groups in our society which do not have what you described as a hole in the staircase?
+I would say that exists least in Italy and in the Mediterranean countries, but they have it too, because naturally this wind blows everywhere, even over to the Alps. The book says it: “Winds blow southward.”
+Before I give a short resume of the rest of the book, I want to say what Miss Rump has found out about the name “Li.” With “Fo” it is clear that the author means Buddha, but “Li” is a very great problem because, as Miss Rump showed me, in the Chinese dictionary there are innumerable “Li’s,” and it is not clear which the author means. The most probable would seem to be “reason and reasonableness, order,”
+because, you remember, Melchior represents the ego-figure torn between those two opposites, so that Li—reason—would fit best with the ego. Moreover, Melchior is a chemist, and until he became torn between those two powers, he might really have been called the cultivated, reasonable scientist. So he is reason, or consciousness, torn between the opposites.
+Miss Rump also informs me that the original meaning is quite interesting, namely, the secret tracings which one finds in precious stones, the tracings and patterns such as are to be found in an opal or an onyx, in which there are frequently dark interior patterns. But how does such a secret pattern becomes the basis for the word “Li”—
+reason? One must naturally think in Chinese terms. You know that all the cultural patterns in China were obtained, according to the myth,
+from the meandering of the big Chinese rivers. They sketched the map,
+and these patterns stand for the cultivated surface of the Chinese earth.
+So for China, consciousness would be an awareness of the secret pattern of nature, which is what I spoke of before. The Chinese, the
+
+Eastern peoples— and, strangely enough, to a certain extent, the
+Germanic people—are not interested in causal rationalism. Instead, the natural tendency is toward becoming aware of the patterns of Tao, an awareness created by divination of the unconscious, and, through that,
+an awareness of synchronicity and of image analogies. Within this mentality the secret patterns in a stone correspond to reason, but in the book there is a fatal association because Fo and Li connect, and if you write them together you arrive at “foli(e).” Since the outbreak of the whole mass psychosis is predicted in this book, it is possible that the author thought of this connection.
+The next chapter is “The Transformation of Love.”
+Melchior (now Li) walks over the sunburnt earth.
+Bushes are in flower, and under his feet he feels the burning earth. He feels elated and relaxed as he walks through nature; every bush reaches out to him.
+The waves of the river follow along beside him, and as the sun sinks slowly, the river increases in size, as does the noise of the waves until they take hold of him, pressing on his feverish skin and lifting him off the earth. Suddenly he hears a cry from the earth and falls. Lips search for his mouth, and he realizes tat he is embracing a delicate human being. He feels the pressure of lips on his mouth and enfolding arms. He feels skin against his own and hears the beating of a heart, and realizes that he is embracing a woman.
+“Who are you? And where do you come from?” he asks.
+Their embrace becomes more and more passionate.
+He feels as if a white hall with columns in it rises around them, but the columns dissolve into a blaze of scent, and there are dark walls which glitter fleetingly.
+His body changes and is transformed, and he realizes that he has a woman's body and is in a
+Lesbian embrace with another woman who in turn changes into a bronze giant with a broad chest and strong bony arms, whose white teeth gleam between black lips and whose eyes are unfathomable. One change follows another for the giant has changed into a being with a brown face and thick laughing lips, the
+
+long fingers of whose hands caress him. Afterward there is a Negress, then an Indian, and then a dark girl. In ever-changing embraces he knows himself to be in new rooms and with different bodies.
+Sometimes he is a slave, kissed by an emperor,
+sometimes a whore together with soldiers who smell of blood, sometimes a priest in the scented bed of a delicate woman.
+Everything becomes dark, and he can no longer distinguish anything. Then he finds himself between temple walls, beside which stand motionless, sliteyed priests. He himself is a black-haired peasant,
+tied together with a peasant woman on an altar,
+looking around with tortured animal eyes and bleeding from many wounds. The priests surround him, their swords raised; Li cries out in nameless terror and the swords strike. Li sees his blood spurt and everything becomes a red mist. Out of the moisture rises a primeval forest with giant trees and man-high bushes. The roars of tigers come out of the bushes. A panther digs his claws into Li’s flesh, and he himself is a wild, spitting cat. Millions of gay colored birds scream overhead. Li dissolves in emptiness and knows no more.
+He falls and falls. In one second he falls through all the rooms through which he has passed. He hears music. Through the endless forests of pillars move crowds of dancers. A tremendous light breaks and sunlight bursts through circles of blue. He awakes on cushions of clouds to find Fo sleeping beside him,
+breathing quietly. From his face comes a light, and his lips twitch now and again as though in slight pain.
+His body lies clear and white in the morning light and is of such grace and charm that the tears flow from Li’s eyes. Fo opens his eyes, sees Li, and takes his face between his hands and kisses him on the brow. They look round and see how out of all the clouds, their comrades are awakening in the new dawn.
+Here you can see that the kingdom and power of Fo become as
+
+dominating, strong and absolute as was the power of von Spät. Li is now drawn into the earth and the principle of eternal transformation,
+whose main drive is eros, or even sexuality in all its different forms.
+The next chapter is entitles “Downfall.”
+The boys raise their hands to the light in greeting, but there is a rushing in the air and they cry that the storm is coming. “The storm, the storm!” they cry.
+“The kingdom is approaching! We’re home!”
+“We are home!” repeats Fo. “We are diving into the black springs to bloom afresh in the world!” Then they sing a refrain which comes again and again in the book: “Time sinks, Space disperses, Gestalt is obliterated.”
+The boys surround Fo and tremble. Fo lets his arms sink and his limbs begin to shiver in pain. Soon the whole group is shaken with pain. Their faces suddenly seem age-old and faded, their eyes blind,
+their skin flabby, and their hands thin and claylike.
+All look at Fo, who seems bent under a heavy burden. As in a fog, figures stream out of him, more and more. They flutter around and disappear into emptiness. Many figures also come out of the others,
+who are twisting in pain. There are girls, old people,
+ghosts, angels, wings, men in all kinds of dress, and soldiers in uniform. Li sees hundreds of faces. He is plagued by the dreadful pain and cries out and hears how the others also cry. Their groans are mixed with the sound of the forms in the air and the rising storm.
+With every shadow that separates from the boys,
+their bodies become more ethereal, their movements weaker and their cries softer. They begin to glow with a soft, inner light, but the train of forms never comes to an end because they have to let out all those formations within themselves—the eternal incarnations in their different forms—before they can enter the kingdom. The boys grow weaker and weaker, but their suffering is voluntary because it means the approach of the kingdom. Their eyes fixed on Fo, they do not notice how the faraway light of their home become covered with mist and disappear,
+
+do not feel the unfriendly air which surrounds them.
+They are lamed by their own heaviness. Who had them in his power? Who had approached to seize the defenseless blind? A roll of thunder gives them a terrible shock. The clouds in which they had floated disappear and earth shows up beneath them. They want to cry out but cannot. Almost soundlessly the words drop from Fo’s lips: “That…is…not…the…
+kingdom.”
+With all their strength they try to pull themselves together before the last of the forms can leave them,
+but the swamp fastens on them and swallows them.
+Fo’s eyelids droop over his eyes. Li sees how Fo falls on the ground but is unable to move to help him.
+Many colored birds circle around, fluttering hither and thither, and in the middle of the group stage figures appear. Silently they approach the stiffened figures and lay their arms round the necks of the boys to kiss them.
+In the eyes of some of the boys appears a nameless horror. Fear gives new power to their limbs, and they thrust the strangers away, but the others let themselves be kissed. As one of the strangers approaches Fo, Li cries, “Wake up! Wake up!”
+But Fo does not hear and the stranger bends over him. Scarcely has he touched him when Fo springs up, crying, “Hold back! Stop! Save yourselves! Hold back!” The few boys who had defended themselves make a terrific effort and recover. “To me! To me!”
+Cries Fo to the other, but it is too late. The sacrifices,
+sunk in a deathlike sleep, do not hear, and the strangers breathe upon the floating, released shadows, which dissolve in the air. Without looking around, the strangers go, carrying their prisoners with them, and as they move off their bodies are transparent like glass.
+Li finds himself on a wide, icy surface. “What is happening?” he asks himself. “Since the enemy barred the way to the kingdom, something has happened to us. We are losing ourselves hopelessly in
+
+a maze. We don’t know each other any more. Our group is becoming scattered.”
+Th sun shines red. A gust of wind comes and sweeps away the snow. The ice is like a mirror, and Li feels the freezing cold.
+Here we have the other enantiodromia. Just as when Li was crowned and had cried out that he wanted to go away and the boys had come and carried him back, so now, when they are near the kingdom and detaching from all projections—in the Eastern sense of the word,
+getting free from karmic projections, from involvement in the world,
+and turning positively to the kingdom, discovering the Self—then at this moment the other pole again interferes and the pendulum swings back again. They have missed the turning point. Once more it is a meaningless enantiodromia.
+Practically, this is best illustrated in the alternating states of schizophrenics, for there are moments when they are completely filled with the collective unconscious in the form of constant transformation.
+They may even claim that they are God, or Jesus, or the Tree of Life, or the gold and silver island. They may say, “I and Naples have to give macaroni to the whole word,” for that is the kind of speech which is made at such a time. In that form the person is caught in the collective unconscious, in eternal transformation. But if it is a schizophrenic episode that has something fatal in it, there is fragmented rationalism in the material, for just as they say, “I am Jesus Christ, I am the World
+Tree,” which is understandable, they go on, “I and Naples must provide the world with macaroni,” which brings in absolute banality,
+a fragmented part of the outer-ordinary, which disturbs the harmony of this manifestation of the collective unconscious. Schizophrenic material can at once be recognized, for fragments of intellectual banalities are inseminated into very important material.
+You could say that in such material there are von Spät fragments,
+that the glass kingdom is broken up and ground in with the collective unconscious material. To say, “I and Naples must provide the world with macaroni” is complete nonsense, but to say, “I am Christ and the
+World Tree” is quite meaningful because in the Self we have a divine source, and every Christian mystic must accept that with a grain of salt. If one could sort out the material, the illness would not be fatal,
+but if one pulls out of it with drugs, without sorting the grains, he falls into a rigid normality typical of the post-psychotic state. People become rigid, normal and highly intellectual. They totally condemn
+
+everything they had experienced, saying that they do not want to talk about it. They repress it and carry on in the rigid normality of established reason, which is generally the standard of the collective conscious and intellectually something very cheap. In both cases two things are lacking: first, the possibility of realizing the reality of the psyche, for the schizophrenic when he is in this state takes the archetypes and the inner world as being completely real, which is why he thinks he is Jesus Christ. But he does not say that with the nuance of the mystic; he means it quite literally, for he will say that he is Jesus
+Christ and therefore is not going to his office tomorrow. This shows that he does not understand it on the level of soul, on the inner place,
+but takes it literally and concretely. In my experience, the greatest fight one has in getting a schizophrenic out is to make him understand the symbolic level of interpretation, for he insists on the thing being concrete, and in that way introduces a strange rationalism and materialism into his madness. He does not see that there is a reality of the psyche. He cannot accept the hypothesis of psychic reality as opposed to outer physical reality. He mixes the two up, which accounts for the nonsense. When such people snap into the von Spät they are rational, but again do not recognize the reality of the psyche.
+The other thing which is lacking is the feeling function, that is, the possibility of assessing values correctly. Jung tells the story of a schizophrenic patient of his who from time to time stopped to listen to something. He had a great difficulty in finding out what she was doing when she broke off like that, but after a long time she confessed that at such times she was telephoning to the Virgin Mary—just quickly getting her opinion! At such times the patient was inaccessible because there was someone else on the line, so to speak! Now if you had a mystical experience of the Virgin Mary, you would be completely overwhelmed. People who have had such inner experiences remain shaken for days afterward. This is a usual reaction to an overwhelming religious experience, but it is typical for a schizophrenic to say, “Hullo!
+Oh yes! The Virgin Mary? Okay,” so that either you believe nothing of it, or you are horribly shocked. In that case the values are lacking. If people are raving, everything is said in the same tone, whether they are Jesus Christ or delivering macaroni. The cheapest banalities and the deepest religious material are interspersed without evaluation
+That is why the story of Amor and Psyche is very meaningful.
+Psyche, like Cinderella, must discriminate between the different grains,
+separating the good from the bad; it is a function of the psyche to
+
+discriminate values. If the anima is lost, feeling is lost, and that happens often in schizophrenia. As soon as feeling has gone and contact with the anima in a man has gone, then there is this picture.
+When many people get into such a state, there is a mass psychosis as we have already had and may possibly have again.
+Now Li is caught in the ice and finds himself among the ghosts of the dead. He sees his dead father,
+Henriette Karlsen, and Otto von Lobe once more. He feels cold and lost and does not know where he is and wanders about, and we see that he is slowly moving back again to the north and to the ice pole of von Spät. (You know that von Spät is associated with ice and the north and that when the wind blows southward Fo is approaching. Here naturally the cold belongs to the land of the dead.)
+He sees a horse and a white bird and Fo beside him, and says to Fo, “Now let’s go.” They jump onto a black horse and ride off, but part of him feels doubtful and cheated—something is uncanny—but
+Fo hurries him on and they get into a boat. In the same moment, with no preceding dawn, the sun rises and Li looks into the eyes of the steersman and sees von Spät. He gives a cry and everything goes dark.
+Von Spät had taken on the appearance of Fo and tricked him into the boat. It is again an enantiodromia, but this time one factor comes near consciousness, namely, that von Spät and Fo are two aspects of the same thing—each is secretly the other. This is something one always finds in extreme psychological opposites, for at the turning point the two are one. It is the Tai-gi-tu of Chinese philosophy: the germ of the opposite is always in the black or in the white.
+The next chapter is called “The Return.” It opens in a lunatic asylum where people walk up and down in the garden.
+One of the women has the beard of her late husband in a glass frame, and she asks the warden and everybody else to bring him back to life. Among the madmen is a sad-looking old man whom we can recognize as Melchior. (When he went into the boat,
+Melchior probably died and in a reincarnation arrived in a lunatic asylum. There is a description of the way the people in the asylum sing and fight with
+
+each other, all of which we have to skip.) Another old man, a bald-headed paranoiac, walks up to Melchior and says, “Listen quietly to me for once. We must not continue to misunderstand each other. Why do you always spy on me? That is senseless!”
+“I don’t,” says the other.
+“Yes, you do, I know you do, I can feel it. You have done so from the first day you came here, but let’s not speak of that. I am the Emperor, as you know, but I don’t want to be acknowledged as such. I live in a thousand forms, but you knew me at once. I also know who you are. You are a great man, a great
+Master. I will not mention names but I know you.
+Why should we live with enmity? We could unite.
+Let’s divide up—you take the south and I will take the northern part of the earth (the two poles). I am even ready to give you a part of my share, for I will admit that in the south people are less intelligent, but that part is easier to rule. Let us join up! I will accept any proposition you care to make. Or, perhaps, you would like the north? Take it!I will take the south. I don’t mind! The south is quite enough for me; that doesn’t matter. The main thing is that you don’t persecute me any more! Let’s unite! It is a high time,
+for otherwise everything will grow over our heads.
+We must destroy mankind before there are too many,
+and we must do it quickly before they notice anything, for otherwise they will stop us. We want to bring Paradise on earth again, for the world has become too ugly. We will save a few women so that by them we can generate new human beings. But be careful, for God’s sake! Tell nobody! We must keep it all a secret. Will you do it?”
+He stretches out his hand, but the other old man,
+Melchior, answers, “I don’t know what you mean!
+The bald-headed man says, “Don’t you want to do it? Do you want it all for yourself? As! Now I know!
+You want to kill me! But look out for yourself! I am watching! I know! I know!” He looks round everywhere and sees in the distance a white figure
+
+and runs away screaming.
+The white figure, who is the doctor, approaches
+Melchior and asks how he is. Melchior asks to be set free. The doctor answers that he knows he is completely cured, that the wonderful chemical experiments he has performed there fully establish that. “And I shall not try to rid of you of your fixed idea that you are the Dr. Melchior von Lindenhuis of
+Schimmelberg who disappeared a hundred years ago.
+I think it is impossible to get you away from that idea, but the wild fantasies you had a year ago when you were found in a boat drifting about on the open sea have left you. However, you still cannot remember your real name, so in order to make it easy for you with the authorities I will request that you may be allowed to use that name, and then you can continue your courses at the University and live a normal life again.”
+Three days later Melchior is set free.
+This is a fatal turn, because, as you see, though veiled with madness, the other half—the shadow, the bald-headed old man—has tried to unite the opposites. It is a last-minute attempt in the lunatic asylum to unite them, to bring together the two sides
+—the southern and the northern half of the world, Fo and von Spät—to recognize the opposites and realize that they are two aspects of one and the same thing.
+But then it is mixed up with megalomanic ideas of destroying the whole world and creating a new race.
+As you know, the Herrenrasse was one of the fantasies of the Nazi regime: all other people were to be destroyed quickly because of overpopulation (a part of the trouble that we are in at present) and a new race created. The proposition of the bald-headed man shows a strange mixture of constructive tendencies (the union of the opposites) and of megalomanic destructive fantasies. The union of the opposites does not succeed, and Melchior regressed into rational normality once more. If we relate it to the author, he must have been near complete
+
+madness, in which he could have realized the problem of the opposites, but instead he switches into the one-sidedness of his conscious standpoint. So
+Melchior is released from the asylum, because a professor at the University, and is once more successful in a boring way, just as at the beginning of the book.
+One afternoon on his way home, he sees a young man in the street who has the typical beauty of the
+Ephebi and whose whole appearance attracts him. He hurries, and as he passes looks at the man and then lifts his hat and introduces himself. The young man looks astonished but he says he is Walter Mahr (the
+“Mar”, that is, nightmare, and “mare,” the female horse). Lindenhuis explains that he had the impression that he had seen him somewhere before,
+but the young man replies that he does know know how that could be, that he was born and grew up in that town from which he has never been away, and that Lindenhuis has only lived there for three years.
+But they are now standing at the door of
+Lindenhuis’s flat, and he begs the young man to come in for a few minutes. There, Mahr confesses that as a boy he had often dream of a face like Melchior’s,
+though much younger. “Yes,” Melchior interrupts,
+“one dreams many things, and I may well have dreamed of you.”
+”I dreamed,” Mahr continues, “that the face looked in at the window and called me, and the voice was also like yours. And once, another sat on the edge of my bed and said I should follow him and let myself be crucified.”
+Melchior’s excitement grows as Mahr talks, and he says everything has become confused to him and that he cannot remember. He mutters to himself about that the cross and streaming blood, and then tries to fire Mahr with the idea or their going off together.
+Mahr looks at him and then seizes his hand and kisses it and says he will come. Lindenhuis tell him to go now but to come again the next day and to get
+
+ready to wander.
+When Mahr has gone, Melchior sits thinking for a while. Then he undresses and looks in the mirror at the young beauty of his body and wonders what his bald head is doing on such a body. Then he dresses again and sits down at his desk to write, but it occurs to him that there is no sense in doing that work any more. For the first time he goes out into the street and into a coffee house, where he meets a friend. They talk of the fête being held in commemoration of the big revolution a hundred years ago in
+Stuhlbrestenburg, of the scenes in the street and the killing of the king in the theater. Melchior interrupts,
+saying he is tired and must go home. In the street he thinks he hears steps. The streets, the lamps, the heavens and the stars, all seem strange, and again he hears steps keeping pace with his own. Without noticing it he breaks into a song in which he is joined by an invisible choir. The singing gets louder; pipes,
+drums and cymbals play a march, and he sees himself entering a city all lit up and he himself is riding a white horse. At the windows and on the balconies of the palace are veiled women and girls, and as he reaches the middle of the square they let their veils fall and stand there naked, throwing roses. A door opens before Melchior, boys hold the bridle of the horse, and Melchior gets down—and finds himself in an empty street standing in front of his own door.
+He cannot take another step; his knees give way and he falls down. Lying in the snow, he cries until he cannot cry any more. After a while he gets up and goes up the steps to the house door, but as he puts the key in the door, he shrinks back; it is as though the door were warning him. He hesitates and thinks of going back to the coffee house to wait there for the morning, but when he remembers all the empty streets and his tiredness he cannot, so he overcomes his horror. On the stair he stands in the dark,
+listening, and before his own door he almost turns away again—it seems so strange and frightening. In
+
+his flat he hurries to his room, strikes a light, and lets the match fall, feeling that a stranger is there. He then clearly hears the breathing of the sleeper and thinks he recognizes it. At last he lights a candle. In the armchair he sees a sleeping man with fair, wavy locks. Melchior looks at the sleeper and recognizes von Spät. At that moment the fog in his memory departs him and he remembers everything that happened.
+“Now,” he thinks, “now I have him in my power,
+now I am the master. I am awake and he believes me to be powerless. I shall call the boys and they will tie him up.” He looks at von Spät and sees the morbid,
+divine face, which still fascinates him, but he shakes off the temptation and cries out, “I want to go away!”
+Nothing happens. He raises his arm and cries again, “I want to go away!” But still there is silence and nobody comes. For a third time he cries out, but it is useless. He lets his arms drop and knows that he is alone, that the boys are in the power of the strangers.
+“It is all over,” thinks Melchior, and feels terribly tired. He looks at Ulrich again, who is still sleeping.
+He is afraid to look at his eyes and hears him speak.
+Carefully, without undressing, he lies down on his bed and immediately falls asleep.
+He dreams that the glass men have overcome everything and that the boys are destroyed. It is a long dream. At the end of it he hears his name called and comes face to face with Ulrich. He draws a knife and dashes at him, and like a flash carves across his breast. Ulrich cries out, “Melchior!” Melchior wakes up and sees Ulrich standing there, a lighted candle in his hand. It is still night.
+“The world is mine,” says Ulrich. “It was useless to call the boys. They could not hear you. They are only reflections in a mirror.”
+“I do not belong to you!” cries Melchior. “My will is my own!”
+“I will break it, as I have broken others,” says
+
+Ulrich calmly. “Come with me, and I will show you the last act.”
+“The game never ends,” says Melchior.
+“Come with me,” repeats Ulrich, “and look!”
+Out on the street the snowstorm has intensified.
+They walk for over an hour, the snow blowing in their faces. At last they come to a dark alley and a dilapidated house where an oil lantern burns. Ulrich halts. Over the entrance are the words: “World Stage
+Radium.”
+“We have arrived,” says Ulrich, who had not spoken all the way, and he knocks with his stick three times on the door. A dwarf looks out. “You are late,”
+he says. “The audience has all gone. Nobody wants to see it, but we are continuing the play to the end. The last act is just about to begin.” He leads them through old passages with cracks in the walls, until they come to a door in the wall through which he begs them enter and enjoy themselves. They sit down and look into the empty auditorium, dark except for an occasional lantern in whose light a couple of forms move about.
+“It’s a good place,” says Ulrich. “One can see the actors from an angle which prevents one from taking the play too tragically.”
+“What does it matter to us? What shall I see here?”
+says Melchior.
+“The last act,” repeats Ulrich.
+A bell rings and the curtain flies up. There on the stage Melchior sees the boys and Mr. von Spät—
+doubled on the stage. Melchior sees the same streets and that he had seen in a dream an hour or two before, the transparent inhabitants, and the immovable faces. And this time he knows who they are, for he recognizes the boys.
+Ulrich gets up and then sits down on a rather higher chair behind Melchior. He pulls out some large opera glasses and, supporting his elbows on
+Melchior’s shoulders, looks at the stage over
+Melchior’s head. The boys dance round Ulrich’s
+
+mirrored form, singing, “Time sinks away, Space vanishes, Gestalt disappears.” It is Fo’s voice.
+Melchior starts to jump up but Ulrich’s elbows press heavily on his shoulders and hold him down. The dancing boys separate into pairs. An immense gateway rises up in the background. The last smile is stiffening on the boys’ lips, their eyes are shut in deep sleep, and the eyes of Ulrich’s double also close slowly.
+Melchior feels the pressure of Ulrich’s elbows lessen. He turns and sees that he has fallen asleep. He shakes off his elbows and forces away the sleep he feels creeping over him. Strange words pour from his lips and re-echo in the place.
+Then he sees a new figure on the stage and recognizes himself. He sees the figure hurry to Fo and shake him, and sees how Fo slowly opens his eyes and springs up. He hears himself cry, “He is asleep!
+Now is the time!” They dash at Ulrich’s image with shining knives. At the same instant Ulrich falls lifeless to the ground. Melchior sees himself on the stage with Fo and sees how they hurry away.
+The wind seizes Melchior and carries him.
+Snowflakes fall on his face, a pale light is dawning.
+He is along on the snowy streets. Gradually the snowstorm diminishes, and the sun tries to break through the clouds. Melchior feels his strength leaving him. He is so weak he can hardly move.
+Powerless, he drops in the snow and looks into the distance.
+“The circles are closing,” he whispers. “Everything is fulfilled. My shadow has freed your shadow. The enemy is destroyed. Where on the wide earth are you? Beyond the great seas which divide us I hear your voice. Day and night, night and day, you wander over the plains and climb the high mountains. Golden ships with red sails carry you across the sea. Swarms of birds surround your head.
+Over wild roads you come nearer and nearer. In time it will be morning, and you will appear before me
+
+naked and glowing, stars in your hair, and your cool lips will kiss my beating heart. The earth will no longer be dumb. Your words will call to all life, your breath come from everybody, your love blossom from every heart. The cross will be raised. The newly risen will shed their blood into the veins of the world and will transform from one form into another. They new play begins. Grapes darken and await you. See, how we rest, breathing in happiness. Everything is still.
+Come to us in foliage of night in naked conflagration,
+young flame, singing flame, Master and Child.”
+At the end of this hymn like prayer he gets up and stretches his limbs. Stumbling through the snow, he thinks he sees a drop of blood against the white. He looks closer and sees it is a rose leaf. A few steps further on is another and another; the whole way is strewn with them, and in the snow is the trace of delicate bare feet. He follows the tracks, which lead higher and higher. The fog thickens round him and the earth disappears. Everything is white and grows whiter and whiter; only the rose leaves glow, blood red, and draw him on. Far ahead in the fog he sees the back of a figure. His weakness disappears. He feels nothing and knows nothing but the form in front of him. The sun comes out. The fog suddenly lifts. On a peak stands Fo in a glow of light, roses in his hair, his flaming arms wide.
+The tired wanderer falls on his knees. “The kingdom!” he stammers. “The kingdom without space!” and dies.
+Again there was an enantiodromia. First Von Spät had won by taking
+Melchior in the boat, and then a hundred years later Melchior is in the lunatic asylum (because as soon as you are in the kingdom of intellectual reason, anything experienced at the opposite end, in Fo’s realm—seems to be sheer madness). Melchior escapes from the asylum, and on the stage, when they stab von Spät, Fo wins again, this time in this world. Fo remain victorious: he find the kingdom at last,
+but he leaves his body behind. Von Spät gets the body. He himself is a dead old man, which means that the problem is not solved but it is again postponed, because if a solution is described as taking place after
+
+death, it means that the conscious means for realization have not yet been found in this reality. That is why in Christianity victory over evil and the union of the opposites is projected into the time after the Day of Judgement. Paradise comes after death. In Faust, Faust finds redemption after death, and in The Kingdom Without Space the solution is again projected into the afterlife. Here it is clear that the bridge to realization has not been found because in the fight the reality of the psyche is not realized. It is all fought in the projection—intellect against the archaic reality of the unconscious—but having no name for it and not seeing its reality, the author mixes psychic reality with concrete reality.
+This is also the ominous background of our present-day problem, in connection with which I would like to quote saying Rabelais to which
+Jung drew my attention: La verité dans sa matière brute est plus fausse que la faux (Truth in its prima materia, in its first appearance, is falser than falseness itself.) And that is very true of what we have just experienced. But in spite of it all, these are attempts to bring forth a new creative religious attitude and also a renewal of cultural creativity
+— which can only manifest in a psychological and individual form.
+The trouble is that it comes up with such a disgustingly false political twist that it is more false than falseness itself. In spite of this, however,
+we must turn toward it and discriminate the seeds in it. Otherwise we are stuck, forever building light, “rosy-colored” buildings upon burntout ruins.
+
