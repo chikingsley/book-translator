@@ -121,11 +121,16 @@ A "1919 First Edition" version of the translation has been created documenting t
 
 | File | Description |
 |------|-------------|
-| `Das Reich ohne Raum -- English.md` | Complete English translation (18 chapters, 1962 structure) |
-| `Das Reich ohne Raum -- English (1919 First Edition).md` | First edition structure template (15 chapters) |
-| `Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md` | German source text (1962 third edition) |
-| `von-franz-das-reich-clean.md` | Von Franz lectures (reference) |
-| `BIBLIOGRAPHIC-NOTES.md` | This file |
+| `editions/reich-ohne-raum.de.1919-first-edition.md` | German 1919 witness (15-chapter structure, no foreword/commentary) |
+| `editions/reich-ohne-raum.en.1919-first-edition.canonical.md` | English 1919 canonical translation (15-chapter structure) |
+| `editions/reich-ohne-raum.de.1962-third-edition.full.md` | German 1962 witness (includes foreword + von Franz commentary) |
+| `editions/reich-ohne-raum.en.1962-third-edition.canonical.md` | English 1962 canonical working translation |
+| `editions/reich-ohne-raum.en.1962-third-edition.readable.md` | Readable-literary derivative working file |
+| `sources/reich-ohne-raum.de.1962-humancheck.md` | Legacy German working file (source for 1962 witness normalization) |
+| `sources/reich-ohne-raum.en.legacy-working.md` | Legacy English working file (source for 1962 canonical snapshot) |
+| `references/von-franz-das-reich-clean.md` | Von Franz lectures (reference) |
+| `docs/bibliographic-notes.md` | This file |
+| `docs/version-matrix.md` | Canonical edition map and completion status |
 
 ---
 

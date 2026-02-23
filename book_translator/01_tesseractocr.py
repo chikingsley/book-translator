@@ -15,7 +15,7 @@ from typing import Any, cast
 import pymupdf
 
 # ============== CONFIGURATION ==============
-PDF_PATH = "../test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+PDF_PATH = "../test-book-pdfs/sources/reich-ohne-raum.de.source.pdf"
 TESSERACT_LANGUAGE = "deu"
 # ==========================================
 

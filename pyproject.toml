@@ -12,42 +12,54 @@ members = [
 
 [project]
 name = "book-translator"
-version = "0.1.0"
-description = "Extract text from PDF books chapter by chapter using Gemini 2.5 Flash"
+version = "0.2.0"
+description = "Composable OCR + translation backend for long-form book workflows"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "google-genai>=1.0",
-    "python-dotenv>=1.0.0",
-    "rich>=13.0.0",
-    "pypandoc>=1.13",
+    "google-genai>=1.26.0",
+    "python-dotenv>=1.1.1",
     "pydantic>=2.11.7",
     "pymupdf>=1.26.3",
     "mistralai>=1.9.2",
     "requests>=2.32.4",
     "aiohttp>=3.12.14",
-    "cerebras-cloud-sdk>=1.35.0",
-    "transformers>=4.53.3",
-    "tqdm>=4.67.1",
-    "alive-progress>=3.3.0",
-    "torch>=2.0.0",
-    "pillow>=10.0.0",
-    "accelerate>=1.9.0",
+    "pypandoc>=1.15",
 ]
 
-[tool.pyright]
-typeCheckingMode = "strict"
-
-
-
 [project.scripts]
-book-translator = "book_translator.book_processor:main"
+book-translator = "book_translator.cli:main"
 create-ebook = "book_translator.create_ebook:main"
 
 [dependency-groups]
 dev = [
-    "pyright>=1.1.403",
     "ruff>=0.12.4",
-    "types-Pillow>=10.0.0",
+    "ty>=0.0.17",
+    "pytest>=8.4.1",
+    "types-requests>=2.32.4.20250611",
     "pymupdf-stubs>=1.0.0",
+]
+
+[tool.ty.environment]
+root = ["."]
+
+[tool.ty.src]
+respect-ignore-files = true
+include = [
+    "book_translator/__init__.py",
+    "book_translator/chaptering.py",
+    "book_translator/cli.py",
+    "book_translator/create_ebook.py",
+    "book_translator/judging.py",
+    "book_translator/models.py",
+    "book_translator/ocr_backends.py",
+    "book_translator/pipeline.py",
+    "book_translator/reconciliation.py",
+    "book_translator/translation_backends.py",
+    "tests/**/*.py",
+]
+exclude = [
+    "book_translator/archive/**",
+    "book_translator/tests/**",
+    "book_translator/0*.py",
 ]

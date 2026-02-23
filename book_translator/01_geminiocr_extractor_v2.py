@@ -17,7 +17,7 @@ from google import genai
 PROCESS_FULL_PDF = True
 START_PAGE = 4
 END_PAGE = 5
-PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+PDF_PATH = "test-book-pdfs/sources/reich-ohne-raum.de.source.pdf"
 # ==========================================
 
 

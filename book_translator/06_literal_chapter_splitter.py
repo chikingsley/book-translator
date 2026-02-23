@@ -14,8 +14,8 @@ from cerebras.cloud.sdk import Cerebras
 from dotenv import load_dotenv
 from google import genai
 
-TOC_FILE = "test-book-pdfs/toc-list.json"
-INPUT_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md"
+TOC_FILE = "test-book-pdfs/sources/reich-ohne-raum.toc-list.json"
+INPUT_FILE = "test-book-pdfs/sources/reich-ohne-raum.de.1962-humancheck.md"
 OUTPUT_DIR = "test-book-pdfs/chapters_literal"
 
 

@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 # ============== CONFIGURATION ==============
-INPUT_FILE = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md"
+INPUT_FILE = "test-book-pdfs/sources/reich-ohne-raum.de.1962-humancheck.md"
 OUTPUT_DIR = "test-book-pdfs/test-chapters"
 # ==========================================
 

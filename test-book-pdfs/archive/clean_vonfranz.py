@@ -1,6 +1,7 @@
 """Clean up von Franz text - remove page numbers, headers, fix formatting."""
 
 import re
+from pathlib import Path
 
 def clean_text(input_path: str, output_path: str) -> None:
     """Clean up the von Franz extracted text."""
@@ -64,6 +65,7 @@ def clean_text(input_path: str, output_path: str) -> None:
 
 
 if __name__ == '__main__':
-    input_file = '/Users/chiejimofor/Documents/Github/book-translator/test-book-pdfs/von-franz-das-reich-analysis.txt'
-    output_file = '/Users/chiejimofor/Documents/Github/book-translator/test-book-pdfs/von-franz-das-reich-clean.md'
-    clean_text(input_file, output_file)
+    base_dir = Path(__file__).resolve().parents[1]
+    input_file = base_dir / 'archive' / 'von-franz-das-reich-analysis.txt'
+    output_file = base_dir / 'references' / 'von-franz-das-reich-clean.md'
+    clean_text(str(input_file), str(output_file))

@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 from mistralai import Mistral
 
 # ============== CONFIGURATION ==============
-PDF_PATH = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+PDF_PATH = "test-book-pdfs/sources/reich-ohne-raum.de.source.pdf"
 # ==========================================
 
 

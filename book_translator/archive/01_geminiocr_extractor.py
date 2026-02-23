@@ -22,7 +22,7 @@ def save_markdown(content: str, output_path: str) -> None:
 
 def main() -> None:
     """Process PDF with Gemini OCR."""
-    pdf_path = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+    pdf_path = "test-book-pdfs/sources/reich-ohne-raum.de.source.pdf"
     load_dotenv()
 
     if not os.path.exists(pdf_path):

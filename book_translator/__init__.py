@@ -1,4 +1,5 @@
-"""Book Translator - OCR and translate books chapter by chapter using Gemini 2.5 Flash."""
+"""Composable backend for OCR + translation pipeline runs."""
 
-__version__ = "0.1.0"
-__all__ = []
+__version__ = "0.2.0"
+
+__all__ = ["__version__"]

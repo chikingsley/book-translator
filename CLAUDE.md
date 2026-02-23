@@ -26,10 +26,11 @@ Create a faithful, **literal** English translation of Bruno Goetz's *Das Reich o
 
 | File | Description |
 |------|-------------|
-| `test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md` | German source (verified) |
-| `test-book-pdfs/Das Reich ohne Raum -- English.md` | English translation (in progress) |
-| `test-book-pdfs/von-franz-das-reich-clean.md` | von Franz's English retelling (reference) |
-| `test-book-pdfs/von-franz-das-reich-analysis.txt` | Raw extracted text from von Franz lectures |
+| `test-book-pdfs/sources/reich-ohne-raum.de.1962-humancheck.md` | German source (verified) |
+| `test-book-pdfs/editions/reich-ohne-raum.en.1962-third-edition.canonical.md` | English 1962 canonical translation |
+| `test-book-pdfs/sources/reich-ohne-raum.en.legacy-working.md` | Legacy English working alias |
+| `test-book-pdfs/references/von-franz-das-reich-clean.md` | von Franz's English retelling (reference) |
+| `test-book-pdfs/archive/von-franz-das-reich-analysis.txt` | Raw extracted text from von Franz lectures |
 
 ## Book Structure
 

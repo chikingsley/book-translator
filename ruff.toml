@@ -26,6 +26,9 @@ exclude = [
     "site-packages",
     "venv",
     "tests",
+    "book_translator/archive",
+    "book_translator/tests",
+    "test-book-pdfs",
 ]
 line-length = 100
 indent-width = 4
@@ -57,8 +60,10 @@ select = [
 ]
 ignore = [
     "C901",
+    "D102",
     "D203",
     "D213",
+    "D107",
     "E501",
     "N806",
     "N812",

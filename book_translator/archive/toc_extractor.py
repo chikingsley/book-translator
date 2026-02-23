@@ -97,7 +97,7 @@ def save_toc(toc: list[dict[str, Any]], output_path: str | None = None, output_f
 
 def main() -> None:
     """Extract TOC from PDF."""
-    pdf_path = "test-book-pdfs/Das Reich ohne Raum -- Bruno Goetz.pdf"
+    pdf_path = "test-book-pdfs/sources/reich-ohne-raum.de.source.pdf"
     output_path = "test-book-pdfs/toc.json"
     output_format = "json"
 

@@ -62,7 +62,7 @@ def extract_citations(file_path: Path) -> list[tuple[int, str, str]]:
 def main() -> None:
     """Extract citations from humancheck markdown file."""
     # Hardcoded paths
-    input_file = Path("../test-book-pdfs/archive/Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md")
+    input_file = Path("../test-book-pdfs/sources/reich-ohne-raum.de.1962-humancheck.md")
     output_file = Path("../test-book-pdfs/archive/Das Reich ohne Raum -- Bruno Goetz-citations.md")
 
     if not input_file.exists():

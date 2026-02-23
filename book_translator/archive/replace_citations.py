@@ -59,7 +59,7 @@ def main():
     # File paths
     base_dir = Path(__file__).parent.parent
     modernized_file = base_dir / "test-book-pdfs" / "archive" / "Das Reich ohne Raum -- Bruno Goetz-modernized_citations.md"
-    humancheck_file = base_dir / "test-book-pdfs" / "archive" / "Das Reich ohne Raum -- Bruno Goetz-humancheck-1.md"
+    humancheck_file = base_dir / "test-book-pdfs" / "sources" / "reich-ohne-raum.de.1962-humancheck.md"
 
     print("Loading modernized citations...")
     citations = load_modernized_citations(modernized_file)
